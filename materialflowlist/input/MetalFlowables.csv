@@ -1,0 +1,24 @@
+﻿Flowable,Unit
+metal,kg
+mixed metals,kg
+other metals,kg
+remainder/composite,kg
+ferrous,kg
+general ferrous packaging,kg
+durable ferrous goods,kg
+non-ferrous,kg
+general non-ferrous packaging,kg
+durable non-ferrous goods,kg
+aluminum,kg
+aluminum electronics,kg
+aluminum cans,kg
+"other aluminum packaging - foil, closures, trays",kg
+general aluminum packaging,kg
+durable aluminum goods,kg
+nondurable aluminum goods,kg
+copper,kg
+copper electronics,kg
+copper wire,kg
+steel,kg
+steel cans,kg
+other steel packaging,kg
