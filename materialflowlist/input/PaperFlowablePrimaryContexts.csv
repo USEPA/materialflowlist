@@ -1,0 +1,33 @@
+﻿Flowable,PrimaryContext
+paper,material
+mixed paper,product
+other miscellaneous paper,product
+other remainder/composite paper,product
+compostable miscellaneous paper,product
+compostable remainder/composite paper,product
+office paper,product
+residential paper,product
+white ledger paper,product
+other paper packaging,product
+nonpackaging paper,product
+printing paper,product
+wrapping paper,product
+paper bags,product
+tissue paper and paper towels,product
+paper plates and cups,product
+mail,product
+other nondurable paper goods,product
+books and magazines,product
+books,product
+magazines and catalogs,product
+magazines,product
+newspaper,product
+phone books and directories,product
+directories,product
+phone books,product
+textbooks,product
+paper and paperboard,material
+gable top/aseptic cartons,product
+folding cartons,product
+corrugated cardboard,material
+uncoated corrugated cardboard,product
