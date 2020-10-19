@@ -6,7 +6,7 @@ As a pandas dataframe from input files. Write it to the output folder.
 
 import pandas as pd
 from materialflowlist.globals import log, inputpath, outputpath, flow_list_specs, flow_list_fields, as_path
-from materialflowlist.contexts import all_contexts
+from materialflowlist.contexts import all_contexts, contexts
 from fedelemflowlist.uuid_generators import make_uuid
 
 #altunits_data_types = {'Conversion Factor': flow_list_fields['AltUnitConversionFactor'][0]['dtype']} #AltUnitConversionFactor
@@ -26,19 +26,12 @@ def read_in_flowclass_file(flowclass, flowclasstype):
     flowclassfile = flowclassfile.dropna(axis=0, how='all')
     return flowclassfile
 
-
-def import_secondary_context_membership():
-    """Add docstring."""
-    log.info('Read in secondary context membership')
-    SecondaryContextMembership = pd.read_csv(inputpath + 'SecondaryContextMembership.csv')
-    return SecondaryContextMembership
-
-
 if __name__ == '__main__':
 
     flowables = pd.DataFrame()
-    flowables_w_primary_contexts = pd.DataFrame()
-    primary_contexts = pd.DataFrame()
+    flows = pd.DataFrame()
+    #flowables_w_primary_contexts = pd.DataFrame()
+    #primary_contexts = pd.DataFrame()
 
     # Loop through flow class specific files based on those classes specified in flowlistspecs
     for t in flow_list_specs["flow_classes"]:
@@ -52,11 +45,11 @@ if __name__ == '__main__':
         flowables = pd.concat([flowables, flowables_for_class], ignore_index=True, sort=False)
         class_primary_contexts = read_in_flowclass_file(t, 'FlowablePrimaryContexts')
         flowables_for_class = flowables_for_class.drop_duplicates()
-        log.info('Import ' + str(len(class_primary_contexts)) + ' flowable primary contexts for class ' + t)
+        log.info('Import ' + str(len(class_primary_contexts)) + ' flowable contexts for class ' + t)
         class_primary_contexts = class_primary_contexts.dropna(axis=0, how='all')
 
         # merge in flowables and flowable primary contexts
-        class_flowables_w_primary_contexts = pd.merge(flowables_for_class, class_primary_contexts)
+        class_flowables_w_primary_contexts = pd.merge(flowables_for_class, class_primary_contexts, on=['Flowable'], how='left')
         # Add in Alt units
         try:
             altunits_for_class = read_in_flowclass_file(t, 'FlowableAltUnits')
@@ -76,11 +69,17 @@ if __name__ == '__main__':
             altunits_for_class = None  # Do nothing
         log.info('Create ' + str(len(class_flowables_w_primary_contexts)) +
                  ' flows with primary context for class ' + t)
-        flowables_w_primary_contexts = pd.concat([flowables_w_primary_contexts,
-                                                  class_flowables_w_primary_contexts],
-                                                 ignore_index=True, sort=False)
-    log.info('Total of ' + str(len(flowables_w_primary_contexts)) + ' flows with primary contexts created.')
+        flows = pd.concat([flows, class_flowables_w_primary_contexts])
+    flows = flows.merge(contexts, on=['Class', 'PrimaryContext'], how='inner')
+    log.info('Total of ' + str(len(flows)) + ' flows with contexts created.')
 
+    #Write to csv
+    flows.to_csv(outputpath+'MaterialFlowList'+flow_list_specs['list_version']+'_draft.csv', index=False)
+    log.info('CSV version in ' + 'output/MaterialFlowListMaster_draft.csv')
+
+
+
+    """
     # Read in flowable context membership
     SecondaryContextMembership = import_secondary_context_membership()
 
@@ -98,12 +97,14 @@ if __name__ == '__main__':
                                                               'Primary_Context_Path': primary_context_path,
                                                               'Pattern': pattern_w_primary},
                                                              ignore_index=True)
+    """
 
+"""
     # Cycle through these class context patterns and get context_paths
     log.info('Getting relevant contexts for each class ...')
-    field_to_keep = ['Class', 'PrimaryContext']
+    field_to_keep = ['Class', 'PrimaryContext', 'SecondaryContext']
     class_contexts_list = []
-    for index, row in context_patterns_used.iterrows():
+    for index, row in contexts.iterrows():
         class_context_patterns_row = row[field_to_keep]
         # Get the contexts specific to this class by matching the Pattern and Primary_Context_Path
         contexts_df = all_contexts[(all_contexts['Pattern'] == row['Pattern']) & (
@@ -166,3 +167,5 @@ if __name__ == '__main__':
     #Write to csv
     flows.to_csv(outputpath+'MaterialFlowList'+flow_list_specs['list_version']+'_all.csv', index=False)
     log.info('CSV version in ' + 'output/MaterialFlowListMaster_all.csv')
+    
+"""

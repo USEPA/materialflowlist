@@ -13,7 +13,8 @@ contexts = pd.read_csv(inputpath + 'Contexts.csv', na_values='N/A')
 # Get levels for max number of compartment classes
 max_compartment_classes = len(contexts.columns)
 # Define compartment_classes
-compartment_classes = flow_list_specs['primary_context_classes'] +\
+compartment_classes = flow_list_specs['flow_classes'] +\
+                      flow_list_specs['primary_context_classes'] +\
                       flow_list_specs['secondary_context_classes']
 
 # Create dictionary of context levels
@@ -49,3 +50,4 @@ for r in context_list_na_removed:
 # Write the context paths and patterns to a dictionary, then df
 d = {'Context': context_paths, 'Pattern': context_patterns}
 all_contexts = pd.DataFrame(data=d)
+all_contexts

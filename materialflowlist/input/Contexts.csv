@@ -1,11 +1,11 @@
 Class,PrimaryContext,SecondaryContext
-Paper,material,material
 Metal,material,material
 Metal,product,ferrous
 Metal,product,non-ferrous
 Metal,product,aluminum
 Metal,product,copper
 Metal,product,steel
+Paper,material,material
 Paper,product,paper
-Paper,product,paper and paperboard
+Paper,product,paperboard
 Paper,product,corrugated
