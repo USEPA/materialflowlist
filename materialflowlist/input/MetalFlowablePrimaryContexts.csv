@@ -4,21 +4,10 @@ mixed metals,material
 other metals,material
 remainder/composite,material
 ferrous,material
-general ferrous packaging,product
-durable ferrous goods,product
-non-ferrous,material
-general non-ferrous packaging,product
-durable non-ferrous goods,product
-aluminum,material
-aluminum electronics,product
-aluminum cans,product
-"other aluminum packaging - foil, closures, trays",product
-general aluminum packaging,product
-durable aluminum goods,product
-nondurable aluminum goods,product
-copper,material
-copper electronics,product
-copper wire,product
-steel,material
-steel cans,product
-other steel packaging,product
+general packaging,product
+durable goods,product
+electronics,product
+cans,product
+other packaging,product
+nondurable goods,product
+wire,product
