@@ -1,83 +1,83 @@
-Flowable,Unit,Class,PrimaryContext,SecondaryContext
-metal,kg,Metal,material,material
-mixed metals,kg,Metal,material,material
-other metals,kg,Metal,material,material
-remainder/composite,kg,Metal,material,material
-ferrous,kg,Metal,material,material
-general packaging,kg,Metal,product,ferrous
-general packaging,kg,Metal,product,non-ferrous
-general packaging,kg,Metal,product,aluminum
-general packaging,kg,Metal,product,copper
-general packaging,kg,Metal,product,steel
-durable goods,kg,Metal,product,ferrous
-durable goods,kg,Metal,product,non-ferrous
-durable goods,kg,Metal,product,aluminum
-durable goods,kg,Metal,product,copper
-durable goods,kg,Metal,product,steel
-electronics,kg,Metal,product,ferrous
-electronics,kg,Metal,product,non-ferrous
-electronics,kg,Metal,product,aluminum
-electronics,kg,Metal,product,copper
-electronics,kg,Metal,product,steel
-cans,kg,Metal,product,ferrous
-cans,kg,Metal,product,non-ferrous
-cans,kg,Metal,product,aluminum
-cans,kg,Metal,product,copper
-cans,kg,Metal,product,steel
-other packaging,kg,Metal,product,ferrous
-other packaging,kg,Metal,product,non-ferrous
-other packaging,kg,Metal,product,aluminum
-other packaging,kg,Metal,product,copper
-other packaging,kg,Metal,product,steel
-nondurable goods,kg,Metal,product,ferrous
-nondurable goods,kg,Metal,product,non-ferrous
-nondurable goods,kg,Metal,product,aluminum
-nondurable goods,kg,Metal,product,copper
-nondurable goods,kg,Metal,product,steel
-wire,kg,Metal,product,ferrous
-wire,kg,Metal,product,non-ferrous
-wire,kg,Metal,product,aluminum
-wire,kg,Metal,product,copper
-wire,kg,Metal,product,steel
-paper,kg,Paper,material,material
-corrugated cardboard,kg,Paper,material,material
-paperboard,kg,Paper,material,material
-nondurable goods,kg,Paper,product,paper
-nondurable goods,kg,Paper,product,paperboard
-nondurable goods,kg,Paper,product,corrugated
-general packaging,kg,Paper,product,paper
-general packaging,kg,Paper,product,paperboard
-general packaging,kg,Paper,product,corrugated
-other packaging,kg,Paper,product,paper
-other packaging,kg,Paper,product,paperboard
-other packaging,kg,Paper,product,corrugated
-mixed paper products,kg,Paper,product,paper
-mixed paper products,kg,Paper,product,paperboard
-mixed paper products,kg,Paper,product,corrugated
-other miscellaneous,kg,Paper,product,paper
-other miscellaneous,kg,Paper,product,paperboard
-other miscellaneous,kg,Paper,product,corrugated
-miscellaneous compostable,kg,Paper,product,paper
-miscellaneous compostable,kg,Paper,product,paperboard
-miscellaneous compostable,kg,Paper,product,corrugated
-general paper,kg,Paper,product,paper
-general paper,kg,Paper,product,paperboard
-general paper,kg,Paper,product,corrugated
-bags,kg,Paper,product,paper
-bags,kg,Paper,product,paperboard
-bags,kg,Paper,product,corrugated
-books,kg,Paper,product,paper
-books,kg,Paper,product,paperboard
-books,kg,Paper,product,corrugated
-magazines,kg,Paper,product,paper
-magazines,kg,Paper,product,paperboard
-magazines,kg,Paper,product,corrugated
-newspaper,kg,Paper,product,paper
-newspaper,kg,Paper,product,paperboard
-newspaper,kg,Paper,product,corrugated
-aseptic cartons,kg,Paper,product,paper
-aseptic cartons,kg,Paper,product,paperboard
-aseptic cartons,kg,Paper,product,corrugated
-boxes,kg,Paper,product,paper
-boxes,kg,Paper,product,paperboard
-boxes,kg,Paper,product,corrugated
+Flowable,Unit,Class,Context
+metal,kg,Metal,material/material
+mixed metals,kg,Metal,material/material
+other metals,kg,Metal,material/material
+remainder/composite,kg,Metal,material/material
+ferrous,kg,Metal,material/material
+general packaging,kg,Metal,product/ferrous
+general packaging,kg,Metal,product/non-ferrous
+general packaging,kg,Metal,product/aluminum
+general packaging,kg,Metal,product/copper
+general packaging,kg,Metal,product/steel
+durable goods,kg,Metal,product/ferrous
+durable goods,kg,Metal,product/non-ferrous
+durable goods,kg,Metal,product/aluminum
+durable goods,kg,Metal,product/copper
+durable goods,kg,Metal,product/steel
+electronics,kg,Metal,product/ferrous
+electronics,kg,Metal,product/non-ferrous
+electronics,kg,Metal,product/aluminum
+electronics,kg,Metal,product/copper
+electronics,kg,Metal,product/steel
+cans,kg,Metal,product/ferrous
+cans,kg,Metal,product/non-ferrous
+cans,kg,Metal,product/aluminum
+cans,kg,Metal,product/copper
+cans,kg,Metal,product/steel
+other packaging,kg,Metal,product/ferrous
+other packaging,kg,Metal,product/non-ferrous
+other packaging,kg,Metal,product/aluminum
+other packaging,kg,Metal,product/copper
+other packaging,kg,Metal,product/steel
+nondurable goods,kg,Metal,product/ferrous
+nondurable goods,kg,Metal,product/non-ferrous
+nondurable goods,kg,Metal,product/aluminum
+nondurable goods,kg,Metal,product/copper
+nondurable goods,kg,Metal,product/steel
+wire,kg,Metal,product/ferrous
+wire,kg,Metal,product/non-ferrous
+wire,kg,Metal,product/aluminum
+wire,kg,Metal,product/copper
+wire,kg,Metal,product/steel
+paper,kg,Paper,material/material
+corrugated cardboard,kg,Paper,material/material
+paperboard,kg,Paper,material/material
+nondurable goods,kg,Paper,product/paper
+nondurable goods,kg,Paper,product/paperboard
+nondurable goods,kg,Paper,product/corrugated
+general packaging,kg,Paper,product/paper
+general packaging,kg,Paper,product/paperboard
+general packaging,kg,Paper,product/corrugated
+other packaging,kg,Paper,product/paper
+other packaging,kg,Paper,product/paperboard
+other packaging,kg,Paper,product/corrugated
+mixed paper products,kg,Paper,product/paper
+mixed paper products,kg,Paper,product/paperboard
+mixed paper products,kg,Paper,product/corrugated
+other miscellaneous,kg,Paper,product/paper
+other miscellaneous,kg,Paper,product/paperboard
+other miscellaneous,kg,Paper,product/corrugated
+miscellaneous compostable,kg,Paper,product/paper
+miscellaneous compostable,kg,Paper,product/paperboard
+miscellaneous compostable,kg,Paper,product/corrugated
+general paper,kg,Paper,product/paper
+general paper,kg,Paper,product/paperboard
+general paper,kg,Paper,product/corrugated
+bags,kg,Paper,product/paper
+bags,kg,Paper,product/paperboard
+bags,kg,Paper,product/corrugated
+books,kg,Paper,product/paper
+books,kg,Paper,product/paperboard
+books,kg,Paper,product/corrugated
+magazines,kg,Paper,product/paper
+magazines,kg,Paper,product/paperboard
+magazines,kg,Paper,product/corrugated
+newspaper,kg,Paper,product/paper
+newspaper,kg,Paper,product/paperboard
+newspaper,kg,Paper,product/corrugated
+aseptic cartons,kg,Paper,product/paper
+aseptic cartons,kg,Paper,product/paperboard
+aseptic cartons,kg,Paper,product/corrugated
+boxes,kg,Paper,product/paper
+boxes,kg,Paper,product/paperboard
+boxes,kg,Paper,product/corrugated

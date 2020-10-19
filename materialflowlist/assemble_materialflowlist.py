@@ -71,7 +71,12 @@ if __name__ == '__main__':
                  ' flows with primary context for class ' + t)
         flows = pd.concat([flows, class_flowables_w_primary_contexts])
     flows = flows.merge(contexts, on=['Class', 'PrimaryContext'], how='inner')
+
+    flows['Context'] = flows['PrimaryContext'] + "/" + flows['SecondaryContext']
+    flows = flows.drop(columns=['PrimaryContext', 'SecondaryContext'])
+
     log.info('Total of ' + str(len(flows)) + ' flows with contexts created.')
+
 
     #Write to csv
     flows.to_csv(outputpath+'MaterialFlowList'+flow_list_specs['list_version']+'_draft.csv', index=False)
