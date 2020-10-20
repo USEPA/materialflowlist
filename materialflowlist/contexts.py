@@ -15,8 +15,8 @@ max_compartment_classes = len(contexts.columns)
 # Define compartment_classes
 compartment_classes = flow_list_specs['flow_classes'] +\
                       flow_list_specs['primary_context_classes'] +\
-                      flow_list_specs['secondary_context_classes']
-
+                      flow_list_specs['category_context_classes'] + \
+                      flow_list_specs['type_context_classes']
 # Create dictionary of context levels
 context_levels = {}
 counter = 0

@@ -29,7 +29,8 @@ flow_list_specs = {
     "list_version": "0.0.1",
     "flow_classes": ["Metal", "Paper"],
     "primary_context_classes": ["PrimaryContext"],
-    "secondary_context_classes": ["SecondaryContext"]
+    "category_context_classes": ["Category"],
+    "type_context_classes": ["Type"]
 }
 
 def as_path(*args: str) -> str:

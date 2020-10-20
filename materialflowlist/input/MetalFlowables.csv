@@ -1,16 +1,8 @@
 ﻿Flowable,Unit
 metal,kg
-mixed metals,kg
-other metals,kg
-remainder/composite,kg
-ferrous,kg
-aluminum,kg
-copper,kg
-steel,kg
-general packaging,kg
+packaging,kg
 durable goods,kg
 electronics,kg
 cans,kg
-other packaging,kg
 nondurable goods,kg
 wire,kg

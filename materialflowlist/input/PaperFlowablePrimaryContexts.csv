@@ -1,17 +1,19 @@
 ﻿Flowable,PrimaryContext
-paper,material
-paperboard,material
-corrugated cardboard,material
+paper and paperboard,material
 nondurable goods,product
-general packaging,product
-other packaging,product
-mixed paper products,product
-other miscellaneous,product
-miscellaneous compostable,product
-general paper,product
+packaging,product
 bags,product
 books,product
 magazines,product
-newspaper,product
+newspapers,product
 aseptic cartons,product
 boxes,product
+paper and paperboard,waste
+nondurable goods,waste
+packaging,waste
+bags,waste
+books,waste
+magazines,waste
+newspapers,waste
+aseptic cartons,waste
+boxes,waste

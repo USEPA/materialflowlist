@@ -72,8 +72,8 @@ if __name__ == '__main__':
         flows = pd.concat([flows, class_flowables_w_primary_contexts])
     flows = flows.merge(contexts, on=['Class', 'PrimaryContext'], how='inner')
 
-    flows['Context'] = flows['PrimaryContext'] + "/" + flows['SecondaryContext']
-    flows = flows.drop(columns=['PrimaryContext', 'SecondaryContext'])
+    flows['Context'] = flows['PrimaryContext'] + "/" + flows['Category'] + "/" + flows['Type']
+    flows = flows.drop(columns=['PrimaryContext', 'Category', 'Type'])
 
     log.info('Total of ' + str(len(flows)) + ' flows with contexts created.')
 
