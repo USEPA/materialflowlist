@@ -77,11 +77,11 @@ if __name__ == '__main__':
 
     log.info('Total of ' + str(len(flows)) + ' flows with contexts created.')
 
-
+    """
     #Write to csv
     flows.to_csv(outputpath+'MaterialFlowList'+flow_list_specs['list_version']+'_draft.csv', index=False)
     log.info('CSV version in ' + 'output/MaterialFlowListMaster_draft.csv')
-
+    """
 
 
     """
@@ -104,7 +104,7 @@ if __name__ == '__main__':
                                                              ignore_index=True)
     """
 
-"""
+    """
     # Cycle through these class context patterns and get context_paths
     log.info('Getting relevant contexts for each class ...')
     field_to_keep = ['Class', 'PrimaryContext', 'SecondaryContext']
@@ -136,7 +136,7 @@ if __name__ == '__main__':
     # Drop unneeded columns
     cols_to_drop = ['PrimaryContext']
     flows = flows.drop(columns=cols_to_drop)
-
+    """
     # Loop through flows generating UUID for each
     flowids = []
     log.info('Generating unique UUIDs for each flow...')
@@ -171,6 +171,4 @@ if __name__ == '__main__':
 
     #Write to csv
     flows.to_csv(outputpath+'MaterialFlowList'+flow_list_specs['list_version']+'_all.csv', index=False)
-    log.info('CSV version in ' + 'output/MaterialFlowListMaster_all.csv')
-    
-"""
+    log.info('CSV version in MaterialFlowList'+flow_list_specs['list_version']+'_all.csv')
