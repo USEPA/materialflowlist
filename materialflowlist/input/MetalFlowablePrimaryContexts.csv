@@ -1,13 +1,15 @@
 ﻿Flowable,PrimaryContext
 metal,material
-mixed metals,material
-other metals,material
-remainder/composite,material
-ferrous,material
-general packaging,product
+packaging,product
 durable goods,product
 electronics,product
 cans,product
-other packaging,product
 nondurable goods,product
 wire,product
+metal,waste
+packaging,waste
+durable goods,waste
+electronics,waste
+cans,waste
+nondurable goods,waste
+wire,waste

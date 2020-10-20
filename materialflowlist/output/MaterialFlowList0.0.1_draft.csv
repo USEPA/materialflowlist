@@ -1,83 +1,197 @@
 Flowable,Unit,Class,Context
-metal,kg,Metal,material/material
-mixed metals,kg,Metal,material/material
-other metals,kg,Metal,material/material
-remainder/composite,kg,Metal,material/material
-ferrous,kg,Metal,material/material
-general packaging,kg,Metal,product/ferrous
-general packaging,kg,Metal,product/non-ferrous
-general packaging,kg,Metal,product/aluminum
-general packaging,kg,Metal,product/copper
-general packaging,kg,Metal,product/steel
-durable goods,kg,Metal,product/ferrous
-durable goods,kg,Metal,product/non-ferrous
-durable goods,kg,Metal,product/aluminum
-durable goods,kg,Metal,product/copper
-durable goods,kg,Metal,product/steel
-electronics,kg,Metal,product/ferrous
-electronics,kg,Metal,product/non-ferrous
-electronics,kg,Metal,product/aluminum
-electronics,kg,Metal,product/copper
-electronics,kg,Metal,product/steel
-cans,kg,Metal,product/ferrous
-cans,kg,Metal,product/non-ferrous
-cans,kg,Metal,product/aluminum
-cans,kg,Metal,product/copper
-cans,kg,Metal,product/steel
-other packaging,kg,Metal,product/ferrous
-other packaging,kg,Metal,product/non-ferrous
-other packaging,kg,Metal,product/aluminum
-other packaging,kg,Metal,product/copper
-other packaging,kg,Metal,product/steel
-nondurable goods,kg,Metal,product/ferrous
-nondurable goods,kg,Metal,product/non-ferrous
-nondurable goods,kg,Metal,product/aluminum
-nondurable goods,kg,Metal,product/copper
-nondurable goods,kg,Metal,product/steel
-wire,kg,Metal,product/ferrous
-wire,kg,Metal,product/non-ferrous
-wire,kg,Metal,product/aluminum
-wire,kg,Metal,product/copper
-wire,kg,Metal,product/steel
-paper,kg,Paper,material/material
-corrugated cardboard,kg,Paper,material/material
-paperboard,kg,Paper,material/material
-nondurable goods,kg,Paper,product/paper
-nondurable goods,kg,Paper,product/paperboard
-nondurable goods,kg,Paper,product/corrugated
-general packaging,kg,Paper,product/paper
-general packaging,kg,Paper,product/paperboard
-general packaging,kg,Paper,product/corrugated
-other packaging,kg,Paper,product/paper
-other packaging,kg,Paper,product/paperboard
-other packaging,kg,Paper,product/corrugated
-mixed paper products,kg,Paper,product/paper
-mixed paper products,kg,Paper,product/paperboard
-mixed paper products,kg,Paper,product/corrugated
-other miscellaneous,kg,Paper,product/paper
-other miscellaneous,kg,Paper,product/paperboard
-other miscellaneous,kg,Paper,product/corrugated
-miscellaneous compostable,kg,Paper,product/paper
-miscellaneous compostable,kg,Paper,product/paperboard
-miscellaneous compostable,kg,Paper,product/corrugated
-general paper,kg,Paper,product/paper
-general paper,kg,Paper,product/paperboard
-general paper,kg,Paper,product/corrugated
-bags,kg,Paper,product/paper
-bags,kg,Paper,product/paperboard
-bags,kg,Paper,product/corrugated
-books,kg,Paper,product/paper
-books,kg,Paper,product/paperboard
-books,kg,Paper,product/corrugated
-magazines,kg,Paper,product/paper
-magazines,kg,Paper,product/paperboard
-magazines,kg,Paper,product/corrugated
-newspaper,kg,Paper,product/paper
-newspaper,kg,Paper,product/paperboard
-newspaper,kg,Paper,product/corrugated
-aseptic cartons,kg,Paper,product/paper
-aseptic cartons,kg,Paper,product/paperboard
-aseptic cartons,kg,Paper,product/corrugated
-boxes,kg,Paper,product/paper
-boxes,kg,Paper,product/paperboard
-boxes,kg,Paper,product/corrugated
+cans,kg,Metal,product/ferrous/iron
+cans,kg,Metal,product/ferrous/steel
+cans,kg,Metal,product/mixed/unspecified
+cans,kg,Metal,product/non-ferrous/aluminum
+cans,kg,Metal,product/non-ferrous/copper
+cans,kg,Metal,waste/ferrous/iron
+cans,kg,Metal,waste/ferrous/steel
+cans,kg,Metal,waste/mixed/unspecified
+cans,kg,Metal,waste/non-ferrous/aluminum
+cans,kg,Metal,waste/non-ferrous/copper
+durable goods,kg,Metal,product/ferrous/iron
+durable goods,kg,Metal,product/ferrous/steel
+durable goods,kg,Metal,product/mixed/unspecified
+durable goods,kg,Metal,product/non-ferrous/aluminum
+durable goods,kg,Metal,product/non-ferrous/copper
+durable goods,kg,Metal,waste/ferrous/iron
+durable goods,kg,Metal,waste/ferrous/steel
+durable goods,kg,Metal,waste/mixed/unspecified
+durable goods,kg,Metal,waste/non-ferrous/aluminum
+durable goods,kg,Metal,waste/non-ferrous/copper
+electronics,kg,Metal,product/ferrous/iron
+electronics,kg,Metal,product/ferrous/steel
+electronics,kg,Metal,product/mixed/unspecified
+electronics,kg,Metal,product/non-ferrous/aluminum
+electronics,kg,Metal,product/non-ferrous/copper
+electronics,kg,Metal,waste/ferrous/iron
+electronics,kg,Metal,waste/ferrous/steel
+electronics,kg,Metal,waste/mixed/unspecified
+electronics,kg,Metal,waste/non-ferrous/aluminum
+electronics,kg,Metal,waste/non-ferrous/copper
+metal,kg,Metal,material/ferrous/iron
+metal,kg,Metal,material/ferrous/steel
+metal,kg,Metal,material/mixed/unspecified
+metal,kg,Metal,material/non-ferrous/aluminum
+metal,kg,Metal,material/non-ferrous/copper
+metal,kg,Metal,waste/ferrous/iron
+metal,kg,Metal,waste/ferrous/steel
+metal,kg,Metal,waste/mixed/unspecified
+metal,kg,Metal,waste/non-ferrous/aluminum
+metal,kg,Metal,waste/non-ferrous/copper
+nondurable goods,kg,Metal,product/ferrous/iron
+nondurable goods,kg,Metal,product/ferrous/steel
+nondurable goods,kg,Metal,product/mixed/unspecified
+nondurable goods,kg,Metal,product/non-ferrous/aluminum
+nondurable goods,kg,Metal,product/non-ferrous/copper
+nondurable goods,kg,Metal,waste/ferrous/iron
+nondurable goods,kg,Metal,waste/ferrous/steel
+nondurable goods,kg,Metal,waste/mixed/unspecified
+nondurable goods,kg,Metal,waste/non-ferrous/aluminum
+nondurable goods,kg,Metal,waste/non-ferrous/copper
+packaging,kg,Metal,product/ferrous/iron
+packaging,kg,Metal,product/ferrous/steel
+packaging,kg,Metal,product/mixed/unspecified
+packaging,kg,Metal,product/non-ferrous/aluminum
+packaging,kg,Metal,product/non-ferrous/copper
+packaging,kg,Metal,waste/ferrous/iron
+packaging,kg,Metal,waste/ferrous/steel
+packaging,kg,Metal,waste/mixed/unspecified
+packaging,kg,Metal,waste/non-ferrous/aluminum
+packaging,kg,Metal,waste/non-ferrous/copper
+wire,kg,Metal,product/ferrous/iron
+wire,kg,Metal,product/ferrous/steel
+wire,kg,Metal,product/mixed/unspecified
+wire,kg,Metal,product/non-ferrous/aluminum
+wire,kg,Metal,product/non-ferrous/copper
+wire,kg,Metal,waste/ferrous/iron
+wire,kg,Metal,waste/ferrous/steel
+wire,kg,Metal,waste/mixed/unspecified
+wire,kg,Metal,waste/non-ferrous/aluminum
+wire,kg,Metal,waste/non-ferrous/copper
+aseptic cartons,kg,Paper,product/paper/glossy
+aseptic cartons,kg,Paper,product/paper/mixed
+aseptic cartons,kg,Paper,product/paper/newsprint
+aseptic cartons,kg,Paper,product/paper/white
+aseptic cartons,kg,Paper,product/paperboard/coated
+aseptic cartons,kg,Paper,product/paperboard/corrugated
+aseptic cartons,kg,Paper,product/paperboard/uncoated
+aseptic cartons,kg,Paper,waste/paper/glossy
+aseptic cartons,kg,Paper,waste/paper/mixed
+aseptic cartons,kg,Paper,waste/paper/newsprint
+aseptic cartons,kg,Paper,waste/paper/white
+aseptic cartons,kg,Paper,waste/paperboard/coated
+aseptic cartons,kg,Paper,waste/paperboard/corrugated
+aseptic cartons,kg,Paper,waste/paperboard/uncoated
+bags,kg,Paper,product/paper/glossy
+bags,kg,Paper,product/paper/mixed
+bags,kg,Paper,product/paper/newsprint
+bags,kg,Paper,product/paper/white
+bags,kg,Paper,product/paperboard/coated
+bags,kg,Paper,product/paperboard/corrugated
+bags,kg,Paper,product/paperboard/uncoated
+bags,kg,Paper,waste/paper/glossy
+bags,kg,Paper,waste/paper/mixed
+bags,kg,Paper,waste/paper/newsprint
+bags,kg,Paper,waste/paper/white
+bags,kg,Paper,waste/paperboard/coated
+bags,kg,Paper,waste/paperboard/corrugated
+bags,kg,Paper,waste/paperboard/uncoated
+books,kg,Paper,product/paper/glossy
+books,kg,Paper,product/paper/mixed
+books,kg,Paper,product/paper/newsprint
+books,kg,Paper,product/paper/white
+books,kg,Paper,product/paperboard/coated
+books,kg,Paper,product/paperboard/corrugated
+books,kg,Paper,product/paperboard/uncoated
+books,kg,Paper,waste/paper/glossy
+books,kg,Paper,waste/paper/mixed
+books,kg,Paper,waste/paper/newsprint
+books,kg,Paper,waste/paper/white
+books,kg,Paper,waste/paperboard/coated
+books,kg,Paper,waste/paperboard/corrugated
+books,kg,Paper,waste/paperboard/uncoated
+boxes,kg,Paper,product/paper/glossy
+boxes,kg,Paper,product/paper/mixed
+boxes,kg,Paper,product/paper/newsprint
+boxes,kg,Paper,product/paper/white
+boxes,kg,Paper,product/paperboard/coated
+boxes,kg,Paper,product/paperboard/corrugated
+boxes,kg,Paper,product/paperboard/uncoated
+boxes,kg,Paper,waste/paper/glossy
+boxes,kg,Paper,waste/paper/mixed
+boxes,kg,Paper,waste/paper/newsprint
+boxes,kg,Paper,waste/paper/white
+boxes,kg,Paper,waste/paperboard/coated
+boxes,kg,Paper,waste/paperboard/corrugated
+boxes,kg,Paper,waste/paperboard/uncoated
+magazines,kg,Paper,product/paper/glossy
+magazines,kg,Paper,product/paper/mixed
+magazines,kg,Paper,product/paper/newsprint
+magazines,kg,Paper,product/paper/white
+magazines,kg,Paper,product/paperboard/coated
+magazines,kg,Paper,product/paperboard/corrugated
+magazines,kg,Paper,product/paperboard/uncoated
+magazines,kg,Paper,waste/paper/glossy
+magazines,kg,Paper,waste/paper/mixed
+magazines,kg,Paper,waste/paper/newsprint
+magazines,kg,Paper,waste/paper/white
+magazines,kg,Paper,waste/paperboard/coated
+magazines,kg,Paper,waste/paperboard/corrugated
+magazines,kg,Paper,waste/paperboard/uncoated
+newspapers,kg,Paper,product/paper/glossy
+newspapers,kg,Paper,product/paper/mixed
+newspapers,kg,Paper,product/paper/newsprint
+newspapers,kg,Paper,product/paper/white
+newspapers,kg,Paper,product/paperboard/coated
+newspapers,kg,Paper,product/paperboard/corrugated
+newspapers,kg,Paper,product/paperboard/uncoated
+newspapers,kg,Paper,waste/paper/glossy
+newspapers,kg,Paper,waste/paper/mixed
+newspapers,kg,Paper,waste/paper/newsprint
+newspapers,kg,Paper,waste/paper/white
+newspapers,kg,Paper,waste/paperboard/coated
+newspapers,kg,Paper,waste/paperboard/corrugated
+newspapers,kg,Paper,waste/paperboard/uncoated
+nondurable goods,kg,Paper,product/paper/glossy
+nondurable goods,kg,Paper,product/paper/mixed
+nondurable goods,kg,Paper,product/paper/newsprint
+nondurable goods,kg,Paper,product/paper/white
+nondurable goods,kg,Paper,product/paperboard/coated
+nondurable goods,kg,Paper,product/paperboard/corrugated
+nondurable goods,kg,Paper,product/paperboard/uncoated
+nondurable goods,kg,Paper,waste/paper/glossy
+nondurable goods,kg,Paper,waste/paper/mixed
+nondurable goods,kg,Paper,waste/paper/newsprint
+nondurable goods,kg,Paper,waste/paper/white
+nondurable goods,kg,Paper,waste/paperboard/coated
+nondurable goods,kg,Paper,waste/paperboard/corrugated
+nondurable goods,kg,Paper,waste/paperboard/uncoated
+packaging,kg,Paper,product/paper/glossy
+packaging,kg,Paper,product/paper/mixed
+packaging,kg,Paper,product/paper/newsprint
+packaging,kg,Paper,product/paper/white
+packaging,kg,Paper,product/paperboard/coated
+packaging,kg,Paper,product/paperboard/corrugated
+packaging,kg,Paper,product/paperboard/uncoated
+packaging,kg,Paper,waste/paper/glossy
+packaging,kg,Paper,waste/paper/mixed
+packaging,kg,Paper,waste/paper/newsprint
+packaging,kg,Paper,waste/paper/white
+packaging,kg,Paper,waste/paperboard/coated
+packaging,kg,Paper,waste/paperboard/corrugated
+packaging,kg,Paper,waste/paperboard/uncoated
+paper and paperboard,kg,Paper,material/paper/glossy
+paper and paperboard,kg,Paper,material/paper/mixed
+paper and paperboard,kg,Paper,material/paper/newsprint
+paper and paperboard,kg,Paper,material/paper/white
+paper and paperboard,kg,Paper,material/paperboard/coated
+paper and paperboard,kg,Paper,material/paperboard/corrugated
+paper and paperboard,kg,Paper,material/paperboard/uncoated
+paper and paperboard,kg,Paper,waste/paper/glossy
+paper and paperboard,kg,Paper,waste/paper/mixed
+paper and paperboard,kg,Paper,waste/paper/newsprint
+paper and paperboard,kg,Paper,waste/paper/white
+paper and paperboard,kg,Paper,waste/paperboard/coated
+paper and paperboard,kg,Paper,waste/paperboard/corrugated
+paper and paperboard,kg,Paper,waste/paperboard/uncoated
