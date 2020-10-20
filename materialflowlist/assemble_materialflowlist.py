@@ -77,66 +77,6 @@ if __name__ == '__main__':
 
     log.info('Total of ' + str(len(flows)) + ' flows with contexts created.')
 
-    """
-    #Write to csv
-    flows.to_csv(outputpath+'MaterialFlowList'+flow_list_specs['list_version']+'_draft.csv', index=False)
-    log.info('CSV version in ' + 'output/MaterialFlowListMaster_draft.csv')
-    """
-
-
-    """
-    # Read in flowable context membership
-    SecondaryContextMembership = import_secondary_context_membership()
-
-    secondary_context_classes = flow_list_specs["secondary_context_classes"]
-    context_patterns_used = pd.DataFrame(
-        columns=['Class', 'PrimaryContext', 'Primary_Context_Path', 'Pattern'])
-    for index, row in SecondaryContextMembership.iterrows():
-        pattern = [x for x in secondary_context_classes if row[x] != 0]
-        pattern_w_primary = flow_list_specs["primary_context_classes"].copy() + pattern
-        # convert to string
-        pattern_w_primary = ','.join(pattern_w_primary)
-        primary_context_path = as_path(row['PrimaryContext'])
-        context_patterns_used = context_patterns_used.append({'Class': row['Class'],
-                                                              'PrimaryContext': row['PrimaryContext'],
-                                                              'Primary_Context_Path': primary_context_path,
-                                                              'Pattern': pattern_w_primary},
-                                                             ignore_index=True)
-    """
-
-    """
-    # Cycle through these class context patterns and get context_paths
-    log.info('Getting relevant contexts for each class ...')
-    field_to_keep = ['Class', 'PrimaryContext', 'SecondaryContext']
-    class_contexts_list = []
-    for index, row in contexts.iterrows():
-        class_context_patterns_row = row[field_to_keep]
-        # Get the contexts specific to this class by matching the Pattern and Primary_Context_Path
-        contexts_df = all_contexts[(all_contexts['Pattern'] == row['Pattern']) & (
-            all_contexts['Context'].str.contains(row['Primary_Context_Path']))]
-        c_group = []
-        for i in contexts_df['Context']:
-            c = {}
-            c['Context'] = i
-            for f in field_to_keep:
-                c[f] = row[f]
-            c_group.append(c)
-        class_contexts_list.extend(c_group)
-    class_contexts = pd.DataFrame(class_contexts_list)
-
-    # Merge this table now with the flowables and primary contexts with the full contexts per class, creating flows for each compartment relevant for that flow type, using major
-    flows = pd.merge(flowables_w_primary_contexts, class_contexts,
-                     on=['Class', 'PrimaryContext'])
-
-    # Drop duplicate flows if they exist
-    if len(flows[flows.duplicated(keep=False)]) > 0:
-        log.debug("Duplicate flows exist. They will be removed.")
-        flows = flows.drop_duplicates()
-
-    # Drop unneeded columns
-    cols_to_drop = ['PrimaryContext']
-    flows = flows.drop(columns=cols_to_drop)
-    """
     # Loop through flows generating UUID for each
     flowids = []
     log.info('Generating unique UUIDs for each flow...')
