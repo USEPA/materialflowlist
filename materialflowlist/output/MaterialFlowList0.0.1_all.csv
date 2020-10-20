@@ -1,0 +1,197 @@
+Flowable,Unit,Class,Context,Flow UUID
+metal,kg,Metal,material/mixed/unspecified,90ef2ad6-ed73-3997-9730-5c422644b229
+metal,kg,Metal,material/ferrous/iron,e35d3fef-b3ba-3279-ad46-0703e4766970
+metal,kg,Metal,material/ferrous/steel,fd7b93d8-a959-3019-992d-2e83db1750fb
+metal,kg,Metal,material/non-ferrous/aluminum,47b8ecbe-be1c-357c-b8f8-650d67728e4a
+metal,kg,Metal,material/non-ferrous/copper,9ca6adca-4932-3905-8f10-3bfd67a2012a
+metal,kg,Metal,waste/mixed/unspecified,8534b82f-7643-33c9-a820-018a5dd96eef
+metal,kg,Metal,waste/ferrous/iron,6809042e-8f7d-3406-b13f-808dfc1abaae
+metal,kg,Metal,waste/ferrous/steel,8b03bd9d-444f-3ba3-9a68-75fb50af69b6
+metal,kg,Metal,waste/non-ferrous/aluminum,9915b9a2-6345-3ac5-a712-aed5bb6e69cb
+metal,kg,Metal,waste/non-ferrous/copper,c5f938c2-eae5-379d-91cb-f817920239fb
+packaging,kg,Metal,waste/mixed/unspecified,62333df2-546a-3ad6-bf46-cd536cfd7713
+packaging,kg,Metal,waste/ferrous/iron,74f18af5-6f62-3d9f-9648-5084d93d87af
+packaging,kg,Metal,waste/ferrous/steel,a0f66eb8-dabc-3ed0-99c7-076f8ba6f0bb
+packaging,kg,Metal,waste/non-ferrous/aluminum,8a4a122e-78ea-3224-a192-888ffebce10a
+packaging,kg,Metal,waste/non-ferrous/copper,0e5730b2-2282-3b93-b653-598cb3fd68b4
+durable goods,kg,Metal,waste/mixed/unspecified,1ed2cc24-48a5-3046-b9be-ffca05c33a95
+durable goods,kg,Metal,waste/ferrous/iron,67072b1a-8f4c-330d-814d-656a0cddc532
+durable goods,kg,Metal,waste/ferrous/steel,9fd4463b-6a43-3f22-9525-a2bbad03a0ce
+durable goods,kg,Metal,waste/non-ferrous/aluminum,3a9cccb2-fc8b-334e-8934-e37cdb86b7cc
+durable goods,kg,Metal,waste/non-ferrous/copper,8edb08ac-4f56-3127-94ce-0ccbab83c994
+electronics,kg,Metal,waste/mixed/unspecified,625a9e10-5666-3cc0-a1f5-10d92cc4ca69
+electronics,kg,Metal,waste/ferrous/iron,a815c86f-55e8-33d9-b454-b3f82541381c
+electronics,kg,Metal,waste/ferrous/steel,8e0a9b14-c097-3249-a375-43e130d5e603
+electronics,kg,Metal,waste/non-ferrous/aluminum,9bd36320-26d9-3925-bc3a-28f127616c20
+electronics,kg,Metal,waste/non-ferrous/copper,97ccf4ae-02d4-3094-9490-72458cd5651a
+cans,kg,Metal,waste/mixed/unspecified,4d5cd851-d576-3c1a-ab3d-c0c62039ddf6
+cans,kg,Metal,waste/ferrous/iron,43672279-4543-3710-9346-5a94a710bad2
+cans,kg,Metal,waste/ferrous/steel,47ffbf23-4589-3968-b0c9-f8b5e3c82af6
+cans,kg,Metal,waste/non-ferrous/aluminum,d14d4874-0194-395f-89ad-bf9742523daa
+cans,kg,Metal,waste/non-ferrous/copper,9d1ccbdf-c77b-3bd2-b676-3cb50cf01017
+nondurable goods,kg,Metal,waste/mixed/unspecified,4ae6f884-d509-3437-9253-216c1cb23635
+nondurable goods,kg,Metal,waste/ferrous/iron,0bba3430-a405-3d18-b3b9-57852bb1ffd1
+nondurable goods,kg,Metal,waste/ferrous/steel,d455b60c-5b4c-3115-83e8-a877dd0b4583
+nondurable goods,kg,Metal,waste/non-ferrous/aluminum,71691f18-6027-32c7-bb23-ee88cf78729f
+nondurable goods,kg,Metal,waste/non-ferrous/copper,0fd45ded-5d30-3147-ba79-e188f5614ddf
+wire,kg,Metal,waste/mixed/unspecified,1edc78f9-30bc-33b0-85d7-63ff04988689
+wire,kg,Metal,waste/ferrous/iron,7ace0227-600b-3a22-a3e6-4c077cb71e17
+wire,kg,Metal,waste/ferrous/steel,7ddcdf03-ece1-3c72-bd65-01e2c4c138e2
+wire,kg,Metal,waste/non-ferrous/aluminum,2ee72de5-c483-321b-b86d-50ce78196bbf
+wire,kg,Metal,waste/non-ferrous/copper,a52102a4-b940-3f55-9bf9-c4ec20f4b7ae
+packaging,kg,Metal,product/mixed/unspecified,e2771190-f712-3d8e-b26a-0b16864c8953
+packaging,kg,Metal,product/ferrous/iron,c0e7252f-3f05-3353-aa45-30ccedd0babb
+packaging,kg,Metal,product/ferrous/steel,0dd316e9-9dbc-3b25-aaa3-d0ae6edbb0ca
+packaging,kg,Metal,product/non-ferrous/aluminum,7a82df7d-2eab-3169-ba40-3ea5f2e31f5b
+packaging,kg,Metal,product/non-ferrous/copper,5186b557-358d-3734-9a4d-bf2ceb8e1f48
+durable goods,kg,Metal,product/mixed/unspecified,a6fee7c5-3bbb-368f-a72f-52e664649951
+durable goods,kg,Metal,product/ferrous/iron,d850ab58-bd42-3ddd-bfb8-04e0b535d890
+durable goods,kg,Metal,product/ferrous/steel,ed1d1460-b32e-3403-ac2b-51a4e8f9817c
+durable goods,kg,Metal,product/non-ferrous/aluminum,1cfe7724-c542-34ce-9717-b87c75371b7a
+durable goods,kg,Metal,product/non-ferrous/copper,42481d59-9165-3f6a-9234-9897d436473c
+electronics,kg,Metal,product/mixed/unspecified,8bf382eb-7236-370e-97fa-a6d76c3d6485
+electronics,kg,Metal,product/ferrous/iron,5656d943-22ab-367f-97e6-cda1d340dae0
+electronics,kg,Metal,product/ferrous/steel,d051c1da-d1aa-3acc-a074-c041d600ee45
+electronics,kg,Metal,product/non-ferrous/aluminum,091c71fb-69ec-38b5-abc2-d04ee17d3f92
+electronics,kg,Metal,product/non-ferrous/copper,272ba932-4f4d-315b-bdc2-3952c0516daf
+cans,kg,Metal,product/mixed/unspecified,371097cb-3528-31ac-982c-e3a2d86397b6
+cans,kg,Metal,product/ferrous/iron,691730f1-2f01-3c8d-8589-aeceb4ecedab
+cans,kg,Metal,product/ferrous/steel,cd584fe1-0798-3db4-91d0-ddca32e73ee0
+cans,kg,Metal,product/non-ferrous/aluminum,12de6da1-e933-39c9-8935-b0e3bfdc38bb
+cans,kg,Metal,product/non-ferrous/copper,4b6be600-9bf2-333b-b089-03991983ddd3
+nondurable goods,kg,Metal,product/mixed/unspecified,db75a53f-8777-339c-985b-6598eec9ad21
+nondurable goods,kg,Metal,product/ferrous/iron,9a3f2712-afe0-3ef1-af87-d8e7a67d114a
+nondurable goods,kg,Metal,product/ferrous/steel,86a7b0dc-057c-3eaa-8611-fd67969afe9e
+nondurable goods,kg,Metal,product/non-ferrous/aluminum,e702d264-b904-35dd-8afd-945c112f4445
+nondurable goods,kg,Metal,product/non-ferrous/copper,28b0d6ae-fd88-36c5-b528-2165c92ce752
+wire,kg,Metal,product/mixed/unspecified,5d9ef54b-f74c-328f-b878-d47e54346e33
+wire,kg,Metal,product/ferrous/iron,7cbfa1dd-1c28-3e82-9e40-eb4aa535c15c
+wire,kg,Metal,product/ferrous/steel,c520c321-97e3-31e4-a85d-a06d30b2408c
+wire,kg,Metal,product/non-ferrous/aluminum,e4324994-fbeb-3ce0-be31-fe6da439635e
+wire,kg,Metal,product/non-ferrous/copper,d2c576eb-e99f-3bf5-bccd-881af95ce9c9
+paper and paperboard,kg,Paper,material/paper/white,993e037c-b418-303d-8b0d-d0680f659a0a
+paper and paperboard,kg,Paper,material/paper/mixed,415bed9d-4158-3bb3-8cd7-0013c4dd3167
+paper and paperboard,kg,Paper,material/paper/glossy,5f98fa68-f6fe-3e3a-b80f-999bbf1421ce
+paper and paperboard,kg,Paper,material/paper/newsprint,9e6b8402-da46-331c-bb4c-631661b90c23
+paper and paperboard,kg,Paper,material/paperboard/coated,133f1c7e-ccc1-3988-9e68-4d54e4aad6a6
+paper and paperboard,kg,Paper,material/paperboard/uncoated,f4aecf09-ebb7-3672-87ec-38736482a8c1
+paper and paperboard,kg,Paper,material/paperboard/corrugated,c07f5ea6-4734-3d60-b407-2578055abeeb
+paper and paperboard,kg,Paper,waste/paper/white,6c2fe4c4-f88c-3c7f-b191-a1039d82fb69
+paper and paperboard,kg,Paper,waste/paper/mixed,5452d08d-4f2e-3d39-be10-14cbbf8fde08
+paper and paperboard,kg,Paper,waste/paper/glossy,b18e1dca-9123-3a76-b0e3-c2666f6118fd
+paper and paperboard,kg,Paper,waste/paper/newsprint,7ff670f8-ba01-3aab-aab0-0878936351dc
+paper and paperboard,kg,Paper,waste/paperboard/coated,ce20742b-1672-37ad-a61d-a02ce3e689b6
+paper and paperboard,kg,Paper,waste/paperboard/uncoated,293b5a2b-7e11-3a08-b4d8-e46d6d443afc
+paper and paperboard,kg,Paper,waste/paperboard/corrugated,727fcf9f-a79c-337c-abce-07b5d613c95c
+nondurable goods,kg,Paper,waste/paper/white,01c9dec0-d005-3b7c-af73-83b0b97f829c
+nondurable goods,kg,Paper,waste/paper/mixed,03e3d1bf-12ec-364f-b72d-9cc7afc3401a
+nondurable goods,kg,Paper,waste/paper/glossy,a879dd77-ff38-3581-8787-b7f2a39b5aac
+nondurable goods,kg,Paper,waste/paper/newsprint,ca8588e0-0da6-3d72-b0e6-b2ab891064c2
+nondurable goods,kg,Paper,waste/paperboard/coated,4c241032-b32d-3dd7-8fa2-53c0708083d4
+nondurable goods,kg,Paper,waste/paperboard/uncoated,04f76ba6-6481-33c6-ac76-419a92883176
+nondurable goods,kg,Paper,waste/paperboard/corrugated,4c250f25-64d9-362c-99c3-ea1fc225b628
+packaging,kg,Paper,waste/paper/white,867a926b-313e-38e7-aaf3-0790017ccf44
+packaging,kg,Paper,waste/paper/mixed,681e41cf-44dc-3bfd-aa1f-2231aced11b8
+packaging,kg,Paper,waste/paper/glossy,42e2cf8a-2c23-3e99-bf79-cf8db28a61a8
+packaging,kg,Paper,waste/paper/newsprint,ece4825a-18cf-39c6-9369-45d069a1e0f0
+packaging,kg,Paper,waste/paperboard/coated,bd2d62cc-efe6-334f-8193-7a509786c33a
+packaging,kg,Paper,waste/paperboard/uncoated,03039d7f-4bb5-3d65-887a-f1458bf3f15f
+packaging,kg,Paper,waste/paperboard/corrugated,44bb1743-843f-32dc-85f6-64f6c5e892bd
+bags,kg,Paper,waste/paper/white,38b5c988-0574-34ea-8b49-80aeb0966870
+bags,kg,Paper,waste/paper/mixed,18eaa5dd-8997-3b10-b366-1008cd4ba453
+bags,kg,Paper,waste/paper/glossy,6b07d73d-756d-34e5-aefe-c25fb97b71c5
+bags,kg,Paper,waste/paper/newsprint,6721c305-d207-305b-94ff-b88e7fc4a24e
+bags,kg,Paper,waste/paperboard/coated,2118b99d-fc73-36e2-a48c-7463d6c4a53f
+bags,kg,Paper,waste/paperboard/uncoated,d252aac3-2e86-3f9b-a9b0-5dd9d06f43fa
+bags,kg,Paper,waste/paperboard/corrugated,f3f5dcf0-156e-35bf-af1b-e510fc5b9961
+books,kg,Paper,waste/paper/white,795f2767-9f60-3367-a59e-86c566313434
+books,kg,Paper,waste/paper/mixed,b2ac3acb-11e9-36a3-9a90-e319f9380b14
+books,kg,Paper,waste/paper/glossy,e888f1f4-b4da-351c-9658-6d3b2a67b438
+books,kg,Paper,waste/paper/newsprint,97ac0852-6c77-3384-9d0b-b6d05e7d8ef2
+books,kg,Paper,waste/paperboard/coated,48d18434-1090-3d3d-bb5c-05bb872fb474
+books,kg,Paper,waste/paperboard/uncoated,1cdbbbd8-5434-36d3-a6d4-0a17a86f3b10
+books,kg,Paper,waste/paperboard/corrugated,aea14cc1-aa91-33b0-b366-bd3b1ecdcb81
+magazines,kg,Paper,waste/paper/white,43d449cb-3baa-3a62-b945-d9937e032ee4
+magazines,kg,Paper,waste/paper/mixed,4016e726-3fd9-3ba9-a4cd-df0d7d02d18e
+magazines,kg,Paper,waste/paper/glossy,3fba4ec1-8e18-3d16-9fca-b99e8ce4f76a
+magazines,kg,Paper,waste/paper/newsprint,fc6118c2-0404-3b47-ba5a-e3ff65608ca1
+magazines,kg,Paper,waste/paperboard/coated,2663b698-a685-3e2a-822d-dae5f071c337
+magazines,kg,Paper,waste/paperboard/uncoated,b6e083fc-f5c2-3389-98b7-941abb1b877f
+magazines,kg,Paper,waste/paperboard/corrugated,8f257722-d820-30ca-b317-5a4a1bc4e01c
+newspapers,kg,Paper,waste/paper/white,abb0a312-7320-3c74-9480-211ef16c269c
+newspapers,kg,Paper,waste/paper/mixed,adcea795-ab4e-39e1-8b50-1574e69ce9f4
+newspapers,kg,Paper,waste/paper/glossy,db321fe8-5784-30ba-b65b-70188f7f02f7
+newspapers,kg,Paper,waste/paper/newsprint,1b2d32ce-2d13-3ceb-afed-f479bb4bf26f
+newspapers,kg,Paper,waste/paperboard/coated,c4973b3b-a474-3828-a49c-5fe2eb8b9822
+newspapers,kg,Paper,waste/paperboard/uncoated,9ce73284-9fab-3c5c-a9ee-d137ae2dd2b7
+newspapers,kg,Paper,waste/paperboard/corrugated,c971ebd9-1264-3ff8-844f-a087940a14af
+aseptic cartons,kg,Paper,waste/paper/white,b78dba33-7b5c-3b34-b0cd-d04999e5dc16
+aseptic cartons,kg,Paper,waste/paper/mixed,467d4c38-bfc9-307f-ae84-ffcca306a873
+aseptic cartons,kg,Paper,waste/paper/glossy,6eed3fc6-ea24-3d80-ac8c-1d8a37cdb40d
+aseptic cartons,kg,Paper,waste/paper/newsprint,e4843605-1374-34b1-b86f-d2352a645cc9
+aseptic cartons,kg,Paper,waste/paperboard/coated,8a086e3a-b690-3802-ad3f-206c892a6233
+aseptic cartons,kg,Paper,waste/paperboard/uncoated,9fdccd36-a828-3da9-96af-d834006629be
+aseptic cartons,kg,Paper,waste/paperboard/corrugated,64dda6ce-6e12-3da0-a27d-6ecf30309191
+boxes,kg,Paper,waste/paper/white,8430fbf0-f70a-3502-9edf-64b979cc79d5
+boxes,kg,Paper,waste/paper/mixed,b043cf17-a0aa-3eea-8da5-d1e52ac9a1c5
+boxes,kg,Paper,waste/paper/glossy,057b52a1-3ba8-364d-8055-12da350b2f71
+boxes,kg,Paper,waste/paper/newsprint,38f0a101-07ef-361b-81a4-9c18a2dad44a
+boxes,kg,Paper,waste/paperboard/coated,a0ac8e40-fcc0-3c3d-ae04-659800d2d032
+boxes,kg,Paper,waste/paperboard/uncoated,2bf0848c-e95a-3ffa-bc98-f26cadd4fca8
+boxes,kg,Paper,waste/paperboard/corrugated,29ec7673-f5ec-3a2f-b62e-d30a7804f2c3
+nondurable goods,kg,Paper,product/paper/white,f67bee0b-2f17-33a5-9cca-efe1e0b2af85
+nondurable goods,kg,Paper,product/paper/mixed,96d858ba-d2b8-3901-bc55-a3c2b1cec188
+nondurable goods,kg,Paper,product/paper/glossy,e09473a8-08f3-36bc-a229-0342aaa2e457
+nondurable goods,kg,Paper,product/paper/newsprint,2f0282e7-757c-358f-81ee-33dcefc82746
+nondurable goods,kg,Paper,product/paperboard/coated,297a35ed-3278-3cd3-b75d-4bbb3a0fb187
+nondurable goods,kg,Paper,product/paperboard/uncoated,41bd04e0-0f5d-3b02-8972-464c8d4d49a8
+nondurable goods,kg,Paper,product/paperboard/corrugated,a211e820-cdf6-3c6b-94c8-44599dbbeba0
+packaging,kg,Paper,product/paper/white,d0b7e204-b57a-3d86-a498-84a5c3e12c43
+packaging,kg,Paper,product/paper/mixed,e5352fff-fa9f-3fa4-8b70-d865c12c4c25
+packaging,kg,Paper,product/paper/glossy,fbbcbe31-149c-309a-b689-f5be9b2a128b
+packaging,kg,Paper,product/paper/newsprint,7d93b45b-cf1b-379d-afc8-887b241dc648
+packaging,kg,Paper,product/paperboard/coated,f1a71875-2efa-3599-b921-676e5963c71e
+packaging,kg,Paper,product/paperboard/uncoated,2d8eef39-0113-3b93-8457-b18df53d9292
+packaging,kg,Paper,product/paperboard/corrugated,936ee728-e79c-3494-bee5-bc8c71f3f16b
+bags,kg,Paper,product/paper/white,3aaa78a2-2cfd-3e80-9161-ac052911522d
+bags,kg,Paper,product/paper/mixed,f9d69296-603a-3ccc-b3c5-cf2fbf73d86c
+bags,kg,Paper,product/paper/glossy,43bb2f94-3570-3d58-ad18-e7fb5975b679
+bags,kg,Paper,product/paper/newsprint,1757232e-239b-34ee-853c-895dcba5e8b8
+bags,kg,Paper,product/paperboard/coated,a52b9bdc-8baf-33a8-abbd-cba885f74405
+bags,kg,Paper,product/paperboard/uncoated,0b36f2e7-c440-3d4b-b4db-e5d43bf37061
+bags,kg,Paper,product/paperboard/corrugated,e4108feb-2186-39af-8d7f-fdbc63e8f5a0
+books,kg,Paper,product/paper/white,29403ce9-1be2-360a-90a4-2191fc9b6157
+books,kg,Paper,product/paper/mixed,08df52c3-7ef7-3c06-8d63-5c5bd34d4dc9
+books,kg,Paper,product/paper/glossy,f48eea83-7f51-3f47-a43c-e1ec802574fc
+books,kg,Paper,product/paper/newsprint,414385c0-6faf-3889-a45f-e5296c2e4b3c
+books,kg,Paper,product/paperboard/coated,9dbc8dc1-fe8e-37e5-8443-e7d6006cd719
+books,kg,Paper,product/paperboard/uncoated,44959b69-2970-37f3-8e43-f56f86b2df41
+books,kg,Paper,product/paperboard/corrugated,a3a46262-6207-3e27-8dcb-8e2b7545af4b
+magazines,kg,Paper,product/paper/white,cc6a5d12-f967-38ee-878a-5f8fe3fcfb67
+magazines,kg,Paper,product/paper/mixed,81d7d7fc-d067-3c5a-8398-91da8006cb0a
+magazines,kg,Paper,product/paper/glossy,f5dc1582-b8a9-32da-949d-e0a4d874b20d
+magazines,kg,Paper,product/paper/newsprint,55890ac9-8d40-31db-b6da-4ea5ad3dfe79
+magazines,kg,Paper,product/paperboard/coated,0fead411-b171-358c-b9c9-46d4f05fb0c7
+magazines,kg,Paper,product/paperboard/uncoated,84221de3-e4df-36f9-9419-dab3a0fd5925
+magazines,kg,Paper,product/paperboard/corrugated,2fb14b58-75b9-37d1-9e60-d45870525f0a
+newspapers,kg,Paper,product/paper/white,276d693d-5c2b-34a8-93ac-03babbdd8ebd
+newspapers,kg,Paper,product/paper/mixed,92309fbd-eac0-38a1-92ce-590d09396800
+newspapers,kg,Paper,product/paper/glossy,4625f125-b16d-3961-998d-409162bb46cc
+newspapers,kg,Paper,product/paper/newsprint,8232a406-76d8-3a95-a1c0-6b818fd28237
+newspapers,kg,Paper,product/paperboard/coated,cb2f1a7e-d5a8-3bae-beba-c9fb59930a97
+newspapers,kg,Paper,product/paperboard/uncoated,45651a14-6714-3fe5-bfc8-f209a1b20c21
+newspapers,kg,Paper,product/paperboard/corrugated,77274d15-b077-3ecc-b3d1-457770188514
+aseptic cartons,kg,Paper,product/paper/white,c98fcd7f-5003-3379-b70e-1e6c5a660262
+aseptic cartons,kg,Paper,product/paper/mixed,ed2876a1-ca75-3f63-8cd8-dd32b3a01d7c
+aseptic cartons,kg,Paper,product/paper/glossy,1dc4cfbf-094a-3a98-933a-13eab449eed7
+aseptic cartons,kg,Paper,product/paper/newsprint,5d9bbebd-3b84-323e-b886-560cada7c6c3
+aseptic cartons,kg,Paper,product/paperboard/coated,3e7e4e17-803a-3086-abf2-76dfc7454f15
+aseptic cartons,kg,Paper,product/paperboard/uncoated,5a70293f-55ec-3b33-bc80-47bf7522f965
+aseptic cartons,kg,Paper,product/paperboard/corrugated,41b55733-a0fe-32c5-9e0a-ae57fe141a38
+boxes,kg,Paper,product/paper/white,63846761-ff08-35da-ba4f-dac1a3839138
+boxes,kg,Paper,product/paper/mixed,f443d887-59c5-3361-8a31-531954b30408
+boxes,kg,Paper,product/paper/glossy,819c8c0e-a779-3545-b324-a4c63600eca6
+boxes,kg,Paper,product/paper/newsprint,e1c6aab7-6447-3f0f-954a-067183723212
+boxes,kg,Paper,product/paperboard/coated,eeee5df6-fbeb-3a21-97df-3dbd99a8627f
+boxes,kg,Paper,product/paperboard/uncoated,17cf0df3-63eb-3044-a7f6-276e0b00d22f
+boxes,kg,Paper,product/paperboard/corrugated,38d09ccd-ec2a-37ea-bb08-53bf67ebe1d4

@@ -1,0 +1,15 @@
+﻿Flowable,PrimaryContext
+metal,material
+packaging,product
+durable goods,product
+electronics,product
+cans,product
+nondurable goods,product
+wire,product
+metal,waste
+packaging,waste
+durable goods,waste
+electronics,waste
+cans,waste
+nondurable goods,waste
+wire,waste
