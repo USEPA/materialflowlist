@@ -1,0 +1,41 @@
+﻿Flowable,PrimaryContext
+wood,material
+lumber,product
+fiberboard,prodcut
+particleboard,product
+plywood,product
+flooring,product
+durable goods,product
+pallets,product
+containers,product
+green waste,product
+pellets,product
+briquettes,product
+nondurable goods,product
+dinnerware,product
+roofing,product
+windows,product
+packaging,product
+furniture,product
+veneer,product
+sawdust,product
+wood,waste
+lumber,waste
+fiberboard,waste
+particleboard,waste
+plywood,waste
+flooring,waste
+durable goods,waste
+pallets,waste
+containers,waste
+green waste,waste
+pellets,waste
+briquettes,waste
+nondurable goods,waste
+dinnerware,waste
+roofing,waste
+windows,waste
+packaging,waste
+furniture,waste
+veneer,waste
+sawdust,waste
