@@ -27,7 +27,8 @@ log.basicConfig(level=log.DEBUG, format='%(levelname)s %(message)s',
 
 flow_list_specs = {
     "list_version": "0.0.1",
-    "flow_classes": ["Metal", "Paper"],
+    "flow_classes": ["Aggregate", "Crops", "Livestock", "Clay", "Gypsum", "Glass", "Leather", "Metal", "Other petroleum products"
+        , "Paper", "Plastic", "Textile", "Wood"],
     "primary_context_classes": ["PrimaryContext"],
     "category_context_classes": ["Category"],
     "type_context_classes": ["Type"]

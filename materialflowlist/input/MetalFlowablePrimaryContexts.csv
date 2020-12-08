@@ -6,6 +6,7 @@ electronics,product
 cans,product
 nondurable goods,product
 wire,product
+pipes,product
 metal,waste
 packaging,waste
 durable goods,waste
@@ -13,3 +14,4 @@ electronics,waste
 cans,waste
 nondurable goods,waste
 wire,waste
+pipes,waste

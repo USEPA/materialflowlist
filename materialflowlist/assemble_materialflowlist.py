@@ -88,7 +88,7 @@ if __name__ == '__main__':
     # Drop duplicate entries due to multiple alt units
     flows['Duplicates'] = flows.duplicated(subset=['Flow UUID'], keep='first')
     if flows['Duplicates'].sum() > 0:
-        log.info(str(flows['Duplicates'].sum()) + " flows with multiple alt unit; these duplicates have been removed:")
+        log.info(str(flows['Duplicates'].sum()) + " flows with same UUID; these duplicates have been removed:")
         duplicates_df = flows.loc[flows['Duplicates'] == True, 'Flowable']
         print(duplicates_df.drop_duplicates().to_string(index=False))
         flows = flows.drop_duplicates(subset=['Flow UUID'], keep='first')

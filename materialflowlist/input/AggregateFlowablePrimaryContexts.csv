@@ -1,0 +1,11 @@
+﻿Flowable,PrimaryContext
+aggregate,material
+bricks,product
+pavement,product
+fill,product
+stonework,product
+aggregate,waste
+bricks,waste
+pavement,waste
+fill,waste
+stonework,waste

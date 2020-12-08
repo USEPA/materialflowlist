@@ -7,7 +7,7 @@ books,product
 magazines,product
 newspapers,product
 aseptic cartons,product
-boxes,product
+containers,product
 paper and paperboard,waste
 nondurable goods,waste
 packaging,waste
@@ -16,4 +16,4 @@ books,waste
 magazines,waste
 newspapers,waste
 aseptic cartons,waste
-boxes,waste
+containers,waste

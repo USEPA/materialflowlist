@@ -1,14 +1,160 @@
 Class,PrimaryContext,Category,Type
-Metal,material,mixed,unspecified
+Aggregate,material,ash,bottom
+Aggregate,material,ash,fly
+Aggregate,material,ash,wood
+Aggregate,material,rock,slab
+Aggregate,material,rock,crushed
+Aggregate,material,soil,topsoil
+Aggregate,material,soil,subsoil
+Aggregate,material,concrete,structural
+Aggregate,material,concrete,paving
+Aggregate,product,ash,bottom
+Aggregate,product,ash,fly
+Aggregate,product,ash,wood
+Aggregate,product,rock,slab
+Aggregate,product,rock,crushed
+Aggregate,product,soil,topsoil
+Aggregate,product,soil,subsoil
+Aggregate,product,concrete,structural
+Aggregate,product,concrete,paving
+Aggregate,waste,ash,bottom
+Aggregate,waste,ash,fly
+Aggregate,waste,ash,wood
+Aggregate,waste,rock,slab
+Aggregate,waste,rock,crushed
+Aggregate,waste,soil,topsoil
+Aggregate,waste,soil,subsoil
+Aggregate,waste,concrete,structural
+Aggregate,waste,concrete,paving
+Crops,material,biomass,annual
+Crops,material,biomass,perennial
+Crops,material,grain,cereal
+Crops,material,grain,oilseed
+Crops,material,grain,feed
+Crops,material,crop,vegetable
+Crops,material,crop,fruit
+Livestock,material,meat,beef
+Livestock,material,meat,poultry
+Livestock,material,meat,pork
+Livestock,material,dairy,milk
+Livestock,material,dairy,cheese
+Livestock,material,dairy,butter
+Livestock,material,dairy,yogurt
+Livestock,material,eggs,poultry
+Livestock,material,by-product,manure
+Livestock,material,by-product,carcass
+Crops,product,biomass,annual
+Crops,product,biomass,perennial
+Crops,product,grain,cereal
+Crops,product,grain,oilseed
+Crops,product,grain,feed
+Crops,product,crop,vegetable
+Crops,product,crop,fruit
+Livestock,product,meat,beef
+Livestock,product,meat,poultry
+Livestock,product,meat,pork
+Livestock,product,dairy,milk
+Livestock,product,dairy,cheese
+Livestock,product,dairy,butter
+Livestock,product,dairy,yogurt
+Livestock,product,eggs,chicken
+Livestock,product,by-product,manure
+Livestock,product,by-product,carcass
+Crops,waste,biomass,annual
+Crops,waste,biomass,perennial
+Crops,waste,grain,cereal
+Crops,waste,grain,oilseed
+Crops,waste,grain,feed
+Crops,waste,crop,vegetable
+Crops,waste,crop,fruit
+Livestock,waste,meat,beef
+Livestock,waste,meat,poultry
+Livestock,waste,meat,pork
+Livestock,waste,dairy,milk
+Livestock,waste,dairy,cheese
+Livestock,waste,dairy,butter
+Livestock,waste,dairy,yogurt
+Livestock,waste,eggs,poultry
+Livestock,waste,by-product,manure
+Livestock,waste,by-product,carcass
+Clay,material,clay,terracotta/earthenware
+Clay,material,clay,porcelain
+Clay,product,clay,terracotta/earthenware
+Clay,product,clay,porcelain
+Clay,waste,clay,terracotta/earthenware
+Clay,waste,clay,porcelain
+Glass,material,glass,clear
+Glass,material,glass,green
+Glass,material,glass,brown
+Glass,material,glass,automotive
+Glass,material,glass,mixed colors
+Glass,product,glass,clear
+Glass,product,glass,green
+Glass,product,glass,brown
+Glass,product,glass,automotive
+Glass,product,glass,mixed colors
+Glass,waste,glass,clear
+Glass,waste,glass,green
+Glass,waste,glass,brown
+Glass,waste,glass,automotive
+Glass,waste,glass,mixed colors
+Leather,material,leather,chemically treated
+Leather,material,leather,naturally treated
+Leather,product,leather,chemically treated
+Leather,product,leather,naturally treated
+Leather,waste,leather,chemically treated
+Leather,waste,leather,naturally treated
+Metal,material,mixed,metal
 Metal,material,ferrous,iron
+Metal,material,ferrous,alloy
 Metal,material,ferrous,steel
 Metal,material,non-ferrous,aluminum
+Metal,material,non-ferrous,alloy
 Metal,material,non-ferrous,copper
-Metal,product,mixed,unspecified
+Metal,material,non-ferrous,gold
+Metal,product,mixed,metal
 Metal,product,ferrous,iron
 Metal,product,ferrous,steel
+Metal,product,ferrous,alloy
 Metal,product,non-ferrous,aluminum
 Metal,product,non-ferrous,copper
+Metal,product,non-ferrous,alloy
+Metal,product,non-ferrous,gold
+Metal,waste,mixed,metal
+Metal,waste,ferrous,iron
+Metal,waste,ferrous,steel
+Metal,waste,non-ferrous,aluminum
+Metal,waste,non-ferrous,copper
+Metal,waste,non-ferrous,gold
+Metal,waste,ferrous,alloy
+Metal,waste,non-ferrous,alloy
+Other petroleum products,material,asphalt,paving
+Other petroleum products,material,asphalt,roofing
+Other petroleum products,material,asphalt,other
+Other petroleum products,material,solvents,solvents
+Other petroleum products,material,paint,acrylic
+Other petroleum products,material,paint,oil-based
+Other petroleum products,material,oil,automotive
+Other petroleum products,material,oil,hydraulic
+Other petroleum products,material,grease,automotive
+Other petroleum products,product,asphalt,paving
+Other petroleum products,product,asphalt,roofing
+Other petroleum products,product,asphalt,other
+Other petroleum products,product,solvents,solvents
+Other petroleum products,product,paint,acrylic
+Other petroleum products,product,paint,oil-based
+Other petroleum products,product,oil,automotive
+Other petroleum products,product,oil,hydraulic
+Other petroleum products,product,grease,automotive
+Other petroleum products,waste,asphalt,paving
+Other petroleum products,waste,asphalt,roofing
+Other petroleum products,waste,asphalt,other
+Other petroleum products,waste,solvents,solvents
+Other petroleum products,waste,paint,acrylic
+Other petroleum products,waste,paint,oil-based
+Other petroleum products,waste,oil,automotive
+Other petroleum products,waste,oil,hydraulic
+Other petroleum products,waste,grease,automotive
 Paper,material,paper,white
 Paper,material,paper,mixed
 Paper,material,paper,glossy
@@ -30,8 +176,75 @@ Paper,waste,paper,newsprint
 Paper,waste,paperboard,coated
 Paper,waste,paperboard,uncoated
 Paper,waste,paperboard,corrugated
-Metal,waste,mixed,unspecified
-Metal,waste,ferrous,iron
-Metal,waste,ferrous,steel
-Metal,waste,non-ferrous,aluminum
-Metal,waste,non-ferrous,copper
+Plastic,material,thermoset,rubber
+Plastic,material,thermoset,polyesters
+Plastic,material,thermoset,urethanes
+Plastic,material,thermoset,epoxies
+Plastic,material,thermoset,other resins
+Plastic,material,thermoplastic,acrylics
+Plastic,material,thermoplastic,ABS
+Plastic,material,thermoplastic,nylons
+Plastic,material,thermoplastic,polycarbonate
+Plastic,material,thermoplastic,PE
+Plastic,material,thermoplastic,PS
+Plastic,material,thermoplastic,PP
+Plastic,material,thermoplastic,PVC
+Plastic,product,thermoset,rubber
+Plastic,product,thermoset,polyesters
+Plastic,product,thermoset,urethanes
+Plastic,product,thermoset,epoxies
+Plastic,product,thermoset,other resins
+Plastic,product,thermoplastic,acrylics
+Plastic,product,thermoplastic,ABS
+Plastic,product,thermoplastic,nylons
+Plastic,product,thermoplastic,polycarbonate
+Plastic,product,thermoplastic,PE
+Plastic,product,thermoplastic,PS
+Plastic,product,thermoplastic,PP
+Plastic,product,thermoplastic,PVC
+Plastic,waste,thermoset,rubber
+Plastic,waste,thermoset,polyesters
+Plastic,waste,thermoset,urethanes
+Plastic,waste,thermoset,epoxies
+Plastic,waste,thermoset,other resins
+Plastic,waste,thermoplastic,acrylics
+Plastic,waste,thermoplastic,ABS
+Plastic,waste,thermoplastic,nylons
+Plastic,waste,thermoplastic,polycarbonate
+Plastic,waste,thermoplastic,PE
+Plastic,waste,thermoplastic,PS
+Plastic,waste,thermoplastic,PP
+Plastic,waste,thermoplastic,PVC
+Textile,material,fiber,plant
+Textile,material,fiber,animal
+Textile,material,fiber,synthetic
+Textile,material,fiber,composite
+Textile,product,fiber,plant
+Textile,product,fiber,animal
+Textile,product,fiber,synthetic
+Textile,product,fiber,composite
+Textile,waste,fiber,plant
+Textile,waste,fiber,animal
+Textile,waste,fiber,synthetic
+Textile,waste,fiber,composite
+Wood,material,wood,hardwood
+Wood,material,wood,softwood
+Wood,material,wood,engineered
+Wood,product,wood,hardwood
+Wood,product,wood,softwood
+Wood,product,wood,engineered
+Wood,waste,wood,hardwood
+Wood,waste,wood,softwood
+Wood,waste,wood,engineered
+Gypsum,material,gypsum,food-grade
+Gypsum,material,gypsum,powder
+Gypsum,material,gypsum,raw
+Gypsum,material,gypsum,blocks
+Gypsum,product,gypsum,food-grade
+Gypsum,product,gypsum,powder
+Gypsum,product,gypsum,raw
+Gypsum,product,gypsum,blocks
+Gypsum,waste,gypsum,food-grade
+Gypsum,waste,gypsum,powder
+Gypsum,waste,gypsum,raw
+Gypsum,waste,gypsum,blocks

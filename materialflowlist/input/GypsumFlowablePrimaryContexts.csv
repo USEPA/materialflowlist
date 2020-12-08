@@ -1,0 +1,19 @@
+﻿Flowable,PrimaryContext
+gypsum,material
+durable goods,product
+nondurable goods,product
+drywall,product
+soil ammendment,product
+plaster,product
+food additive,product
+clay additive,product
+pavement,product
+gypsum,waste
+durable goods,waste
+nondurable goods,waste
+drywall,waste
+soil ammendment,waste
+plaster,waste
+food additive,waste
+clay additive,waste
+pavement,waste
