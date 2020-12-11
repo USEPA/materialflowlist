@@ -73,7 +73,7 @@ if __name__ == '__main__':
     flows = flows.merge(contexts, on=['Class', 'PrimaryContext'], how='inner')
 
     #generating context cutoff at category and full contexts
-    flowscategorycutoff = flows
+    flowscategorycutoff = flows.copy(deep=True)
     flowscategorycutoff['Context'] = flowscategorycutoff['PrimaryContext'] + "/" + flowscategorycutoff['Category']
     flowscategorycutoff = flowscategorycutoff.drop(columns=['PrimaryContext', 'Category', 'Type'])
     flows['Context'] = flows['PrimaryContext'] + "/" + flows['Category'] + "/" + flows['Type']
