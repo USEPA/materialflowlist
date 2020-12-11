@@ -3,6 +3,7 @@ metal,material
 packaging,product
 durable goods,product
 electronics,product
+batteries,product
 cans,product
 nondurable goods,product
 wire,product
@@ -11,6 +12,7 @@ metal,waste
 packaging,waste
 durable goods,waste
 electronics,waste
+batteries,waste
 cans,waste
 nondurable goods,waste
 wire,waste

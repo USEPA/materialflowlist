@@ -112,6 +112,7 @@ Metal,material,non-ferrous,aluminum
 Metal,material,non-ferrous,alloy
 Metal,material,non-ferrous,copper
 Metal,material,non-ferrous,gold
+Metal,material,non-ferrous,lead
 Metal,product,mixed,metal
 Metal,product,ferrous,iron
 Metal,product,ferrous,steel
@@ -120,12 +121,14 @@ Metal,product,non-ferrous,aluminum
 Metal,product,non-ferrous,copper
 Metal,product,non-ferrous,alloy
 Metal,product,non-ferrous,gold
+Metal,product,non-ferrous,lead
 Metal,waste,mixed,metal
 Metal,waste,ferrous,iron
 Metal,waste,ferrous,steel
 Metal,waste,non-ferrous,aluminum
 Metal,waste,non-ferrous,copper
 Metal,waste,non-ferrous,gold
+Metal,waste,non-ferrous,lead
 Metal,waste,ferrous,alloy
 Metal,waste,non-ferrous,alloy
 Other petroleum products,material,asphalt,paving

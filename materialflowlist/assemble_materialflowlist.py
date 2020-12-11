@@ -72,8 +72,14 @@ if __name__ == '__main__':
         flows = pd.concat([flows, class_flowables_w_primary_contexts])
     flows = flows.merge(contexts, on=['Class', 'PrimaryContext'], how='inner')
 
+    #generating context cutoff at category and full contexts
+    flowscategorycutoff = flows
+    flowscategorycutoff['Context'] = flowscategorycutoff['PrimaryContext'] + "/" + flowscategorycutoff['Category']
+    flowscategorycutoff = flowscategorycutoff.drop(columns=['PrimaryContext', 'Category', 'Type'])
     flows['Context'] = flows['PrimaryContext'] + "/" + flows['Category'] + "/" + flows['Type']
     flows = flows.drop(columns=['PrimaryContext', 'Category', 'Type'])
+
+    flows = flows.append(flowscategorycutoff, ignore_index=False)
 
     log.info('Total of ' + str(len(flows)) + ' flows with contexts created.')
 
@@ -85,12 +91,10 @@ if __name__ == '__main__':
         flowids.append(flowid)
     flows['Flow UUID'] = flowids
 
-    # Drop duplicate entries due to multiple alt units
+    # Drop entries due to duplicate UUIDs
     flows['Duplicates'] = flows.duplicated(subset=['Flow UUID'], keep='first')
     if flows['Duplicates'].sum() > 0:
-        log.info(str(flows['Duplicates'].sum()) + " flows with same UUID; these duplicates have been removed:")
-        duplicates_df = flows.loc[flows['Duplicates'] == True, 'Flowable']
-        print(duplicates_df.drop_duplicates().to_string(index=False))
+        log.info(str(flows['Duplicates'].sum()) + " flows with same UUID; these duplicates have been removed.")
         flows = flows.drop_duplicates(subset=['Flow UUID'], keep='first')
     flows.drop(columns='Duplicates')
 

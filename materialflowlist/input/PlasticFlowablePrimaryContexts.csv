@@ -5,6 +5,7 @@ packaging,product
 bags,product
 film,product
 electronics,product
+batteries,product
 bottles,product
 durable goods,product
 medical goods,product
@@ -21,6 +22,7 @@ packaging,waste
 bags,waste
 film,waste
 electronics,waste
+batteries,waste
 bottles,waste
 durable goods,waste
 medical goods,waste

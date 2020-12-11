@@ -1,11 +1,11 @@
-﻿Flowable,PrimaryContext,,,,,,,,,,,,,,,,,
-other petroleum products,material,,,,,,,,,,,,,,,,,
-roofing,product,,,,,,,,,,,,,,,,,
-nondurable goods,product,,,,,,,,,,,,,,,,,
-pavement,product,,,,,,,,,,,,,,,,,
-coatings,product,,,,,,,,,,,,,,,,,
-other petroleum products,waste,,,,,,,,,,,,,,,,,
-roofing,waste,,,,,,,,,,,,,,,,,
-nondurable goods,waste,,,,,,,,,,,,,,,,,
-pavement,waste,,,,,,,,,,,,,,,,,
-coatings,waste,,,,,,,,,,,,,,,,,
+﻿Flowable,PrimaryContext
+other petroleum products,material
+roofing,product
+nondurable goods,product
+pavement,product
+coatings,product
+other petroleum products,waste
+roofing,waste
+nondurable goods,waste
+pavement,waste
+coatings,waste
