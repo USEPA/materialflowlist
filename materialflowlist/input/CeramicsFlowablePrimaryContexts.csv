@@ -1,5 +1,5 @@
 ﻿Flowable,PrimaryContext
-clay,material
+ceramics,material
 containers,product
 durable goods,product
 nondurable goods,product
@@ -12,7 +12,7 @@ pottery,product
 roofing,product
 pipes,product
 plaster,product
-clay,waste
+ceramics,waste
 containers,waste
 durable goods,waste
 nondurable goods,waste

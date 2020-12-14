@@ -327,58 +327,58 @@ lard,kg,Livestock,product/dairy/yogurt,616990fe-fbd3-3cec-97db-df1c32de1788
 lard,kg,Livestock,product/eggs/chicken,6fe582f7-506c-3fcd-bcc1-b372cf6e9fcf
 lard,kg,Livestock,product/by-product/manure,2dddf282-8b11-3234-a148-e7ef887e1e85
 lard,kg,Livestock,product/by-product/carcass,b8c00faf-47db-3a9d-b47d-76800cfe67c4
-clay,kg,Clay,material/clay/terracotta/earthenware,2ca2ed1f-627a-33ee-a91f-fc73af698e81
-clay,kg,Clay,material/clay/porcelain,4ecd157b-3ecc-3358-ad01-b5409a25ee10
-clay,kg,Clay,waste/clay/terracotta/earthenware,780d2387-2d7a-3c50-b769-7e373ed3afbe
-clay,kg,Clay,waste/clay/porcelain,2bb49de8-7cb4-3516-8c57-3051ae2ff349
-containers,kg,Clay,waste/clay/terracotta/earthenware,9151b3ab-33af-3dba-a816-1f5844f67277
-containers,kg,Clay,waste/clay/porcelain,b7ebff31-0365-3cf9-81f3-763785a296bc
-durable goods,kg,Clay,waste/clay/terracotta/earthenware,6e72f2e6-3fab-3933-8fc8-b05006f8441b
-durable goods,kg,Clay,waste/clay/porcelain,bc5f9612-caf8-3008-9fd1-0b8338f715bc
-nondurable goods,kg,Clay,waste/clay/terracotta/earthenware,4bfe40dd-74f7-3ba9-9494-eb8e967309c8
-nondurable goods,kg,Clay,waste/clay/porcelain,80d3a123-148f-3af1-8101-7dc28e7b7187
-bricks,kg,Clay,waste/clay/terracotta/earthenware,160d62df-62ea-3186-bbf8-68608f84949d
-bricks,kg,Clay,waste/clay/porcelain,baec9980-e72e-35f6-83f9-d958482cd727
-dinnerware,kg,Clay,waste/clay/terracotta/earthenware,803c9eb2-8469-3cae-b17b-dcdf4a8c62f1
-dinnerware,kg,Clay,waste/clay/porcelain,bbd40b9e-80f3-358a-a3ff-c634edf82f59
-insulators,kg,Clay,waste/clay/terracotta/earthenware,562c20cc-f977-3569-ae20-84c4d58fb5e0
-insulators,kg,Clay,waste/clay/porcelain,c42602cb-2ce4-3dd5-a768-986b05a39688
-pavement,kg,Clay,waste/clay/terracotta/earthenware,7de7a256-823b-38af-be4f-69809cdcde9e
-pavement,kg,Clay,waste/clay/porcelain,2b59ed4c-6097-354e-a988-98839aa7f55f
-coatings,kg,Clay,waste/clay/terracotta/earthenware,0040fb24-8837-3190-a065-29a007be0256
-coatings,kg,Clay,waste/clay/porcelain,36eb6f85-5fa0-3530-8c25-ab3511ccdd7f
-pottery,kg,Clay,waste/clay/terracotta/earthenware,5c55cf72-ca9c-3c12-be5b-cdd0ec59a6dd
-pottery,kg,Clay,waste/clay/porcelain,3cc87934-d6da-3a15-8449-9c56697efba8
-roofing,kg,Clay,waste/clay/terracotta/earthenware,9890701c-74c2-39b4-a418-e8f905815e24
-roofing,kg,Clay,waste/clay/porcelain,dc852878-034b-3ab2-b32d-49f21e3303f8
-pipes,kg,Clay,waste/clay/terracotta/earthenware,30033f39-a8b8-32cc-a772-de6d772faae1
-pipes,kg,Clay,waste/clay/porcelain,cfe87d9b-c3b4-373b-b516-82bbbef179f0
-plaster,kg,Clay,waste/clay/terracotta/earthenware,06662733-3506-31ea-adfd-8055d0594b93
-plaster,kg,Clay,waste/clay/porcelain,e23ce940-a4fa-3af9-a3bf-21b2beeb4141
-containers,kg,Clay,product/clay/terracotta/earthenware,42a9a887-37f4-30c6-bff7-170622297cbe
-containers,kg,Clay,product/clay/porcelain,848735ff-37de-3723-aa36-5dc98872eabc
-durable goods,kg,Clay,product/clay/terracotta/earthenware,7762d05d-5121-310f-950b-640f42c1d380
-durable goods,kg,Clay,product/clay/porcelain,fd58cbe8-c6d7-3124-b00a-975b0db8d728
-nondurable goods,kg,Clay,product/clay/terracotta/earthenware,907f4791-997a-3a68-806d-ec209d53133d
-nondurable goods,kg,Clay,product/clay/porcelain,782680cb-09b4-3151-92d3-2a834f96b3e7
-bricks,kg,Clay,product/clay/terracotta/earthenware,3fecd9a3-67a4-3d27-856d-92d541795575
-bricks,kg,Clay,product/clay/porcelain,304bd953-bae6-3856-8f15-21c7d5385bd7
-dinnerware,kg,Clay,product/clay/terracotta/earthenware,8bc5dc17-dc67-32b8-964a-caa9f6fb6f7a
-dinnerware,kg,Clay,product/clay/porcelain,b1888005-2a0e-3544-ae20-19feb21ac13f
-insulators,kg,Clay,product/clay/terracotta/earthenware,f6906075-556e-381b-a481-fa0833ea4197
-insulators,kg,Clay,product/clay/porcelain,4301308a-3be4-37a1-8338-77199fab0ac1
-pavement,kg,Clay,product/clay/terracotta/earthenware,b2a4a85c-1a5a-302f-accb-08c0a30ebe09
-pavement,kg,Clay,product/clay/porcelain,265b9fe6-7cbe-3bba-9ae7-8b9e20394159
-coatings,kg,Clay,product/clay/terracotta/earthenware,eecb6669-bd20-396b-8b55-aadcd5814af8
-coatings,kg,Clay,product/clay/porcelain,d4747551-ce18-30ba-a338-131f05482c5b
-pottery,kg,Clay,product/clay/terracotta/earthenware,bd42cf6f-4b14-37ce-82cb-a77551817e5d
-pottery,kg,Clay,product/clay/porcelain,550444e3-5b1a-33e5-86f5-3dfdd8c5ce6f
-roofing,kg,Clay,product/clay/terracotta/earthenware,f9b601da-ac35-30a1-8b63-16bf30468298
-roofing,kg,Clay,product/clay/porcelain,f35cb36e-1972-3b56-b216-0e7441d6d2b1
-pipes,kg,Clay,product/clay/terracotta/earthenware,7eddec40-2857-3661-a008-fce52dac94d6
-pipes,kg,Clay,product/clay/porcelain,7dc6208f-2c91-34f4-b8b7-55be974f0a85
-plaster,kg,Clay,product/clay/terracotta/earthenware,2b3a0c26-76f1-3006-af8b-fe05663226a9
-plaster,kg,Clay,product/clay/porcelain,308b37cf-7278-3ad6-bb92-8d0dea27a87f
+ceramics,kg,Ceramics,material/ceramics/terracotta/earthenware,030b5255-945e-332c-9bf5-2fe283db5674
+ceramics,kg,Ceramics,material/ceramics/porcelain,1cb40daa-d2a2-3704-b4c9-b5b6c17e20d0
+ceramics,kg,Ceramics,waste/ceramics/terracotta/earthenware,3ebe5a12-1381-385c-9ba9-bd71b6ef0356
+ceramics,kg,Ceramics,waste/ceramics/porcelain,a993c24c-816b-3ddd-b1c6-6ab8df03ff3c
+containers,kg,Ceramics,waste/ceramics/terracotta/earthenware,e35cd1fc-c50a-3e10-9a12-cbfe18078526
+containers,kg,Ceramics,waste/ceramics/porcelain,c8a7fdbe-5cc6-3ab9-afe8-b74dd3e0031b
+durable goods,kg,Ceramics,waste/ceramics/terracotta/earthenware,63066ec9-f9bb-325d-b782-bc3ebac1578d
+durable goods,kg,Ceramics,waste/ceramics/porcelain,b4e88fc3-e575-34cc-869e-2b97b4af1cfa
+nondurable goods,kg,Ceramics,waste/ceramics/terracotta/earthenware,7135755c-a57a-31df-a675-a0ad818b8ff6
+nondurable goods,kg,Ceramics,waste/ceramics/porcelain,0025285a-348f-3ff3-b9ee-e11024b63a64
+bricks,kg,Ceramics,waste/ceramics/terracotta/earthenware,cef476b4-e51d-3be1-bf79-bfcd291276da
+bricks,kg,Ceramics,waste/ceramics/porcelain,9ef9a222-ecbe-3aeb-9179-3413e4c7813c
+dinnerware,kg,Ceramics,waste/ceramics/terracotta/earthenware,f5e36ff1-fc7b-3cf5-b6ac-314a26f8c200
+dinnerware,kg,Ceramics,waste/ceramics/porcelain,ba1fe83f-b9b0-31ce-b1c2-72b024fcba76
+insulators,kg,Ceramics,waste/ceramics/terracotta/earthenware,1b57cd18-960c-3c73-bae1-9990dafd8cea
+insulators,kg,Ceramics,waste/ceramics/porcelain,0a415602-abfe-3072-84e8-3ceedcac8d74
+pavement,kg,Ceramics,waste/ceramics/terracotta/earthenware,0cd743ab-abc3-340f-aaf9-f68ab1aa1592
+pavement,kg,Ceramics,waste/ceramics/porcelain,9d6692ff-b33e-3262-af6b-24bf6854ff60
+coatings,kg,Ceramics,waste/ceramics/terracotta/earthenware,850e69f7-6bd2-313b-b2e1-4051f9b5319e
+coatings,kg,Ceramics,waste/ceramics/porcelain,db8dde86-0c5e-3728-a83f-4efcc4d61f83
+pottery,kg,Ceramics,waste/ceramics/terracotta/earthenware,538b0b06-84a6-3748-9f8e-552f6b9ad854
+pottery,kg,Ceramics,waste/ceramics/porcelain,9639b065-6ac3-3900-891b-ce17f21fc619
+roofing,kg,Ceramics,waste/ceramics/terracotta/earthenware,21cada3b-4f56-3b97-8680-09089f858f53
+roofing,kg,Ceramics,waste/ceramics/porcelain,8ef8ab31-3abe-3b4e-a3bf-b62b046b4441
+pipes,kg,Ceramics,waste/ceramics/terracotta/earthenware,916a9832-1cc4-39fd-a42f-6914022e9426
+pipes,kg,Ceramics,waste/ceramics/porcelain,a2e10499-0838-3335-885d-3524eb71e9d4
+plaster,kg,Ceramics,waste/ceramics/terracotta/earthenware,ffb04e65-0761-34d5-bec3-cb30c748f117
+plaster,kg,Ceramics,waste/ceramics/porcelain,a1c5c299-ecea-3219-be46-c146d35fad76
+containers,kg,Ceramics,product/ceramics/terracotta/earthenware,18c5bb47-46f4-3ed8-8dad-aa60f5084654
+containers,kg,Ceramics,product/ceramics/porcelain,3d1fbfcb-48b3-36f1-8b9b-f3197e6b40ff
+durable goods,kg,Ceramics,product/ceramics/terracotta/earthenware,b3015d5b-daf9-345b-8f29-8f07c7a234d9
+durable goods,kg,Ceramics,product/ceramics/porcelain,15b8a649-dfa5-383b-8ebc-311530b346b9
+nondurable goods,kg,Ceramics,product/ceramics/terracotta/earthenware,8d3c614f-0ba4-3253-8bc8-a5c987e6455d
+nondurable goods,kg,Ceramics,product/ceramics/porcelain,decf4a06-445c-3ef8-82dd-16fea469dec7
+bricks,kg,Ceramics,product/ceramics/terracotta/earthenware,a9f436b7-bec7-3877-b585-4896376f3e29
+bricks,kg,Ceramics,product/ceramics/porcelain,faaf6bbf-b031-3953-b951-e1005091d202
+dinnerware,kg,Ceramics,product/ceramics/terracotta/earthenware,7a1a739c-0484-3583-ba98-74bf182bc9d5
+dinnerware,kg,Ceramics,product/ceramics/porcelain,540dfd7e-096d-3b5d-89dd-0d70c6561478
+insulators,kg,Ceramics,product/ceramics/terracotta/earthenware,4e8a2b36-5b27-3c7f-8cda-15bcf15a05e5
+insulators,kg,Ceramics,product/ceramics/porcelain,e4852462-34f4-3a2f-b72a-67d70fbd0397
+pavement,kg,Ceramics,product/ceramics/terracotta/earthenware,12126373-6d8f-32e7-b481-470a902bbcef
+pavement,kg,Ceramics,product/ceramics/porcelain,66c5f9cf-58da-3d93-a53e-a852560c1ca8
+coatings,kg,Ceramics,product/ceramics/terracotta/earthenware,4d39282f-31b8-390c-82a2-3f532cc6d47f
+coatings,kg,Ceramics,product/ceramics/porcelain,0d8624db-a9d0-3cde-a30d-7464989a8231
+pottery,kg,Ceramics,product/ceramics/terracotta/earthenware,ee076887-5c63-37af-984a-79a375ea87c1
+pottery,kg,Ceramics,product/ceramics/porcelain,7cf2189d-877c-3aa8-97df-265f5d1497c2
+roofing,kg,Ceramics,product/ceramics/terracotta/earthenware,803eb0d2-e265-3163-a111-a37aff387b14
+roofing,kg,Ceramics,product/ceramics/porcelain,16ecb04c-a162-3a23-9872-23a0edba591a
+pipes,kg,Ceramics,product/ceramics/terracotta/earthenware,e07a479c-4e5f-3b6d-84ea-8411fd9058ac
+pipes,kg,Ceramics,product/ceramics/porcelain,f1bf7642-df19-3b91-a3b2-5ccce89059db
+plaster,kg,Ceramics,product/ceramics/terracotta/earthenware,dd6e2ce2-65dc-368c-9a03-21e83f728f23
+plaster,kg,Ceramics,product/ceramics/porcelain,798e6da6-c47a-31dc-ae6e-56f31b46f875
 gypsum,kg,Gypsum,material/gypsum/food-grade,07048de2-6767-363b-8421-0f060c9bd0b0
 gypsum,kg,Gypsum,material/gypsum/powder,5fbd5ddb-be27-3a86-b773-a4b1a0a30e38
 gypsum,kg,Gypsum,material/gypsum/raw,c92e48b5-75f3-3bf6-8a5c-04ebc1a2c04b
@@ -1678,32 +1678,32 @@ lard,kg,Livestock,product/meat,ec2aa826-c187-3667-b540-2359b80a613f
 lard,kg,Livestock,product/dairy,1b6e4b0c-b535-3b10-8d1b-fdcda1f08d1b
 lard,kg,Livestock,product/eggs,b22ea511-da16-3f5e-82fc-faf02b95ef13
 lard,kg,Livestock,product/by-product,6edbf110-a29b-3d9e-bc72-7709a6cf301b
-clay,kg,Clay,material/clay,79d0439d-eb8b-3b67-acfe-387a36f8da20
-clay,kg,Clay,waste/clay,de2fd544-66ba-35b5-a8e8-2c3cb06801b2
-containers,kg,Clay,waste/clay,bba9a75e-b37f-3a6f-90cf-81a76e7ff80a
-durable goods,kg,Clay,waste/clay,446709f6-ddcf-3ad5-b742-518f3b4a8480
-nondurable goods,kg,Clay,waste/clay,674f461a-9ea6-3795-994a-12dfabb9157b
-bricks,kg,Clay,waste/clay,5bce7c06-f40c-3d40-a540-5d1b71f869e9
-dinnerware,kg,Clay,waste/clay,1e33c70a-9c71-3efe-a156-809b989f0548
-insulators,kg,Clay,waste/clay,088e7525-95d3-3e53-96ec-f4728576d54a
-pavement,kg,Clay,waste/clay,6be29785-0bc3-3046-a8f9-2b82f57bf9e5
-coatings,kg,Clay,waste/clay,f8aebd46-4166-38a1-adfb-c7710ea8d56f
-pottery,kg,Clay,waste/clay,fb6ee084-7e3f-329e-b277-d0416d73328c
-roofing,kg,Clay,waste/clay,faf0e17a-e640-3697-a5ac-832f79290a31
-pipes,kg,Clay,waste/clay,94fd174f-e5b9-36bd-a2df-526626fe219e
-plaster,kg,Clay,waste/clay,97195eda-e620-37a2-9843-cf29c25d1196
-containers,kg,Clay,product/clay,841c3c86-4ca1-30d5-9190-3f61f08e91a6
-durable goods,kg,Clay,product/clay,170a7990-0806-3e82-9f00-5d995586edc2
-nondurable goods,kg,Clay,product/clay,d698857f-864c-34f0-9865-7a16dac20c11
-bricks,kg,Clay,product/clay,357043b6-86fa-3b8d-b6be-86be81f47a92
-dinnerware,kg,Clay,product/clay,55c77744-6b3b-3204-9e68-d1e1168e8e42
-insulators,kg,Clay,product/clay,e6db9f0a-c578-3e53-b15f-dc77f90fc126
-pavement,kg,Clay,product/clay,e22d6ac2-09b1-34b3-bd73-7f65431fa9bf
-coatings,kg,Clay,product/clay,257a2a77-6e50-3399-a05f-942107312975
-pottery,kg,Clay,product/clay,e239f163-b98f-3c75-b9d4-e14070e3f91b
-roofing,kg,Clay,product/clay,ec8de9f3-381e-33ff-842d-9c21b5498b27
-pipes,kg,Clay,product/clay,65dd4162-e24b-321a-a8ef-c08d42324c5f
-plaster,kg,Clay,product/clay,c236b393-1a6b-39d0-82db-33cea54bd4a6
+ceramics,kg,Ceramics,material/ceramics,2e91178b-6e72-3756-a42f-6d55b492e140
+ceramics,kg,Ceramics,waste/ceramics,d23e3bf8-9002-388e-97d0-813f3b12eaa7
+containers,kg,Ceramics,waste/ceramics,d8ea94f1-d402-3918-9653-c5a99cf99462
+durable goods,kg,Ceramics,waste/ceramics,50363127-4519-32a6-966c-6c3c0c00ffe2
+nondurable goods,kg,Ceramics,waste/ceramics,81a5973f-29be-3177-895f-b3903c620d42
+bricks,kg,Ceramics,waste/ceramics,3d059b67-bb3e-3950-ae96-26db5c80b6eb
+dinnerware,kg,Ceramics,waste/ceramics,e8a27913-9545-31a1-a40a-968621456832
+insulators,kg,Ceramics,waste/ceramics,183a72fe-c6ee-38f7-a945-09ec7c59ae57
+pavement,kg,Ceramics,waste/ceramics,612441df-6896-3eb5-bd05-440a7489fdff
+coatings,kg,Ceramics,waste/ceramics,3cdad12a-d4dc-3218-8f83-380b281f6621
+pottery,kg,Ceramics,waste/ceramics,478c0312-b773-3206-a8bc-28f1a41d9605
+roofing,kg,Ceramics,waste/ceramics,9f6c6c7f-1e99-3c6b-9084-8f83d6fe7b8d
+pipes,kg,Ceramics,waste/ceramics,d6df5a4e-5f16-3ebb-86f2-52707bc3bfc3
+plaster,kg,Ceramics,waste/ceramics,79c00f44-9c27-3fe4-b2e9-796afc48143d
+containers,kg,Ceramics,product/ceramics,8e38aea8-ab18-3b9d-ba9c-ba70f411b080
+durable goods,kg,Ceramics,product/ceramics,1b99910d-a7b3-3a7b-bf69-5baff67d3761
+nondurable goods,kg,Ceramics,product/ceramics,18f2972f-fcff-3e5b-83aa-230f1b5f0675
+bricks,kg,Ceramics,product/ceramics,a4e5e49e-c47a-3228-bd8c-2be9cc0f01da
+dinnerware,kg,Ceramics,product/ceramics,b0ac7cfe-29e2-31bd-aab1-6ff93db9991f
+insulators,kg,Ceramics,product/ceramics,d90f5052-f108-3c12-aad1-ee7cf3a8266c
+pavement,kg,Ceramics,product/ceramics,2243fb54-0032-3f31-8336-e06d29a045d3
+coatings,kg,Ceramics,product/ceramics,4b0f8e29-ae52-35ec-a194-35af8180d64c
+pottery,kg,Ceramics,product/ceramics,bf4bdcb1-d460-35fa-b746-836a1ef861b1
+roofing,kg,Ceramics,product/ceramics,d96d13b9-5c69-3186-b6f3-9111b475a270
+pipes,kg,Ceramics,product/ceramics,8cdc30e8-4c38-3f03-9cdc-27796f7efe03
+plaster,kg,Ceramics,product/ceramics,dd03bb3a-73c6-3a95-ac75-d92df6a90755
 gypsum,kg,Gypsum,material/gypsum,395523ab-d448-3ae5-a97a-04cf0686e4ea
 gypsum,kg,Gypsum,waste/gypsum,22c0e18f-2f5e-3d3e-bc83-872a1e494d12
 durable goods,kg,Gypsum,waste/gypsum,afb52f0b-36e1-39d5-9b6e-13664d99afb1
