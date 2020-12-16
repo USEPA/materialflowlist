@@ -1,5 +1,4 @@
 ﻿Flowable,Unit
-ceramics,kg
 containers,kg
 durable goods,kg
 nondurable goods,kg
@@ -12,3 +11,7 @@ pottery,kg
 roofing,kg
 pipes,kg
 plaster,kg
+drywall,kg
+soil ammendment,kg
+food additive,kg
+clay additive,kg

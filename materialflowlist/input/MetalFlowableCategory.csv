@@ -1,0 +1,19 @@
+﻿Flowable,PrimaryContext
+packaging,mixed
+packaging,ferrous
+packaging,non-ferrous
+durable goods,mixed
+durable goods,ferrous
+durable goods,non-ferrous
+electronics,mixed
+electronics,ferrous
+electronics,non-ferrous
+batteries,non-ferrous
+cans,mixed
+cans,ferrous
+cans,non-ferrous
+wire,mixed
+wire,ferrous
+wire,non-ferrous
+pipes,ferrous
+pipes,non-ferrous
