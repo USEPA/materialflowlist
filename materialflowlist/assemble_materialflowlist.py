@@ -6,7 +6,7 @@ As a pandas dataframe from input files. Write it to the output folder.
 
 import pandas as pd
 from materialflowlist.globals import log, inputpath, outputpath, flow_list_specs, flow_list_fields, as_path
-from materialflowlist.contexts import all_contexts, contexts
+from materialflowlist.contexts import contexts
 from fedelemflowlist.uuid_generators import make_uuid
 
 #altunits_data_types = {'Conversion Factor': flow_list_fields['AltUnitConversionFactor'][0]['dtype']} #AltUnitConversionFactor
@@ -16,7 +16,7 @@ def read_in_flowclass_file(flowclass, flowclasstype):
     Declare data types for select variables in flow class input files.
 
     :param flowclass: One of the flow class names
-    :param flowclasstype: either 'Flowables',or 'FlowablePrimaryContexts'
+    :param flowclasstype: either 'Flowables',or 'FlowableCategoryContexts'
     :return: pd dataframe for that flow class file
     """
     data_types = None
@@ -30,8 +30,8 @@ if __name__ == '__main__':
 
     flowables = pd.DataFrame()
     flows = pd.DataFrame()
-    #flowables_w_primary_contexts = pd.DataFrame()
-    #primary_contexts = pd.DataFrame()
+    #flowables_w_category = pd.DataFrame()
+    #category = pd.DataFrame()
 
     # Loop through flow class specific files based on those classes specified in flowlistspecs
     for t in flow_list_specs["flow_classes"]:
@@ -43,13 +43,13 @@ if __name__ == '__main__':
         # Add Flow Class to columns
         flowables_for_class['Class'] = t
         flowables = pd.concat([flowables, flowables_for_class], ignore_index=True, sort=False)
-        class_primary_contexts = read_in_flowclass_file(t, 'FlowablePrimaryContexts')
+        class_category = read_in_flowclass_file(t, 'FlowableCategory')
         flowables_for_class = flowables_for_class.drop_duplicates()
-        log.info('Import ' + str(len(class_primary_contexts)) + ' flowable contexts for class ' + t)
-        class_primary_contexts = class_primary_contexts.dropna(axis=0, how='all')
+        log.info('Import ' + str(len(class_category)) + ' flowable contexts for class ' + t)
+        class_category = class_category.dropna(axis=0, how='all')
 
         # merge in flowables and flowable primary contexts
-        class_flowables_w_primary_contexts = pd.merge(flowables_for_class, class_primary_contexts, on=['Flowable'], how='left')
+        class_flowables_w_category = pd.merge(flowables_for_class, class_category, on=['Flowable'], how='left')
         # Add in Alt units
         try:
             altunits_for_class = read_in_flowclass_file(t, 'FlowableAltUnits')
@@ -60,17 +60,29 @@ if __name__ == '__main__':
             # rename cols to match final flow list specs
             altunits_for_class = altunits_for_class.rename(columns={'Conversion Factor': 'AltUnitConversionFactor',
                                                                     'Alternate Unit': 'AltUnit'})
-            class_flowables_w_primary_contexts = pd.merge(class_flowables_w_primary_contexts, altunits_for_class,
+            class_flowables_w_category = pd.merge(class_flowables_w_category, altunits_for_class,
                                                           left_on=['Flowable', 'Unit'],
                                                           right_on=['Flowable', 'Reference Unit'], how='left')
             # Drop old reference unit
-            class_flowables_w_primary_contexts = class_flowables_w_primary_contexts.drop(columns=['Reference Unit'])
+            class_flowables_w_category = class_flowables_w_category.drop(columns=['Reference Unit'])
         except FileNotFoundError:
             altunits_for_class = None  # Do nothing
-        log.info('Create ' + str(len(class_flowables_w_primary_contexts)) +
+        log.info('Create ' + str(len(class_flowables_w_category)) +
                  ' flows with primary context for class ' + t)
-        flows = pd.concat([flows, class_flowables_w_primary_contexts])
-    flows = flows.merge(contexts, on=['Class', 'PrimaryContext'], how='inner')
+        flows = pd.concat([flows, class_flowables_w_category])
+    product_waste_contexts = contexts[contexts.PrimaryContext != "material"]
+    flows = flows.merge(product_waste_contexts, on=['Class', 'Category'], how='inner')
+
+    #adding flowables based on class name for unspecified material flows
+    material_waste_contexts = contexts.copy(deep=True)
+    material_waste_contexts = material_waste_contexts[material_waste_contexts.PrimaryContext != "product"]
+    classflows_list = flow_list_specs['flow_classes']
+    classflows = pd.DataFrame({'Class':classflows_list})
+    classflows['Flowable'] = classflows['Class'].str.lower()
+    materialflows = pd.merge(classflows,material_waste_contexts,on='Class')
+    materialflows['Unit'] = "kg"
+
+    flows = flows.append(materialflows, ignore_index=False)
 
     #generating context cutoff at category and full contexts
     flowscategorycutoff = flows.copy(deep=True)

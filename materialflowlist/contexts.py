@@ -14,7 +14,6 @@ contexts = pd.read_csv(inputpath + 'Contexts.csv', na_values='N/A')
 max_compartment_classes = len(contexts.columns)
 # Define compartment_classes
 compartment_classes = flow_list_specs['flow_classes'] +\
-                      flow_list_specs['primary_context_classes'] +\
                       flow_list_specs['category_context_classes'] + \
                       flow_list_specs['type_context_classes']
 # Create dictionary of context levels
@@ -26,7 +25,13 @@ for c in compartment_classes:
 
 # Drop duplicates just as a check
 contexts = contexts.drop_duplicates()
+primarycontexts = pd.DataFrame(data=flow_list_specs['primary_context_classes'],columns=['PrimaryContext'])
+primarycontexts['target'] = 1
+contexts['target'] = 1
+contexts = pd.merge(primarycontexts, contexts, on='target').drop('target', axis=1)
 
+
+"""
 # Describe a pattern of compartment classes used in each context
 # Create a clean list with no NAs
 context_patterns = []
@@ -49,5 +54,15 @@ for r in context_list_na_removed:
 
 # Write the context paths and patterns to a dictionary, then df
 d = {'Context': context_paths, 'Pattern': context_patterns}
-all_contexts = pd.DataFrame(data=d)
-all_contexts
+primarycontexts = pd.DataFrame(data=flow_list_specs['primary_context_classes'],columns=['PrimaryContext'])
+contextcombo = pd.DataFrame(data=d)
+
+# Combined PrimaryContexts and contexts for every combination
+primarycontexts['target'] = 1
+contextcombo['target'] = 1
+all_contexts = pd.merge(primarycontexts, contextcombo, on='target').drop('target', axis=1)
+all_contexts = pd.concat([all_contexts,all_contexts['Context'].str.split('/', expand=True)], axis=1)
+context_order = [0, 'PrimaryContext', 1, 2]
+all_contexts['Context'] = all_contexts[context_order].apply(lambda row: '/'.join(row.values.astype(str)), axis=1)
+all_contexts = all_contexts.drop(context_order, axis = 1)
+"""
