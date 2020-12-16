@@ -1,80 +1,60 @@
 Flowable,Unit,Class,Context,Flow UUID
-bricks,kg,Aggregate,product/concrete/structural,e6e78016-ecf7-3526-9b4c-afdd63dac489
-bricks,kg,Aggregate,product/concrete/paving,b619d374-5e6f-3710-b39c-76877f31fa48
-bricks,kg,Aggregate,waste/concrete/structural,66fde7f8-98ba-3156-a037-7a8228594758
-bricks,kg,Aggregate,waste/concrete/paving,350f4889-5321-35aa-ab13-dbcbc1058a4b
-pavement,kg,Aggregate,product/concrete/structural,8418b7f7-c262-3d82-93e8-1e64078737fc
-pavement,kg,Aggregate,product/concrete/paving,9da0d86a-bb41-397e-b9e8-b133074b01f5
-pavement,kg,Aggregate,waste/concrete/structural,5114b032-126b-339a-af86-cb57ce2593bd
-pavement,kg,Aggregate,waste/concrete/paving,908f57e8-8100-3c82-9719-1e6dc39266ab
-fill,kg,Aggregate,product/soil/topsoil,cecc1d32-2ad4-31cb-bd2f-a4310ec96d29
-fill,kg,Aggregate,product/soil/subsoil,f5918db1-8f24-3e61-a4ed-c4f138e636e8
-fill,kg,Aggregate,waste/soil/topsoil,fbb07027-37ee-3891-a2cc-519dad894eca
-fill,kg,Aggregate,waste/soil/subsoil,3e43d79b-1fd8-355d-b0f1-73fdaef6d231
-fill,kg,Aggregate,product/rock/slab,6531445b-8c24-38e5-80ee-79d7fdfdca75
-fill,kg,Aggregate,product/rock/crushed,f67b5f2d-641e-3e05-8402-73e697a92421
-fill,kg,Aggregate,waste/rock/slab,9fb7a37b-e90b-37b5-9cd4-a277e7d648f5
-fill,kg,Aggregate,waste/rock/crushed,3be1bb1b-83ef-3995-9d43-ef4687135c1a
-stonework,kg,Aggregate,product/rock/slab,c79c32a0-0159-36a9-b6a2-5e350e58507b
-stonework,kg,Aggregate,product/rock/crushed,7096205f-5946-32c1-9f62-63f60de862f3
-stonework,kg,Aggregate,waste/rock/slab,cdf7c4d1-b89e-35f9-b438-5dc5170efff7
-stonework,kg,Aggregate,waste/rock/crushed,ad2c6f39-daeb-3e38-b20e-ba2eb4070295
-fill,kg,Aggregate,product/ash/bottom,21e4b308-f739-3af7-90fc-fc2c9d991af5
-fill,kg,Aggregate,product/ash/fly,da5c031f-30bc-334f-b4a1-f60e35b90208
-fill,kg,Aggregate,product/ash/wood,95e97485-ad05-35bb-85bf-e4b866745a67
-fill,kg,Aggregate,waste/ash/bottom,af1c31f3-7eea-3585-9ce8-3a8219b66408
-fill,kg,Aggregate,waste/ash/fly,4362c8f6-fc41-377c-8ed8-3fc6fb90d73a
-fill,kg,Aggregate,waste/ash/wood,8124c8a6-3849-38c0-9d3a-2652ef32cc83
-containers,kg,Glass,product/glass/clear,f6628c3f-d545-3e0b-87a7-57b64db3b2e0
-containers,kg,Glass,product/glass/green,a3989c57-027c-379b-a6ae-99a1c1419aed
-containers,kg,Glass,product/glass/brown,790faff8-4409-370e-9fc5-a7b77231b468
-containers,kg,Glass,product/glass/automotive,859cf865-9a2c-39ab-ab2b-fde5f7e67f05
-containers,kg,Glass,product/glass/mixed colors,9b7da952-fc79-3dc3-9556-a1eff5d36c1e
-containers,kg,Glass,waste/glass/clear,ea31f76f-83a2-3421-a7ac-118a97e7fec7
-containers,kg,Glass,waste/glass/green,0d965e07-43d3-3fb8-aa7b-386801116de9
-containers,kg,Glass,waste/glass/brown,f4b5f730-305c-3f95-b25d-51c6d0735b8d
-containers,kg,Glass,waste/glass/automotive,eaa061e3-5631-3585-8b66-d7c5276b235d
-containers,kg,Glass,waste/glass/mixed colors,a4ebb22b-af2a-3bd7-a547-71a9a687ff6d
-bottles,kg,Glass,product/glass/clear,d531edab-bb37-3ab0-b9f4-11c2691dd417
-bottles,kg,Glass,product/glass/green,8bdf2359-b205-3561-a61a-c387100bdb3f
-bottles,kg,Glass,product/glass/brown,b11fe843-1c45-3457-afa3-01c7e7912911
-bottles,kg,Glass,product/glass/automotive,86348c1e-4047-3296-b774-167929ea1abd
-bottles,kg,Glass,product/glass/mixed colors,a48a293a-9a1a-373d-b8ac-c7b491b3d495
-bottles,kg,Glass,waste/glass/clear,84a7c8ac-c3a0-3e5a-b1eb-6dc64ccb8ebd
-bottles,kg,Glass,waste/glass/green,e69d7bb0-e93f-30d7-8ea8-f0fb39a77924
-bottles,kg,Glass,waste/glass/brown,fcb53d9d-7f10-3bbe-8383-b03658424c8b
-bottles,kg,Glass,waste/glass/automotive,b7791cf0-3d06-334b-80df-539a8c034277
-bottles,kg,Glass,waste/glass/mixed colors,b28741fc-4213-39b2-bfa0-a3ae727c1498
-sheet,kg,Glass,product/glass/clear,637f2919-b39b-38cb-b2bf-eeb51c733d46
-sheet,kg,Glass,product/glass/green,5ed753e9-f31f-3797-830a-281714faedc5
-sheet,kg,Glass,product/glass/brown,452aedfe-7167-3b81-a922-5308ab80f342
-sheet,kg,Glass,product/glass/automotive,e5d2e3ca-f17d-3f87-890b-b8791cd550f7
-sheet,kg,Glass,product/glass/mixed colors,665e8ae9-f30f-3cd7-b523-0532f2fba255
-sheet,kg,Glass,waste/glass/clear,ee3bc6c8-674f-37b0-adc7-d01c570855c7
-sheet,kg,Glass,waste/glass/green,7be22d2a-671e-3d35-9877-a573de9b6500
-sheet,kg,Glass,waste/glass/brown,5b6f95e0-0bff-3c28-ae82-692af6cd6c95
-sheet,kg,Glass,waste/glass/automotive,58664ec9-302e-3512-8e95-3c946f1c412d
-sheet,kg,Glass,waste/glass/mixed colors,20d1c7ec-cea8-3f19-8282-425d3b540be1
-windows,kg,Glass,product/glass/clear,5e205c61-5d0d-32fd-a5d2-e5b0836b1367
-windows,kg,Glass,product/glass/green,e780e042-9ffe-389c-a4db-1a87cf3bc86f
-windows,kg,Glass,product/glass/brown,f58b7b38-53ff-3c1a-af18-44fdb19bd4e5
-windows,kg,Glass,product/glass/automotive,4382bc61-17d5-30e3-9acb-3a5b535da64b
-windows,kg,Glass,product/glass/mixed colors,2ed11d82-e152-3251-8535-5d32b461da19
-windows,kg,Glass,waste/glass/clear,92cebb67-6734-38c5-af0f-929e41840146
-windows,kg,Glass,waste/glass/green,ae30f8a6-d4c9-3193-9a2d-d682ccf15aa1
-windows,kg,Glass,waste/glass/brown,46dd29bb-fb73-38a1-8f92-2a7f302b7401
-windows,kg,Glass,waste/glass/automotive,99e02a58-3fca-336e-8cde-f5f1759e10e2
-windows,kg,Glass,waste/glass/mixed colors,47444fa5-c0e3-3def-bdb9-4b2ac381fcd2
-coatings,kg,Glass,product/glass/clear,bb6d19aa-923d-3438-ba3f-478c2c234475
-coatings,kg,Glass,product/glass/green,c8f42882-855a-3ba4-ba45-2cdd26308fa2
-coatings,kg,Glass,product/glass/brown,6b719128-82f7-30a2-b345-1a9acd14010d
-coatings,kg,Glass,product/glass/automotive,c9c60d15-ce97-3464-9044-6fdec269ca0e
-coatings,kg,Glass,product/glass/mixed colors,d705a36f-afea-3e06-a41a-70cbe040304d
-coatings,kg,Glass,waste/glass/clear,57e30292-dee3-3613-8286-f53119509a16
-coatings,kg,Glass,waste/glass/green,f327f011-8e67-3c8a-9b88-b0c7b97b43aa
-coatings,kg,Glass,waste/glass/brown,6a9bf48c-836e-3e72-a08d-656ed6f76880
-coatings,kg,Glass,waste/glass/automotive,d461d810-552e-35b7-b9e2-dbac55f9609a
-coatings,kg,Glass,waste/glass/mixed colors,22fd8f2b-6792-3d18-aed0-b6e0499756d2
+bricks,kg,Aggregate,,138b0d42-015c-396a-a618-f963d4fd60eb
+pavement,kg,Aggregate,,7ecf4e6c-463b-3991-be0a-7f4dbad2b1b8
+fill,kg,Aggregate,,61b847e4-cd10-3df9-ad79-0ea35e78ed96
+stonework,kg,Aggregate,,7491f5e1-fb45-3f08-8341-9a600cddcf2c
+food,kg,Crops,,9718825d-80eb-3422-98b0-cc7ada10802b
+animal feed,kg,Crops,,cc1d63d4-01b2-3e73-8872-4f3068c2a4c0
+pellets,kg,Crops,,8533a098-e0eb-3b38-b2ea-86fbc2f7075e
+vegetable oil,kg,Crops,,a2447821-6030-3add-88fa-639a6d17dffd
+trimmings,kg,Crops,,833e50cb-82fe-30c7-8930-72c57f181c11
+briquettes,kg,Crops,,2318c088-b14b-3b05-8c7d-88af673846a0
+containers,kg,Glass,,9482c075-a780-3b42-8285-47b8b87636d2
+bottles,kg,Glass,,a16c5f3a-686a-336d-a7e4-5e57f32a230d
+sheet,kg,Glass,,9041e931-bcfd-3f98-b000-0bc0908c8601
+windows,kg,Glass,,1c1d5cba-7363-3b06-88c6-ced296286deb
+coatings,kg,Glass,,afab951e-3ea1-31ed-bce2-49de4aceadcd
+durable goods,kg,Minerals,,dda2b12f-ed6d-3610-8b93-a84e0fc7c6cc
+nondurable goods,kg,Minerals,,419dcdd1-3604-335c-8f41-8f34dbd5753b
+plaster,kg,Minerals,,ce3ba7a7-8f2c-37e1-ab48-b0f11a8d6023
+drywall,kg,Minerals,,86273819-c776-338f-acb7-2e85673027d0
+soil ammendment,kg,Minerals,,c4d06a1b-4f07-369e-a725-25d90baa97b3
+food additive,kg,Minerals,,06f5c159-1e58-3a47-8e3a-31d4c936275e
+clay additive,kg,Minerals,,f84c4393-712d-3967-b1a1-ffe3795fe660
+manure,kg,Livestock,,24d25252-75db-390a-b9b0-3268983f30bd
+tallow,kg,Livestock,,1ab68b54-f34c-3cd1-8a00-bb78f1c56904
+lard,kg,Livestock,,d4569739-33aa-3c90-b241-8fc7406fac8a
+roofing,kg,Other petroleum products,,eb37761d-dc0f-33ec-b52f-6ad8e7169a2f
+packaging,kg,Paper,,603fde46-4cfa-3516-a05b-75a927e9c31f
+bags,kg,Paper,,4c2f8e8b-d392-30ec-b43a-f7c3f1f99b99
+books,kg,Paper,,db6e75f7-2993-3758-a0cd-f6f5f42a2956
+magazines,kg,Paper,,0dd74abd-ac19-39c9-bf76-4ecfb49afc3d
+newspapers,kg,Paper,,541cb9de-c353-37a3-b506-f638bfcbf778
+aseptic cartons,kg,Paper,,535cb318-4bd1-3a34-b2fe-674165d71c99
+film,kg,Plastic,,4391d91a-8edb-30c3-b8e6-b28fef37a2e9
+electronics,kg,Plastic,,1a9fbfa9-880d-387d-b364-d24e41fd3c04
+batteries,kg,Plastic,,d1c59241-66ae-3d7a-abac-07deb65cfc5e
+medical goods,kg,Plastic,,826483e9-6814-3406-a40f-df643638465e
+flooring,kg,Plastic,,0f7e7313-fdeb-3e1b-9b86-d9cf52808a11
+footware,kg,Plastic,,a8ec9f0f-2c8a-35a2-addd-a37026bae8ff
+pipes,kg,Plastic,,cafc7927-f22c-3428-8d51-ab63cf839902
+tires,kg,Plastic,,11240609-d5ae-3acf-88cf-d0724394c125
+adhesives,kg,Plastic,,85aced30-cf91-3539-a65d-fb8d1dd8112c
+apparel,kg,Textile,,328a54bd-3d26-3f9d-a1ec-4196e2e28386
+carpets,kg,Textile,,5d7178ed-9c9f-3fec-9992-0a4989d901ef
+rugs,kg,Textile,,b98956e9-8d8f-3b42-84f2-ecf80134fb9f
+linens,kg,Textile,,6baa6ec4-19d4-3cd8-a56a-cee611fd7042
+automotive upholstery,kg,Textile,,f8c04d92-b07a-3c60-8c83-3e102c2b7c95
+furniture,kg,Textile,,49de57e0-c8db-31be-be25-7f9250bb0627
+lumber,kg,Wood,,06afe924-ca3a-3e5a-9302-2755d4a436ba
+fiberboard,kg,Wood,,6004c10e-9906-3af3-be97-6a7aeb98c864
+particleboard,kg,Wood,,4f160a45-2a7d-3d8e-9c9c-f8527fa0e3fb
+plywood,kg,Wood,,bfb21e12-1a57-3612-ac10-d3d328a16a17
+pallets,kg,Wood,,6bbc66ea-a516-3d19-9bd9-07f57abfa04c
+green waste,kg,Wood,,94e5a6d2-2207-3a97-82f7-3531c243b257
+dinnerware,kg,Wood,,34f8a041-268d-3e7b-bb37-58553d258d93
+veneer,kg,Wood,,9d5ffb58-9e71-3c10-9008-d9b106d156a1
+sawdust,kg,Wood,,2982efa7-eaac-30ee-881a-74b3a0ff04c5
 aggregate,kg,Aggregate,material/ash/bottom,6eb00060-3e0a-335a-87e0-29b4352d1df7
 aggregate,kg,Aggregate,material/ash/fly,342cc5f5-a369-3b4b-8659-6899c693c125
 aggregate,kg,Aggregate,material/ash/wood,eff8a769-b033-3a4e-bc59-c44c6c5bf7c1
@@ -93,6 +73,20 @@ aggregate,kg,Aggregate,waste/soil/topsoil,3a7f4a87-3b6b-3ed9-b3da-eb6d3624de98
 aggregate,kg,Aggregate,waste/soil/subsoil,d7ec86a2-b9cf-3655-8960-51184276ab73
 aggregate,kg,Aggregate,waste/concrete/structural,d9af13e1-7dde-31eb-b785-6e703b7dc99e
 aggregate,kg,Aggregate,waste/concrete/paving,7aeb31d4-d3be-3a35-a9d1-ab5c256e4eb3
+crops,kg,Crops,material/biomass/annual,f7103a8e-765c-3436-8a6a-9e6191fb48eb
+crops,kg,Crops,material/biomass/perennial,31a5730f-7f0c-301d-b20b-1b9573d6315b
+crops,kg,Crops,material/grain/cereal,8703d548-d671-3f56-9f26-8af86731cea0
+crops,kg,Crops,material/grain/oilseed,8ea391bf-1ad5-3078-80ea-3cd2860137a0
+crops,kg,Crops,material/grain/feed,3e04e0d4-007b-3cd8-973f-b6f26408f21b
+crops,kg,Crops,material/crop/vegetable,ecd64e0c-9100-3aa7-bcab-e9796a7e2250
+crops,kg,Crops,material/crop/fruit,e2cf1ef7-ac4e-3eec-a97c-3234574bc1db
+crops,kg,Crops,waste/biomass/annual,1e1ddecf-effd-3b6a-be53-e49174278efb
+crops,kg,Crops,waste/biomass/perennial,c72713cd-c064-39eb-8acf-562e253e9541
+crops,kg,Crops,waste/grain/cereal,d0d3f471-0ff6-359d-bb88-0c49000b6e34
+crops,kg,Crops,waste/grain/oilseed,a78e2e7e-2b33-3f53-b9ca-e2ce09129809
+crops,kg,Crops,waste/grain/feed,89a0ccd2-912a-3535-b64f-944c1df91b5f
+crops,kg,Crops,waste/crop/vegetable,f1f296be-d661-313b-9133-f88cd94c15a4
+crops,kg,Crops,waste/crop/fruit,08534eca-a3a5-3f99-a7e1-da62077eb581
 glass,kg,Glass,material/glass/clear,3044b060-fe32-3103-a9dd-f3e72b8b2b30
 glass,kg,Glass,material/glass/green,45e4ab5f-d803-37b9-a52d-7b476ec653a1
 glass,kg,Glass,material/glass/brown,fbd915c2-51e5-309f-bfc2-3bd4276d63e9
@@ -103,28 +97,134 @@ glass,kg,Glass,waste/glass/green,e58def20-a3bc-37e4-b3e7-fe0082c53e37
 glass,kg,Glass,waste/glass/brown,e257044a-4ddd-3c47-8ffc-1e40c60685ff
 glass,kg,Glass,waste/glass/automotive,98eb1172-b84f-3501-ae24-51b1ff7ef1db
 glass,kg,Glass,waste/glass/mixed colors,f70bc907-2fb7-3f90-9098-8f3a0673d2bd
-bricks,kg,Aggregate,product/concrete,4aed7b1f-46e2-37a0-b17f-9976f2317881
-bricks,kg,Aggregate,waste/concrete,feb741a6-31bc-3f99-aa95-d3fca6e76de0
-pavement,kg,Aggregate,product/concrete,def52cbc-f306-3636-815a-e5da41981168
-pavement,kg,Aggregate,waste/concrete,ce97ad88-8a07-3db5-aec1-0a7fbbe69d96
-fill,kg,Aggregate,product/soil,0866ed65-1ae9-3007-8a2e-c3846674acf7
-fill,kg,Aggregate,waste/soil,a6c458a0-37db-31e3-99f8-11cd7303da57
-fill,kg,Aggregate,product/rock,6d9fb0b1-1081-3ba3-965d-b24a9284e8ec
-fill,kg,Aggregate,waste/rock,406e1e11-a017-3407-8390-82399964014f
-stonework,kg,Aggregate,product/rock,c9a75209-3a51-3179-bea4-c1000a1c77ce
-stonework,kg,Aggregate,waste/rock,a2036c74-7c32-3a81-ba8a-b32981ce631e
-fill,kg,Aggregate,product/ash,36f4d353-2c04-3be8-ab05-c80857ab2b91
-fill,kg,Aggregate,waste/ash,67a3a623-79b2-3695-8cbd-a79de305b5a2
-containers,kg,Glass,product/glass,64a2fa78-9526-39fb-a09f-b5f251bdd87a
-containers,kg,Glass,waste/glass,62a7aea7-4325-36fa-8ca7-ca4f8afd8fd0
-bottles,kg,Glass,product/glass,3b0df7e9-6949-3005-b242-558e57041e47
-bottles,kg,Glass,waste/glass,e9ca6fe1-f562-336e-871e-48fd35a1ff28
-sheet,kg,Glass,product/glass,95ed43e9-7bc4-32ba-9efb-fb267e270cbc
-sheet,kg,Glass,waste/glass,de2e633e-4eec-3db5-b6d5-05a214b6d493
-windows,kg,Glass,product/glass,11b786fb-1431-3ab6-bf5c-44c9646b661f
-windows,kg,Glass,waste/glass,5028a453-cb87-354c-8dc0-620aba824dd7
-coatings,kg,Glass,product/glass,4a4f78b2-59d1-36ff-9a9f-d5b15dd2acba
-coatings,kg,Glass,waste/glass,bfbcbefc-5ae5-3b5b-82d2-07e93a99e6be
+minerals,kg,Minerals,material/gypsum/food-grade,a4cf6ebf-9d7b-3384-9562-969dc0cdc1a1
+minerals,kg,Minerals,material/gypsum/powder,5dce56ee-6643-3568-b934-ca1d00b63f3d
+minerals,kg,Minerals,material/gypsum/raw,98a4afb8-6adc-3f01-9ba7-ffc0dc362a21
+minerals,kg,Minerals,material/gypsum/blocks,da2cb5d1-9c92-3a1e-a2e0-4b036ac3baa6
+minerals,kg,Minerals,material/ceramics/terracotta/earthenware,a96db7b2-d3ee-3f8c-ba00-d7a7efc3fea6
+minerals,kg,Minerals,material/ceramics/porcelain,e3d0ebff-c2f6-314f-bd84-4deea5ba5c33
+minerals,kg,Minerals,waste/gypsum/food-grade,1bdc2a4d-a884-3c73-9e13-a960c2b1ca03
+minerals,kg,Minerals,waste/gypsum/powder,79191153-4a19-3573-bf5d-48051cb33728
+minerals,kg,Minerals,waste/gypsum/raw,e42f8ec4-3ccb-3b0a-b0a4-2ae056ace730
+minerals,kg,Minerals,waste/gypsum/blocks,cdf69dc7-8d45-31cc-8695-1f4ce3e8d3ae
+minerals,kg,Minerals,waste/ceramics/terracotta/earthenware,e9555a19-fdca-353c-9469-6200d1d47d49
+minerals,kg,Minerals,waste/ceramics/porcelain,ef2bd8cc-1eb3-3ad7-83d6-db106f5b833c
+leather,kg,Leather,material/leather/chemically treated,c2b1dc3a-7c6f-308e-b121-6ae5fbacbaa1
+leather,kg,Leather,material/leather/naturally treated,dbd45b27-10ed-3ae5-8ac5-bf21b3f3cea9
+leather,kg,Leather,waste/leather/chemically treated,053687fd-b7a9-3663-8a94-74cac414d773
+leather,kg,Leather,waste/leather/naturally treated,85a8212a-31c8-3711-a35f-1138aa09de09
+livestock,kg,Livestock,material/meat/beef,d3e16ceb-f8fd-3d42-9a13-fbaf9fe0fc57
+livestock,kg,Livestock,material/meat/poultry,40c994d7-fa53-3173-8fbe-cfde6330af35
+livestock,kg,Livestock,material/meat/pork,511d452a-a59e-3877-a87b-ab967cc8c4ff
+livestock,kg,Livestock,material/dairy/milk,01b81ba3-f4f2-386a-8175-a0c55f16392d
+livestock,kg,Livestock,material/dairy/cheese,f08e66fe-b082-3a23-8eb5-26049f47bb05
+livestock,kg,Livestock,material/dairy/butter,2dfb06af-690b-3f6f-9e69-8450e7c4f669
+livestock,kg,Livestock,material/dairy/yogurt,fb46975d-6b60-3293-998c-ee5d95f46cba
+livestock,kg,Livestock,material/eggs/poultry,5a966034-7250-3640-8574-b07ca8d5ce52
+livestock,kg,Livestock,material/by-product/manure,38e67e28-5483-339a-81d5-8acae69e6db2
+livestock,kg,Livestock,material/by-product/carcass,322124bf-4284-3ce5-9815-5245c0ec2f16
+livestock,kg,Livestock,material/eggs/chicken,9e5e5ae7-05f8-3c57-bdaf-6c20aa15c087
+livestock,kg,Livestock,waste/meat/beef,5adb59f5-44cf-3fd2-84ee-3c991bc219c1
+livestock,kg,Livestock,waste/meat/poultry,e84c3a53-9d8d-3ea8-adc7-91030a286c30
+livestock,kg,Livestock,waste/meat/pork,03feb104-0a5c-3859-90fe-791590ec8864
+livestock,kg,Livestock,waste/dairy/milk,630d2e07-defa-37e6-aa4d-5d1fb95aedcf
+livestock,kg,Livestock,waste/dairy/cheese,82cec122-7f42-3f46-9fe6-2f75e7647336
+livestock,kg,Livestock,waste/dairy/butter,b0171b0e-9326-3472-9f27-d49c0a0183e8
+livestock,kg,Livestock,waste/dairy/yogurt,54217382-7663-3a5c-b81d-70394fce4e83
+livestock,kg,Livestock,waste/eggs/poultry,dcd08a98-cc56-3bdd-a6f7-b3549f9a0d80
+livestock,kg,Livestock,waste/by-product/manure,3a791588-ad1b-3200-8faa-57d3ca2827c4
+livestock,kg,Livestock,waste/by-product/carcass,530a8cbe-0d82-30d1-ae75-194b60c93e7b
+livestock,kg,Livestock,waste/eggs/chicken,947d1726-1f0b-3e62-bf3a-d7e33f75f5e6
+metal,kg,Metal,material/mixed/metal,3090e0c1-bd0d-3ddd-bc7f-19d1b09c4c22
+metal,kg,Metal,material/ferrous/iron,e35d3fef-b3ba-3279-ad46-0703e4766970
+metal,kg,Metal,material/ferrous/alloy,d4f73557-931f-3aec-b675-0333b9b65e16
+metal,kg,Metal,material/ferrous/steel,fd7b93d8-a959-3019-992d-2e83db1750fb
+metal,kg,Metal,material/non-ferrous/aluminum,47b8ecbe-be1c-357c-b8f8-650d67728e4a
+metal,kg,Metal,material/non-ferrous/alloy,ae4ec798-df2f-3d63-a0cb-a9c5356d1f94
+metal,kg,Metal,material/non-ferrous/copper,9ca6adca-4932-3905-8f10-3bfd67a2012a
+metal,kg,Metal,material/non-ferrous/gold,53e98d26-d53b-35f5-8a1c-83f666c068df
+metal,kg,Metal,material/non-ferrous/lead,c1ee2617-153c-3f5a-84f4-0ea2d4d4765f
+metal,kg,Metal,waste/mixed/metal,f3f2f744-68e5-3661-88f8-77e97b4697ce
+metal,kg,Metal,waste/ferrous/iron,6809042e-8f7d-3406-b13f-808dfc1abaae
+metal,kg,Metal,waste/ferrous/alloy,52d99be9-20dc-3af8-80a3-137157254ea9
+metal,kg,Metal,waste/ferrous/steel,8b03bd9d-444f-3ba3-9a68-75fb50af69b6
+metal,kg,Metal,waste/non-ferrous/aluminum,9915b9a2-6345-3ac5-a712-aed5bb6e69cb
+metal,kg,Metal,waste/non-ferrous/alloy,936f0d2d-9b76-3b38-8b91-ed8faf97d6b4
+metal,kg,Metal,waste/non-ferrous/copper,c5f938c2-eae5-379d-91cb-f817920239fb
+metal,kg,Metal,waste/non-ferrous/gold,96f8bff3-018b-32f8-a0fb-21b3952c818d
+metal,kg,Metal,waste/non-ferrous/lead,84bc8c7d-074a-38d2-be1b-a336030dfa5a
+other petroleum products,kg,Other petroleum products,material/asphalt/paving,56bbdc4b-947d-39a3-82ef-49e14ffbbea1
+other petroleum products,kg,Other petroleum products,material/asphalt/roofing,499bd17c-9179-3c4e-aea3-beb1166c05a1
+other petroleum products,kg,Other petroleum products,material/asphalt/other,472899d6-14c9-3da6-ba13-66e50a01d577
+other petroleum products,kg,Other petroleum products,material/solvents/solvents,7845b395-f58b-33d9-b35f-be7587d8e322
+other petroleum products,kg,Other petroleum products,material/paint/acrylic,f4543b71-092e-36bd-b390-08d52dc53515
+other petroleum products,kg,Other petroleum products,material/paint/oil-based,5fc33529-863c-3cbc-bb12-5bf7a31c42ee
+other petroleum products,kg,Other petroleum products,material/oil/automotive,996b618a-e78a-3453-b7fc-c97698d709ce
+other petroleum products,kg,Other petroleum products,material/oil/hydraulic,d7aa064c-0ecf-35d9-b506-19c57f109d3a
+other petroleum products,kg,Other petroleum products,material/grease/automotive,e0deb016-fa81-3ffe-b83b-90f260f8ecba
+other petroleum products,kg,Other petroleum products,waste/asphalt/paving,7b6a1dad-56ff-32ef-a8b3-ca0aad6c1c4f
+other petroleum products,kg,Other petroleum products,waste/asphalt/roofing,c3350b0a-6e88-35d4-baae-c56a10ca222f
+other petroleum products,kg,Other petroleum products,waste/asphalt/other,e1bcec12-3eb5-39ce-81dd-e520d979ec58
+other petroleum products,kg,Other petroleum products,waste/solvents/solvents,9b57f414-1b29-3e51-be4b-69dbf9aa1d8b
+other petroleum products,kg,Other petroleum products,waste/paint/acrylic,656ec062-df18-3d51-b300-566a11f98e98
+other petroleum products,kg,Other petroleum products,waste/paint/oil-based,b375d6f4-614b-3a99-8f13-029128219cf6
+other petroleum products,kg,Other petroleum products,waste/oil/automotive,d93d0ff7-beba-39bc-853c-7e29b4471595
+other petroleum products,kg,Other petroleum products,waste/oil/hydraulic,70bb83f7-7507-3bcd-99b9-03bd08bfe167
+other petroleum products,kg,Other petroleum products,waste/grease/automotive,ee15478a-924f-3cae-bdf9-6b9a58e456c1
+paper,kg,Paper,material/paper/white,0a7e1dba-a919-35ae-abcb-c727170287b4
+paper,kg,Paper,material/paper/mixed,4a223e09-3099-31b6-8585-aa7f9f437454
+paper,kg,Paper,material/paper/glossy,e64136f9-2d8e-38b3-8cf0-506bac7946a9
+paper,kg,Paper,material/paper/newsprint,aa5a698f-bbb2-36ea-81a8-e3e3bdef2246
+paper,kg,Paper,material/paperboard/coated,eada2938-41c6-33ac-9bc4-4f62e4904405
+paper,kg,Paper,material/paperboard/uncoated,d6b3b534-d019-330e-90fc-16f008a3c2c3
+paper,kg,Paper,material/paperboard/corrugated,d4832909-ea07-31e6-88c1-4e6247ced6b2
+paper,kg,Paper,waste/paper/white,0fbbfe0c-858f-3768-b913-be640e6bf33b
+paper,kg,Paper,waste/paper/mixed,b6dccc63-e4c1-3f66-a510-fd7af53a5f9d
+paper,kg,Paper,waste/paper/glossy,c5bdbbf7-3e20-3941-b588-b54d043c6ab0
+paper,kg,Paper,waste/paper/newsprint,8a8999bb-a2c9-376c-8542-9e3d2be376de
+paper,kg,Paper,waste/paperboard/coated,bdeb8dc9-0937-3d38-95f9-75ea8509032b
+paper,kg,Paper,waste/paperboard/uncoated,ac6ef6c6-f3d4-32df-ba42-5b0bd15ddf52
+paper,kg,Paper,waste/paperboard/corrugated,4ba16838-52c3-3033-a957-c89319b5094b
+plastic,kg,Plastic,material/thermoset/rubber,95628733-a02b-3c0e-a8bc-1e7f780cb4ae
+plastic,kg,Plastic,material/thermoset/polyesters,2a88eb74-b220-32cf-ad0c-433a787e844a
+plastic,kg,Plastic,material/thermoset/urethanes,7e7dd4dd-72c8-3a48-b789-f26b72a55331
+plastic,kg,Plastic,material/thermoset/epoxies,56ab0816-a9df-33e6-bb4e-830ef36f8ec2
+plastic,kg,Plastic,material/thermoset/other resins,19d568a6-e94a-342e-9a53-b9feccfe65d2
+plastic,kg,Plastic,material/thermoplastic/acrylics,230d5dce-3f82-3901-a79c-5165a58dbe26
+plastic,kg,Plastic,material/thermoplastic/ABS,75467d7e-ac43-32de-b9e6-40a12fd3c1b6
+plastic,kg,Plastic,material/thermoplastic/nylons,f2ae15f2-bc3e-3a7d-9f84-42539eaaa109
+plastic,kg,Plastic,material/thermoplastic/polycarbonate,8de461d8-fc3c-3f20-8c12-d16929fa6676
+plastic,kg,Plastic,material/thermoplastic/PE,e8b8cbf3-552e-3eb1-98f2-c28381c24af4
+plastic,kg,Plastic,material/thermoplastic/PS,284577df-9134-3b58-b57b-8e162e2e8f07
+plastic,kg,Plastic,material/thermoplastic/PP,5d2c1a8e-c981-3e15-89fc-b50b68343830
+plastic,kg,Plastic,material/thermoplastic/PVC,13253855-abc3-3f00-8b61-1b60efb402cc
+plastic,kg,Plastic,waste/thermoset/rubber,44f738cc-19d2-3381-9fbe-9c5093ae0017
+plastic,kg,Plastic,waste/thermoset/polyesters,85cb9d56-26d8-388c-84a1-3604643fac5a
+plastic,kg,Plastic,waste/thermoset/urethanes,108d80f6-2a03-3d1e-8f3a-4ca1872e0de1
+plastic,kg,Plastic,waste/thermoset/epoxies,5afaa516-30d8-3df6-ac5c-f68f052d24ca
+plastic,kg,Plastic,waste/thermoset/other resins,df17686d-bbfd-397b-b166-2fe8c0bc1f58
+plastic,kg,Plastic,waste/thermoplastic/acrylics,6640ce08-295f-3059-b218-c4d6253ae956
+plastic,kg,Plastic,waste/thermoplastic/ABS,8f1d608e-8bf2-3b9f-abb1-0181addc98c4
+plastic,kg,Plastic,waste/thermoplastic/nylons,a0a84782-df1b-3321-a52b-0354ade070e6
+plastic,kg,Plastic,waste/thermoplastic/polycarbonate,e25af628-b04a-3cc3-9439-56563b23c371
+plastic,kg,Plastic,waste/thermoplastic/PE,a1b97c01-934f-34c4-a5a3-830868792059
+plastic,kg,Plastic,waste/thermoplastic/PS,598cd854-9fd3-3c2f-82ef-a59aab0bbb17
+plastic,kg,Plastic,waste/thermoplastic/PP,eb29b32e-f420-3213-95c0-259196361515
+plastic,kg,Plastic,waste/thermoplastic/PVC,d1a97b99-4f76-328a-a51c-19ad1143650e
+textile,kg,Textile,material/fiber/plant,b4ee020e-7f75-38a8-ba58-8c152d74bdf9
+textile,kg,Textile,material/fiber/animal,8e5e6438-7a29-3c8f-b7b7-b08213c091b2
+textile,kg,Textile,material/fiber/synthetic,fc595e26-7698-3634-ac15-2d21cafb39d9
+textile,kg,Textile,material/fiber/composite,71455652-fe82-36f3-ba4a-a1c7040f5005
+textile,kg,Textile,waste/fiber/plant,2acf5b8c-5a6c-3b1d-9516-a3128d097021
+textile,kg,Textile,waste/fiber/animal,baf10cb9-f8d2-3777-9012-b26c848e290e
+textile,kg,Textile,waste/fiber/synthetic,72839360-2cdc-3b04-a25e-680e09c60a21
+textile,kg,Textile,waste/fiber/composite,b8b2cf19-bcb9-3660-9b1a-019ed8c0e312
+wood,kg,Wood,material/wood/hardwood,32e57f5e-fd0b-3950-9986-683504e72908
+wood,kg,Wood,material/wood/softwood,d9c73c27-7aaa-3790-9260-cf398c2d0a84
+wood,kg,Wood,material/wood/engineered,c659c92e-9b31-3e41-b546-5c40a6972a93
+wood,kg,Wood,waste/wood/hardwood,8b4b75d2-9812-3f08-bc06-ce5564e11982
+wood,kg,Wood,waste/wood/softwood,8b0bca37-f441-3a5d-a834-2e39d445894d
+wood,kg,Wood,waste/wood/engineered,ca246e00-250b-3e42-aae0-0f30a55cc8de
 aggregate,kg,Aggregate,material/ash,465765ea-dd45-364d-a2d5-9ea28e7c19ca
 aggregate,kg,Aggregate,material/rock,f4bd1278-f9c8-3c91-8753-f5d665cd3379
 aggregate,kg,Aggregate,material/soil,8ffc7d78-aa0a-3b3a-9082-b63e0bb9959d
@@ -133,5 +233,53 @@ aggregate,kg,Aggregate,waste/ash,a3668dbd-8dce-3c6b-b19a-7d5dd475b3f4
 aggregate,kg,Aggregate,waste/rock,c2199659-77ad-30e8-98c4-1e5e6b4c0201
 aggregate,kg,Aggregate,waste/soil,6c457205-4b64-321a-b73a-21eb8dcec4ae
 aggregate,kg,Aggregate,waste/concrete,b4b33778-d319-38d7-8a5b-6c02246d6596
+crops,kg,Crops,material/biomass,2728a315-6e01-3111-9f13-70b5966f3def
+crops,kg,Crops,material/grain,7b63bf67-740b-3626-a889-f6edee1a497c
+crops,kg,Crops,material/crop,22b230c5-2e0f-3f9d-977a-f57fb521c042
+crops,kg,Crops,waste/biomass,4061df3a-16d2-3190-8d12-d3330f4d10e8
+crops,kg,Crops,waste/grain,bc46b5bb-ac81-3a65-8031-277e4123adb1
+crops,kg,Crops,waste/crop,8e37d064-3808-389a-9329-1703b5c0f37c
 glass,kg,Glass,material/glass,1eeb66da-12c8-3994-841e-63cea3655e3c
 glass,kg,Glass,waste/glass,8aefb006-dd91-334b-8d18-673c8729a597
+minerals,kg,Minerals,material/gypsum,fab40087-6c0e-3611-a2f6-364c035fbbdc
+minerals,kg,Minerals,material/ceramics,ba62af64-3042-3c5d-89d8-3d6eef13dc66
+minerals,kg,Minerals,waste/gypsum,f60a17a7-2b27-3fc8-94f0-fd653f55780f
+minerals,kg,Minerals,waste/ceramics,acc9ac07-f0b0-3825-b5d2-8189d51e1b08
+leather,kg,Leather,material/leather,af423a0e-d260-34f1-942b-f63c73dadcc0
+leather,kg,Leather,waste/leather,e3e20007-8a9b-3d1a-9e7b-5bb347044025
+livestock,kg,Livestock,material/meat,49d10757-aa81-39ca-807a-0980b03f5378
+livestock,kg,Livestock,material/dairy,d49cc28e-78b6-367f-90d8-055a1c280333
+livestock,kg,Livestock,material/eggs,ad8ffd97-12dd-325a-b2aa-d4f486126e33
+livestock,kg,Livestock,material/by-product,20664a24-4ac7-3533-8d3c-e427f7639c8e
+livestock,kg,Livestock,waste/meat,4ee39258-81aa-32c1-9f2f-eb69f3ed7ab3
+livestock,kg,Livestock,waste/dairy,8f322536-ff78-3a3e-9d6b-6fdb1b28f161
+livestock,kg,Livestock,waste/eggs,2a59a13d-fd81-316c-8cd1-e95a5d87d664
+livestock,kg,Livestock,waste/by-product,0cf61054-3ebb-3df7-8ca4-a11861639810
+metal,kg,Metal,material/mixed,f5b31644-f10d-30b5-8bd7-66e78f74992a
+metal,kg,Metal,material/ferrous,3ac3fb48-9269-38e8-8dac-3b96a16b18c5
+metal,kg,Metal,material/non-ferrous,a3babb9c-11e1-3fb2-9bf4-d8462393d3c6
+metal,kg,Metal,waste/mixed,3ce8ae9c-a878-354c-8273-01320f41b5f2
+metal,kg,Metal,waste/ferrous,6c899571-d483-30eb-bcff-9abbeebcf7e3
+metal,kg,Metal,waste/non-ferrous,696cac7d-989a-3492-824e-c75dceab5593
+other petroleum products,kg,Other petroleum products,material/asphalt,e35338b3-9975-3ba2-ab91-249c9798f4ad
+other petroleum products,kg,Other petroleum products,material/solvents,973057a1-b923-38f1-a5f5-ebeff1b3921d
+other petroleum products,kg,Other petroleum products,material/paint,efd23994-4d5e-3a59-8bf7-94183337a602
+other petroleum products,kg,Other petroleum products,material/oil,1d341f13-0bb9-3ef9-9c46-f2f617c3d2a4
+other petroleum products,kg,Other petroleum products,material/grease,30209858-059b-32bc-b1d8-cc68046597eb
+other petroleum products,kg,Other petroleum products,waste/asphalt,502c3d3f-ee22-3ae1-a989-d74ee4a76b4e
+other petroleum products,kg,Other petroleum products,waste/solvents,c0780d37-a537-3da6-a5af-a83f573c2257
+other petroleum products,kg,Other petroleum products,waste/paint,affc81fc-f701-3f96-91ef-dcccf02140ed
+other petroleum products,kg,Other petroleum products,waste/oil,2146ecb1-186e-3b35-8c35-f47394d24b90
+other petroleum products,kg,Other petroleum products,waste/grease,72f5d557-3c06-3d65-82e7-08df094a642f
+paper,kg,Paper,material/paper,2bccddae-5eca-3757-b2e9-8c6dc267b357
+paper,kg,Paper,material/paperboard,fa958ef9-3efa-3676-9da9-3f2e0eaf8ca9
+paper,kg,Paper,waste/paper,c452a608-ae60-3f14-a8f1-e1ba68fcffb6
+paper,kg,Paper,waste/paperboard,864f67a7-35d2-3550-8df8-fe6a7aea70ba
+plastic,kg,Plastic,material/thermoset,422a06ee-8af0-3db7-a656-b1c8b87f6aa2
+plastic,kg,Plastic,material/thermoplastic,e7e4796c-ba70-3907-b098-375d07c64ba5
+plastic,kg,Plastic,waste/thermoset,5d3cf9ff-4b4d-3567-8ce7-24b631956047
+plastic,kg,Plastic,waste/thermoplastic,6b2d7535-4f6d-3f6e-a0f6-665efc46c6a3
+textile,kg,Textile,material/fiber,a0e7cbf6-a770-342e-a0c9-d89313f55fb9
+textile,kg,Textile,waste/fiber,883ec5e6-66f0-3c31-a26d-f925fb0dbe20
+wood,kg,Wood,material/wood,56fcd52c-7e84-37e7-b3c6-a93205ddba89
+wood,kg,Wood,waste/wood,d6622cec-3a8b-3645-91ec-e985a165ed79
