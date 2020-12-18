@@ -35,13 +35,16 @@ Leather,leather,chemically treated
 Leather,leather,naturally treated
 Metal,mixed,metal
 Metal,ferrous,iron
-Metal,ferrous,alloy
-Metal,ferrous,steel
-Metal,non-ferrous,aluminum
-Metal,non-ferrous,alloy
-Metal,non-ferrous,copper
-Metal,non-ferrous,gold
-Metal,non-ferrous,lead
+Metal,ferrous,carbon steel
+Metal,ferrous,alloy steel
+Metal,aluminum,aluminum
+Metal,aluminum,alloy
+Metal,copper,copper
+Metal,copper,alloy
+Metal,precious,gold
+Metal,precious,silver
+Metal,heavy,lead
+Metal,heavy,mercury
 Other petroleum products,asphalt,paving
 Other petroleum products,asphalt,roofing
 Other petroleum products,asphalt,other

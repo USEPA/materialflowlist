@@ -276,111 +276,155 @@ cans,kg,Metal,waste/mixed/metal,34885440-3098-3f7e-b1ff-d5d525ed5828
 wire,kg,Metal,product/mixed/metal,c89dbd32-cd1a-3c48-90a4-e3c962858634
 wire,kg,Metal,waste/mixed/metal,e96b3f1b-6af3-3d77-b908-08d0767a5251
 packaging,kg,Metal,product/ferrous/iron,c0e7252f-3f05-3353-aa45-30ccedd0babb
-packaging,kg,Metal,product/ferrous/alloy,e32c3589-df08-3164-83df-0ff218b35a48
-packaging,kg,Metal,product/ferrous/steel,0dd316e9-9dbc-3b25-aaa3-d0ae6edbb0ca
+packaging,kg,Metal,product/ferrous/carbon steel,5dd2031a-813b-3b65-88ca-0c52b345cf30
+packaging,kg,Metal,product/ferrous/alloy steel,0c2f6551-3651-356a-b057-31d031475939
 packaging,kg,Metal,waste/ferrous/iron,74f18af5-6f62-3d9f-9648-5084d93d87af
-packaging,kg,Metal,waste/ferrous/alloy,8cec735d-fc1a-3e61-8e50-ac6d721dc654
-packaging,kg,Metal,waste/ferrous/steel,a0f66eb8-dabc-3ed0-99c7-076f8ba6f0bb
+packaging,kg,Metal,waste/ferrous/carbon steel,3e5e75f2-c57d-3859-9f4f-86f3b0c4d96f
+packaging,kg,Metal,waste/ferrous/alloy steel,1d7a79b8-ec1b-3711-a6c4-da69038f5e88
 durable goods,kg,Metal,product/ferrous/iron,d850ab58-bd42-3ddd-bfb8-04e0b535d890
-durable goods,kg,Metal,product/ferrous/alloy,4031711f-6592-3781-91ad-6f20726d9b9f
-durable goods,kg,Metal,product/ferrous/steel,ed1d1460-b32e-3403-ac2b-51a4e8f9817c
+durable goods,kg,Metal,product/ferrous/carbon steel,4069fb23-661e-36c6-adcc-e63aaf9edc76
+durable goods,kg,Metal,product/ferrous/alloy steel,bd924246-892f-3e5d-9b8d-e920e94253a9
 durable goods,kg,Metal,waste/ferrous/iron,67072b1a-8f4c-330d-814d-656a0cddc532
-durable goods,kg,Metal,waste/ferrous/alloy,abfacd35-736e-335a-b0f5-20a9d7d51f46
-durable goods,kg,Metal,waste/ferrous/steel,9fd4463b-6a43-3f22-9525-a2bbad03a0ce
+durable goods,kg,Metal,waste/ferrous/carbon steel,e6fbe24e-80cb-371c-b1b5-3db8d4049d12
+durable goods,kg,Metal,waste/ferrous/alloy steel,863530fe-1238-3964-89cf-7d5e04578cb4
 electronics,kg,Metal,product/ferrous/iron,5656d943-22ab-367f-97e6-cda1d340dae0
-electronics,kg,Metal,product/ferrous/alloy,2986dd81-49f8-340c-bf5a-231896b3b37c
-electronics,kg,Metal,product/ferrous/steel,d051c1da-d1aa-3acc-a074-c041d600ee45
+electronics,kg,Metal,product/ferrous/carbon steel,a65fa35f-718c-3cc7-a5bc-e2ee45ef4aac
+electronics,kg,Metal,product/ferrous/alloy steel,79ac3bac-09e5-38a9-a2e0-04d8c8cb3dbc
 electronics,kg,Metal,waste/ferrous/iron,a815c86f-55e8-33d9-b454-b3f82541381c
-electronics,kg,Metal,waste/ferrous/alloy,86ac0e66-f280-3279-9c6a-be3efd10face
-electronics,kg,Metal,waste/ferrous/steel,8e0a9b14-c097-3249-a375-43e130d5e603
+electronics,kg,Metal,waste/ferrous/carbon steel,24be40e1-50c9-3904-b083-2ad922ba5170
+electronics,kg,Metal,waste/ferrous/alloy steel,3b2ed92b-c851-396f-95e5-b516d7f4ee0c
+batteries,kg,Metal,product/ferrous/iron,ed4d06ea-c0e1-3d69-b3f5-e8778cd344a5
+batteries,kg,Metal,product/ferrous/carbon steel,3dca0232-6c14-3d09-a14a-79917ec8810f
+batteries,kg,Metal,product/ferrous/alloy steel,523b64e7-7c84-31a1-b4b4-48362652a4a3
+batteries,kg,Metal,waste/ferrous/iron,5ebcf6c8-bf0f-3c30-bd98-e697ec451a6f
+batteries,kg,Metal,waste/ferrous/carbon steel,507d783e-1f6f-36fa-bb8f-8cfdfc38b6dc
+batteries,kg,Metal,waste/ferrous/alloy steel,8aad980b-0eb4-35c2-9194-a9e2a936a35b
 cans,kg,Metal,product/ferrous/iron,691730f1-2f01-3c8d-8589-aeceb4ecedab
-cans,kg,Metal,product/ferrous/alloy,f9c1db99-1692-3f81-b9b1-fdd9e0619f63
-cans,kg,Metal,product/ferrous/steel,cd584fe1-0798-3db4-91d0-ddca32e73ee0
+cans,kg,Metal,product/ferrous/carbon steel,11ef45bf-9484-3a01-97d1-d49fd9d4a8ff
+cans,kg,Metal,product/ferrous/alloy steel,041a5248-5633-3fc8-9035-d216095c643e
 cans,kg,Metal,waste/ferrous/iron,43672279-4543-3710-9346-5a94a710bad2
-cans,kg,Metal,waste/ferrous/alloy,df450fbd-6379-3c1a-9526-924062541cd0
-cans,kg,Metal,waste/ferrous/steel,47ffbf23-4589-3968-b0c9-f8b5e3c82af6
+cans,kg,Metal,waste/ferrous/carbon steel,2e8fd313-4d7a-3a8c-b376-5edca56d13b6
+cans,kg,Metal,waste/ferrous/alloy steel,61c3fdb6-7d62-392c-8ec6-413a74daeb13
 wire,kg,Metal,product/ferrous/iron,7cbfa1dd-1c28-3e82-9e40-eb4aa535c15c
-wire,kg,Metal,product/ferrous/alloy,01b4f66e-d9a5-3cfe-b7e1-6b66cee54051
-wire,kg,Metal,product/ferrous/steel,c520c321-97e3-31e4-a85d-a06d30b2408c
+wire,kg,Metal,product/ferrous/carbon steel,34d5c7ee-84aa-3d8c-abc4-8413adaa1b5c
+wire,kg,Metal,product/ferrous/alloy steel,38f9481f-538f-3a93-9d0f-52765cfed516
 wire,kg,Metal,waste/ferrous/iron,7ace0227-600b-3a22-a3e6-4c077cb71e17
-wire,kg,Metal,waste/ferrous/alloy,a2aa47e4-946f-31bd-9e3d-cf8caeee5d7e
-wire,kg,Metal,waste/ferrous/steel,7ddcdf03-ece1-3c72-bd65-01e2c4c138e2
+wire,kg,Metal,waste/ferrous/carbon steel,3bee2310-e46e-34fc-8fb5-136aa7c78cb3
+wire,kg,Metal,waste/ferrous/alloy steel,64964175-a6e4-3e3c-b4cf-84f0331de8c5
 pipes,kg,Metal,product/ferrous/iron,f4f16a7d-64c5-39d3-a5cb-fefbc65db246
-pipes,kg,Metal,product/ferrous/alloy,feb66797-9a63-351f-94d4-03ae5a3273d9
-pipes,kg,Metal,product/ferrous/steel,82b21bc5-40c8-3ace-92e9-7c1ef38598ca
+pipes,kg,Metal,product/ferrous/carbon steel,315ddee7-f700-3134-b44b-3e0224b387ee
+pipes,kg,Metal,product/ferrous/alloy steel,86ee534b-8d61-302e-bb9b-a2181825a816
 pipes,kg,Metal,waste/ferrous/iron,9df30c1c-e932-3eda-ab94-4b028b0d1aa2
-pipes,kg,Metal,waste/ferrous/alloy,9759f583-2672-3bf7-bcd6-28e4dd0e25db
-pipes,kg,Metal,waste/ferrous/steel,77e1b53c-84cf-32de-94e6-ce27f3089550
-packaging,kg,Metal,product/non-ferrous/aluminum,7a82df7d-2eab-3169-ba40-3ea5f2e31f5b
-packaging,kg,Metal,product/non-ferrous/alloy,012fa610-ae61-39d9-a35b-cf82d46839bd
-packaging,kg,Metal,product/non-ferrous/copper,5186b557-358d-3734-9a4d-bf2ceb8e1f48
-packaging,kg,Metal,product/non-ferrous/gold,8cb7770d-bda6-308f-8764-cef30b4a26a0
-packaging,kg,Metal,product/non-ferrous/lead,6c629c6f-3a5c-3b8f-b145-307d564db13f
-packaging,kg,Metal,waste/non-ferrous/aluminum,8a4a122e-78ea-3224-a192-888ffebce10a
-packaging,kg,Metal,waste/non-ferrous/alloy,12bc58c2-1e8d-3254-b6f5-5a78c9633dde
-packaging,kg,Metal,waste/non-ferrous/copper,0e5730b2-2282-3b93-b653-598cb3fd68b4
-packaging,kg,Metal,waste/non-ferrous/gold,252e3a8b-cacb-3380-baab-f956587784b7
-packaging,kg,Metal,waste/non-ferrous/lead,1084f37c-8329-3013-8d3a-770f5051ae84
-durable goods,kg,Metal,product/non-ferrous/aluminum,1cfe7724-c542-34ce-9717-b87c75371b7a
-durable goods,kg,Metal,product/non-ferrous/alloy,b16a311e-ac5e-3743-a998-aa475eaf3446
-durable goods,kg,Metal,product/non-ferrous/copper,42481d59-9165-3f6a-9234-9897d436473c
-durable goods,kg,Metal,product/non-ferrous/gold,c1c0b8ea-ed7b-344c-bfea-af39abc31424
-durable goods,kg,Metal,product/non-ferrous/lead,1da75e7e-4027-3133-a387-6057f4d04c95
-durable goods,kg,Metal,waste/non-ferrous/aluminum,3a9cccb2-fc8b-334e-8934-e37cdb86b7cc
-durable goods,kg,Metal,waste/non-ferrous/alloy,7e0f4528-f7fd-3ca4-bc63-ebc7494d4f71
-durable goods,kg,Metal,waste/non-ferrous/copper,8edb08ac-4f56-3127-94ce-0ccbab83c994
-durable goods,kg,Metal,waste/non-ferrous/gold,724f2683-6d25-34b3-a12a-8ede9fc26060
-durable goods,kg,Metal,waste/non-ferrous/lead,6bb31880-2f0c-39dd-bd7e-b62234bb46da
-electronics,kg,Metal,product/non-ferrous/aluminum,091c71fb-69ec-38b5-abc2-d04ee17d3f92
-electronics,kg,Metal,product/non-ferrous/alloy,18536939-20ca-38b7-ba69-9bbaa64c3d8e
-electronics,kg,Metal,product/non-ferrous/copper,272ba932-4f4d-315b-bdc2-3952c0516daf
-electronics,kg,Metal,product/non-ferrous/gold,dbce455a-6dd0-3254-a8cb-346e7337755d
-electronics,kg,Metal,product/non-ferrous/lead,2d17e463-c7ad-3b92-8aae-1a7583c36ca8
-electronics,kg,Metal,waste/non-ferrous/aluminum,9bd36320-26d9-3925-bc3a-28f127616c20
-electronics,kg,Metal,waste/non-ferrous/alloy,49d47ba7-43aa-38e8-8a44-bce5155c2c3b
-electronics,kg,Metal,waste/non-ferrous/copper,97ccf4ae-02d4-3094-9490-72458cd5651a
-electronics,kg,Metal,waste/non-ferrous/gold,1de85b1f-be0e-33b9-a10b-508edb3ab791
-electronics,kg,Metal,waste/non-ferrous/lead,7b12f3c9-9705-32ed-b05c-2590e2ff051c
-batteries,kg,Metal,product/non-ferrous/aluminum,6aeabd8d-cb8e-313e-b830-f02f3714a175
-batteries,kg,Metal,product/non-ferrous/alloy,753b975f-e60e-310b-8bad-7631bb7262d0
-batteries,kg,Metal,product/non-ferrous/copper,a9b7ee64-2fd0-3502-a775-954c0e7aba71
-batteries,kg,Metal,product/non-ferrous/gold,065a7b04-04a5-3b48-930f-15ac027de07c
-batteries,kg,Metal,product/non-ferrous/lead,1eadfc7b-ff13-3343-89a4-0c9fd643a40f
-batteries,kg,Metal,waste/non-ferrous/aluminum,dba521f8-0df8-3dbf-adfc-2c03e5d213bc
-batteries,kg,Metal,waste/non-ferrous/alloy,19e26603-021e-3b92-9336-649ba484fbf8
-batteries,kg,Metal,waste/non-ferrous/copper,c2e7dfba-bb25-321a-9073-d77a3e9d4ff0
-batteries,kg,Metal,waste/non-ferrous/gold,2ab2ef01-daa5-3591-82dd-2f1a6cf1070d
-batteries,kg,Metal,waste/non-ferrous/lead,ecbc3260-3f9c-30ba-80af-bf7fd3ec843a
-cans,kg,Metal,product/non-ferrous/aluminum,12de6da1-e933-39c9-8935-b0e3bfdc38bb
-cans,kg,Metal,product/non-ferrous/alloy,55e6cfaf-6fdd-3ba1-a7ef-1e0974dba6be
-cans,kg,Metal,product/non-ferrous/copper,4b6be600-9bf2-333b-b089-03991983ddd3
-cans,kg,Metal,product/non-ferrous/gold,b094ac90-6aea-3e23-97a5-990c01d79ff2
-cans,kg,Metal,product/non-ferrous/lead,fa33c8aa-18eb-3d1b-b6dc-2f380e99eedc
-cans,kg,Metal,waste/non-ferrous/aluminum,d14d4874-0194-395f-89ad-bf9742523daa
-cans,kg,Metal,waste/non-ferrous/alloy,0517897e-79c1-3b20-a8d8-11ef98df32a1
-cans,kg,Metal,waste/non-ferrous/copper,9d1ccbdf-c77b-3bd2-b676-3cb50cf01017
-cans,kg,Metal,waste/non-ferrous/gold,fefc5325-4c92-33ba-b0e9-53ec7d038736
-cans,kg,Metal,waste/non-ferrous/lead,b9882f23-3bb1-3cfb-81df-93a7da04ffa2
-wire,kg,Metal,product/non-ferrous/aluminum,e4324994-fbeb-3ce0-be31-fe6da439635e
-wire,kg,Metal,product/non-ferrous/alloy,99f7bf1e-8e05-33eb-8dea-024d9af10af0
-wire,kg,Metal,product/non-ferrous/copper,d2c576eb-e99f-3bf5-bccd-881af95ce9c9
-wire,kg,Metal,product/non-ferrous/gold,7932b27b-61da-35e8-b0f0-c88fa17638e3
-wire,kg,Metal,product/non-ferrous/lead,081b8e6c-8c67-36c5-9bba-b962c9b9ce11
-wire,kg,Metal,waste/non-ferrous/aluminum,2ee72de5-c483-321b-b86d-50ce78196bbf
-wire,kg,Metal,waste/non-ferrous/alloy,c4bd4977-5296-3a0d-a947-2f95f55e02e1
-wire,kg,Metal,waste/non-ferrous/copper,a52102a4-b940-3f55-9bf9-c4ec20f4b7ae
-wire,kg,Metal,waste/non-ferrous/gold,19f71403-d010-3b6b-8065-638369e5e988
-wire,kg,Metal,waste/non-ferrous/lead,25eeed51-d084-3505-ae37-79bfa60226e1
-pipes,kg,Metal,product/non-ferrous/aluminum,7aa388e6-5f33-399d-974e-985288b72065
-pipes,kg,Metal,product/non-ferrous/alloy,6177f25d-fae9-3b25-9fe6-551c5b181cca
-pipes,kg,Metal,product/non-ferrous/copper,7a7b9bd3-0b68-3257-83d3-b7638c06b64b
-pipes,kg,Metal,product/non-ferrous/gold,60d22d9d-b24e-3866-8a17-93c2220a8485
-pipes,kg,Metal,product/non-ferrous/lead,164681dd-b594-3918-9289-6a42fa0657b7
-pipes,kg,Metal,waste/non-ferrous/aluminum,a79c459a-f46d-3dbb-b6bd-fd2676e0fda1
-pipes,kg,Metal,waste/non-ferrous/alloy,1dda16ce-2b8e-34c1-9d53-d249d9a4ba2d
-pipes,kg,Metal,waste/non-ferrous/copper,e99485c5-c264-329f-8f29-57df96600153
-pipes,kg,Metal,waste/non-ferrous/gold,dc8848cc-ec8c-307b-ae05-4942f864f03f
-pipes,kg,Metal,waste/non-ferrous/lead,ae095589-f054-391e-a534-6a6b644c785c
+pipes,kg,Metal,waste/ferrous/carbon steel,13a54bb6-5cb5-32a8-ad88-b53017edf8ba
+pipes,kg,Metal,waste/ferrous/alloy steel,956b9def-e75d-31d9-900e-38d0863acb36
+roofing,kg,Metal,product/ferrous/iron,5e1a329f-5679-366d-a386-bef225473df3
+roofing,kg,Metal,product/ferrous/carbon steel,6101fa4b-f275-3e2d-8782-b6f0dd63f6f0
+roofing,kg,Metal,product/ferrous/alloy steel,5bf495c2-5383-3afe-a2ca-e03c6960c9a3
+roofing,kg,Metal,waste/ferrous/iron,d8c410df-4e3a-3503-a5fc-fb15398a6c00
+roofing,kg,Metal,waste/ferrous/carbon steel,68c83284-6a65-3708-8eac-690ef79bd25f
+roofing,kg,Metal,waste/ferrous/alloy steel,58aa8f05-98ff-3e03-bae9-366160f1ca69
+furniture,kg,Metal,product/ferrous/iron,4c89b23c-0b77-3c00-af45-00b87615b97a
+furniture,kg,Metal,product/ferrous/carbon steel,823747d9-fe2d-3178-8011-88a659874ec5
+furniture,kg,Metal,product/ferrous/alloy steel,417d7050-fd34-33c5-ad9a-3d293df4e20a
+furniture,kg,Metal,waste/ferrous/iron,8e97e504-cb27-3682-ac0d-30fd1b5bd280
+furniture,kg,Metal,waste/ferrous/carbon steel,0a3d5175-a841-30dd-9725-ec9d1fcc9f42
+furniture,kg,Metal,waste/ferrous/alloy steel,b512b4cc-8cac-3ef9-a5e3-dec40e747fa7
+sheet,kg,Metal,product/ferrous/iron,5d277400-649d-32ee-b24a-2a46a79c3b0e
+sheet,kg,Metal,product/ferrous/carbon steel,a930f7ab-44e3-3753-aacb-2ccd404416ff
+sheet,kg,Metal,product/ferrous/alloy steel,565ca6bf-2fda-3059-aa36-6cc3ed0412ab
+sheet,kg,Metal,waste/ferrous/iron,2c1d0482-5358-3ac9-8026-a80b598bc3c2
+sheet,kg,Metal,waste/ferrous/carbon steel,526144cb-da53-373e-b7b5-780ec8dd894a
+sheet,kg,Metal,waste/ferrous/alloy steel,ee1d49cc-02e9-36bc-90f0-992a870fa0e6
+tires,kg,Metal,product/ferrous/iron,6aff7e78-781a-3d31-84b9-2ea9774cba0d
+tires,kg,Metal,product/ferrous/carbon steel,75c368c7-b73e-3ae8-a92a-5f155417acc4
+tires,kg,Metal,product/ferrous/alloy steel,770838c9-a8b6-3e2c-86d5-4288fa1c8834
+tires,kg,Metal,waste/ferrous/iron,b2ac8804-c1d4-3cc2-8b31-6599ec26df53
+tires,kg,Metal,waste/ferrous/carbon steel,791a2767-fd4a-34de-a9ca-cf636ba00a13
+tires,kg,Metal,waste/ferrous/alloy steel,9bc147b8-21c5-3468-baff-4c35bb6642e0
+packaging,kg,Metal,product/aluminum/aluminum,4cc5097e-2eea-3770-bb1c-313a86bf9dff
+packaging,kg,Metal,product/aluminum/alloy,26bf6201-13c0-3e57-b1c7-b682abf2d019
+packaging,kg,Metal,waste/aluminum/aluminum,9ceba4e0-d8f0-384e-af6d-d34a7bd37ed5
+packaging,kg,Metal,waste/aluminum/alloy,e75504cb-b950-3651-b4f0-511219820b28
+durable goods,kg,Metal,product/aluminum/aluminum,8bc42fac-eb2a-3b68-b577-ab2bb0942953
+durable goods,kg,Metal,product/aluminum/alloy,867f13bc-93b7-368f-97c2-4a0b46a29765
+durable goods,kg,Metal,waste/aluminum/aluminum,5e938650-0baf-38e1-a2dd-a9d013eb7318
+durable goods,kg,Metal,waste/aluminum/alloy,9ac5a21c-59e7-3c56-bc64-26e44233d592
+electronics,kg,Metal,product/aluminum/aluminum,46fde1ee-fa91-3db5-9b66-24618461a121
+electronics,kg,Metal,product/aluminum/alloy,15b5aace-9ca3-3477-8742-399291805d8f
+electronics,kg,Metal,waste/aluminum/aluminum,dec5fa32-b412-3a23-9acf-58ce2cf01fe6
+electronics,kg,Metal,waste/aluminum/alloy,89cc03e4-a50d-3a33-a4b7-7dc2dc68c1bc
+cans,kg,Metal,product/aluminum/aluminum,577d430e-eccf-3423-b5ee-a729d690c7c4
+cans,kg,Metal,product/aluminum/alloy,a6e3746f-80c0-3220-bc65-5aaf1d6a48ea
+cans,kg,Metal,waste/aluminum/aluminum,4c083be6-42e9-34ba-bbcb-c1de5608e969
+cans,kg,Metal,waste/aluminum/alloy,52cae0f1-b30a-3d83-ad65-a7d5cef09510
+pipes,kg,Metal,product/aluminum/aluminum,2ebf4369-9f73-3b9f-b0a9-180a9ae042d5
+pipes,kg,Metal,product/aluminum/alloy,40cc65aa-888a-358d-869e-2f9768d87ebe
+pipes,kg,Metal,waste/aluminum/aluminum,644a6efc-8784-3e15-900c-371d0b598381
+pipes,kg,Metal,waste/aluminum/alloy,81662d8e-0c69-3d98-abb7-d0cf0f03a2dc
+roofing,kg,Metal,product/aluminum/aluminum,f8cc5ec2-2f62-3ef8-ac9e-efc02de05c84
+roofing,kg,Metal,product/aluminum/alloy,a3d7d2e3-9c5e-38b8-b9c9-e8d6f7aefdcd
+roofing,kg,Metal,waste/aluminum/aluminum,9bd649be-197c-37bc-8785-4ae3882e28cd
+roofing,kg,Metal,waste/aluminum/alloy,755112ed-5ade-3060-b691-26caae4c1599
+furniture,kg,Metal,product/aluminum/aluminum,fc37511c-c031-36c8-b8eb-c50ebfd531de
+furniture,kg,Metal,product/aluminum/alloy,7d378a0c-5c4f-379c-a8c2-39bd709892cf
+furniture,kg,Metal,waste/aluminum/aluminum,9532e4e5-fdf5-32b8-bd26-39a47c610c8d
+furniture,kg,Metal,waste/aluminum/alloy,90dd8455-051b-3249-9071-5fcc56ba7562
+sheet,kg,Metal,product/aluminum/aluminum,c8e797fd-570a-334d-9c25-bef2e669d137
+sheet,kg,Metal,product/aluminum/alloy,18ad9a67-d741-31ae-8991-7df21d91e369
+sheet,kg,Metal,waste/aluminum/aluminum,d8508344-bad6-3ee6-86f0-54169bded3fc
+sheet,kg,Metal,waste/aluminum/alloy,fe972a73-e6d3-37f6-a377-3e8c483279e8
+durable goods,kg,Metal,product/copper/copper,cc510992-34c7-3eff-a9a8-e50dda35d3c8
+durable goods,kg,Metal,product/copper/alloy,42863df2-95a0-32b8-9055-d8f6dcfd9148
+durable goods,kg,Metal,waste/copper/copper,603ab361-ccc1-3c49-b635-ec6d60745788
+durable goods,kg,Metal,waste/copper/alloy,107d980c-d28a-385c-82d4-b3ab00125dee
+electronics,kg,Metal,product/copper/copper,d7acc42e-8af6-3cc0-97be-f7ec9f9d5628
+electronics,kg,Metal,product/copper/alloy,722f0d87-3787-35e9-9e49-8234629cc7ff
+electronics,kg,Metal,waste/copper/copper,8cc80f70-7b44-3b7c-bcc4-6bf842fc5f4f
+electronics,kg,Metal,waste/copper/alloy,1a9c5141-0acb-3f79-bf6b-f07ae2a76e8d
+wire,kg,Metal,product/copper/copper,22670dfc-e6d7-37dc-a8e7-a2ff7daee00d
+wire,kg,Metal,product/copper/alloy,371f36ed-1bdc-3f64-826c-3438acdacdf1
+wire,kg,Metal,waste/copper/copper,f649eeb5-57ae-325f-9a76-7b375593ab32
+wire,kg,Metal,waste/copper/alloy,7a2f8b06-78ac-3f7f-bd6b-0a731152cfc8
+pipes,kg,Metal,product/copper/copper,8188878d-9e3f-3787-96ba-bc9cab6fcec8
+pipes,kg,Metal,product/copper/alloy,ee4c3aca-570c-3a33-9f09-2ce19b6e29aa
+pipes,kg,Metal,waste/copper/copper,71aa3f71-d3ab-3057-b9ca-57a9492d8134
+pipes,kg,Metal,waste/copper/alloy,1d291f3a-f2c3-39e9-90a2-07fb8dd2709c
+roofing,kg,Metal,product/copper/copper,7b7c1c43-a19e-3b30-a0b6-6e89a638e55c
+roofing,kg,Metal,product/copper/alloy,0adfffdc-7da7-3fd6-a19a-475ac52b6aec
+roofing,kg,Metal,waste/copper/copper,34eaf289-0b80-3c5e-a54b-719cf2be2ce2
+roofing,kg,Metal,waste/copper/alloy,fa2d2b83-0d98-35b7-8a9d-61bd3ddb6a8e
+furniture,kg,Metal,product/copper/copper,ef40bd8c-8721-3932-910d-97c24c2133ef
+furniture,kg,Metal,product/copper/alloy,cf94f852-3a06-3944-b333-531db446a1b9
+furniture,kg,Metal,waste/copper/copper,ecd51970-b7d5-3643-8775-71fe30c53d69
+furniture,kg,Metal,waste/copper/alloy,f43a204c-0041-3d5d-a347-1a3f0cdc4984
+sheet,kg,Metal,product/copper/copper,9d6402ff-5d6d-3683-ab48-cd48404ea103
+sheet,kg,Metal,product/copper/alloy,b9199456-70f4-3f86-996a-1a5289ce431c
+sheet,kg,Metal,waste/copper/copper,0c61ed67-dbf4-3809-95c6-9be8ab11dc6e
+sheet,kg,Metal,waste/copper/alloy,21720fa7-30b1-3bd2-b81b-f8c8f7f3eff6
+durable goods,kg,Metal,product/precious/gold,79e5386f-a87e-362b-8fc3-6de9e2273b93
+durable goods,kg,Metal,product/precious/silver,1856b64d-d003-3759-aa50-e616a68fab75
+durable goods,kg,Metal,waste/precious/gold,bb2b664f-827f-31e6-a585-3582e4ec18ff
+durable goods,kg,Metal,waste/precious/silver,a0f689cf-88e2-3496-b87a-9a10355f041b
+electronics,kg,Metal,product/precious/gold,60739530-f45f-3a9e-865b-d6f6987753c1
+electronics,kg,Metal,product/precious/silver,6aac027b-3e3a-3331-b7bb-0719bc2903d0
+electronics,kg,Metal,waste/precious/gold,5deb49cd-4fed-3e42-bc3c-a31cdb97e533
+electronics,kg,Metal,waste/precious/silver,8ed0b2da-7771-35f0-a586-76d075f9db20
+wire,kg,Metal,product/precious/gold,8118017c-0e9c-38c2-8576-3fac8f19d43e
+wire,kg,Metal,product/precious/silver,1cc7f207-4738-381f-bfbd-cf68f428df43
+wire,kg,Metal,waste/precious/gold,6fc1b5c9-c3a4-3985-a539-60bf3a9b5af1
+wire,kg,Metal,waste/precious/silver,4ec7c230-9257-33e0-8113-6801a7325e71
+furniture,kg,Metal,product/precious/gold,95eb19eb-908a-32b1-a31b-479f96728483
+furniture,kg,Metal,product/precious/silver,653c6e6c-0dfd-36ec-956b-4874d7af2586
+furniture,kg,Metal,waste/precious/gold,cf6808c9-e55a-364f-8f1e-c0cd6dab1ce9
+furniture,kg,Metal,waste/precious/silver,6be9317f-4139-3f26-a756-140d69b67a18
+batteries,kg,Metal,product/heavy/lead,0c4d3ada-b15b-3d51-a7c5-a70680c8c423
+batteries,kg,Metal,product/heavy/mercury,f1f21226-7879-35a9-b907-afae474161c1
+batteries,kg,Metal,waste/heavy/lead,9b722dfd-8ead-3fca-ad0a-242fff2de851
+batteries,kg,Metal,waste/heavy/mercury,50c1f590-3a44-32b8-ad81-0b70169e02a3
+pipes,kg,Metal,product/heavy/lead,6ba1ee77-06f1-33f0-bbc1-4d4e52e9e268
+pipes,kg,Metal,product/heavy/mercury,f4b0bd11-c3c9-31ac-920c-76b079f6630c
+pipes,kg,Metal,waste/heavy/lead,c2ef66db-9704-347d-aa27-346b15ea994a
+pipes,kg,Metal,waste/heavy/mercury,3804b5c0-519c-3e32-8669-b5d837205049
 roofing,kg,Other petroleum products,product/asphalt/paving,e472b163-a1c8-366b-88c4-5c967210c37d
 roofing,kg,Other petroleum products,product/asphalt/roofing,8fb2fae4-a72e-3dc9-ab14-9028f289f21a
 roofing,kg,Other petroleum products,product/asphalt/other,0bf3b9f8-55bd-30c1-bfa1-57aac398891a
@@ -865,6 +909,14 @@ furniture,kg,Textile,waste/fiber/plant,1758e7a8-4a0f-3e48-ab99-bf913ffd9172
 furniture,kg,Textile,waste/fiber/animal,a33aecd6-b998-3d6b-b08b-e258a14beaae
 furniture,kg,Textile,waste/fiber/synthetic,2104a620-0a2b-3c7b-8be8-df0c874af7f1
 furniture,kg,Textile,waste/fiber/composite,521cca5e-a59c-37bb-8f02-e82868fc6aec
+bags,kg,Textile,product/fiber/plant,5ce0b2e1-e5d6-3842-8211-371eb4857c50
+bags,kg,Textile,product/fiber/animal,38fe8d70-db34-3f9b-bbc6-39c11eddc883
+bags,kg,Textile,product/fiber/synthetic,e2be5412-3e17-3571-b049-5f206e87a1a8
+bags,kg,Textile,product/fiber/composite,19a18166-b483-3dcb-800d-935d59a9ffb9
+bags,kg,Textile,waste/fiber/plant,6f84c581-b5b4-3531-8e0d-d403ebe5294c
+bags,kg,Textile,waste/fiber/animal,0f23db20-6d53-31b9-bcde-b8735561c065
+bags,kg,Textile,waste/fiber/synthetic,17771004-79e3-31a8-936d-3dd3fdd625af
+bags,kg,Textile,waste/fiber/composite,4adc4723-d653-3f9d-ab8f-c2a946e2b6d7
 lumber,kg,Wood,product/wood/hardwood,97161a9c-12e6-3042-8d57-16644195b038
 lumber,kg,Wood,product/wood/softwood,3a9482a9-4a3b-379b-8403-5fbcb5ca42e5
 lumber,kg,Wood,product/wood/engineered,68ab788f-c938-3a49-9dba-a563eb945e47
@@ -1061,22 +1113,28 @@ livestock,kg,Livestock,waste/by-product/carcass,530a8cbe-0d82-30d1-ae75-194b60c9
 livestock,kg,Livestock,waste/eggs/chicken,947d1726-1f0b-3e62-bf3a-d7e33f75f5e6
 metal,kg,Metal,material/mixed/metal,3090e0c1-bd0d-3ddd-bc7f-19d1b09c4c22
 metal,kg,Metal,material/ferrous/iron,e35d3fef-b3ba-3279-ad46-0703e4766970
-metal,kg,Metal,material/ferrous/alloy,d4f73557-931f-3aec-b675-0333b9b65e16
-metal,kg,Metal,material/ferrous/steel,fd7b93d8-a959-3019-992d-2e83db1750fb
-metal,kg,Metal,material/non-ferrous/aluminum,47b8ecbe-be1c-357c-b8f8-650d67728e4a
-metal,kg,Metal,material/non-ferrous/alloy,ae4ec798-df2f-3d63-a0cb-a9c5356d1f94
-metal,kg,Metal,material/non-ferrous/copper,9ca6adca-4932-3905-8f10-3bfd67a2012a
-metal,kg,Metal,material/non-ferrous/gold,53e98d26-d53b-35f5-8a1c-83f666c068df
-metal,kg,Metal,material/non-ferrous/lead,c1ee2617-153c-3f5a-84f4-0ea2d4d4765f
+metal,kg,Metal,material/ferrous/carbon steel,3caecc18-b4c8-3e0e-934a-56670bb21b0d
+metal,kg,Metal,material/ferrous/alloy steel,e0740e39-f9e2-3526-8c78-ac50a1f84e4b
+metal,kg,Metal,material/aluminum/aluminum,5b927c1c-945b-3f68-a721-6c85946be017
+metal,kg,Metal,material/aluminum/alloy,e3a0afa3-62fc-39a6-848d-1db22daa417d
+metal,kg,Metal,material/copper/copper,0f7349a2-d025-35fd-be18-a0372e24d2d0
+metal,kg,Metal,material/copper/alloy,3721e2ca-1409-32dc-a606-a05ca6751494
+metal,kg,Metal,material/precious/gold,d2ef7220-7027-3a5e-81c5-df1700ec46b1
+metal,kg,Metal,material/precious/silver,7810d06c-7621-3016-951b-d9ac2a87d1d8
+metal,kg,Metal,material/heavy/lead,c46bddb5-19cd-3f4d-bbca-c03a2e72110a
+metal,kg,Metal,material/heavy/mercury,790cac67-2cb0-357e-b357-798e3847ab1e
 metal,kg,Metal,waste/mixed/metal,f3f2f744-68e5-3661-88f8-77e97b4697ce
 metal,kg,Metal,waste/ferrous/iron,6809042e-8f7d-3406-b13f-808dfc1abaae
-metal,kg,Metal,waste/ferrous/alloy,52d99be9-20dc-3af8-80a3-137157254ea9
-metal,kg,Metal,waste/ferrous/steel,8b03bd9d-444f-3ba3-9a68-75fb50af69b6
-metal,kg,Metal,waste/non-ferrous/aluminum,9915b9a2-6345-3ac5-a712-aed5bb6e69cb
-metal,kg,Metal,waste/non-ferrous/alloy,936f0d2d-9b76-3b38-8b91-ed8faf97d6b4
-metal,kg,Metal,waste/non-ferrous/copper,c5f938c2-eae5-379d-91cb-f817920239fb
-metal,kg,Metal,waste/non-ferrous/gold,96f8bff3-018b-32f8-a0fb-21b3952c818d
-metal,kg,Metal,waste/non-ferrous/lead,84bc8c7d-074a-38d2-be1b-a336030dfa5a
+metal,kg,Metal,waste/ferrous/carbon steel,7be1065a-a115-3cc6-9392-89b716b799b8
+metal,kg,Metal,waste/ferrous/alloy steel,3fe2c83e-0fc4-3b6e-871c-1943699184b8
+metal,kg,Metal,waste/aluminum/aluminum,f7fdc349-d256-3863-b7b8-95d64b88e4ab
+metal,kg,Metal,waste/aluminum/alloy,fbc50e99-31c5-384a-8e1d-77c0a382012b
+metal,kg,Metal,waste/copper/copper,ea55b4b1-1c90-3d88-8df5-75c7d160e767
+metal,kg,Metal,waste/copper/alloy,5567e57b-7aab-36c7-95a1-fafb0e19ee8d
+metal,kg,Metal,waste/precious/gold,1f4dfa0a-c336-301e-8653-d3988416faa9
+metal,kg,Metal,waste/precious/silver,b2164178-ca51-3e56-b811-bdf2f5f573ae
+metal,kg,Metal,waste/heavy/lead,882b0261-9bfc-3105-a222-8891414057e9
+metal,kg,Metal,waste/heavy/mercury,e261e30d-ff89-3885-a49e-3b61b59ef834
 other petroleum products,kg,Other petroleum products,material/asphalt/paving,56bbdc4b-947d-39a3-82ef-49e14ffbbea1
 other petroleum products,kg,Other petroleum products,material/asphalt/roofing,499bd17c-9179-3c4e-aea3-beb1166c05a1
 other petroleum products,kg,Other petroleum products,material/asphalt/other,472899d6-14c9-3da6-ba13-66e50a01d577
@@ -1253,26 +1311,64 @@ durable goods,kg,Metal,product/ferrous,08d33622-7617-3de6-afe0-c491a4adf225
 durable goods,kg,Metal,waste/ferrous,1cd4f1ed-8aba-31d1-9375-7f773f4281c3
 electronics,kg,Metal,product/ferrous,7de92482-582e-3481-9775-c02e474f0fed
 electronics,kg,Metal,waste/ferrous,b48b1dd9-6626-39c6-8ace-1bae177b290f
+batteries,kg,Metal,product/ferrous,688820ea-d0ae-317c-9571-9e6c4973b354
+batteries,kg,Metal,waste/ferrous,c9410bd0-6661-3aac-b873-128e83cc270d
 cans,kg,Metal,product/ferrous,3858fa16-d8b1-34a0-9540-139e293059d4
 cans,kg,Metal,waste/ferrous,d61f1b93-f962-31b5-97da-9f0165f9d0fb
 wire,kg,Metal,product/ferrous,9869e2d5-9f74-33a7-b8d2-c5e78833154a
 wire,kg,Metal,waste/ferrous,d0864b9d-bb30-3a3a-a02a-b3d1b4611bd9
 pipes,kg,Metal,product/ferrous,e3b145eb-b2eb-3c7b-82d0-834520fdbce8
 pipes,kg,Metal,waste/ferrous,5a700abe-0c46-3b36-8a62-78046b34c626
-packaging,kg,Metal,product/non-ferrous,e9e760fa-c6e7-30af-ae1f-43203d15f263
-packaging,kg,Metal,waste/non-ferrous,4cfcca52-e776-3e64-a31d-4bafbce2968f
-durable goods,kg,Metal,product/non-ferrous,efdada5e-18b8-3fb2-ac6c-53b7b372224b
-durable goods,kg,Metal,waste/non-ferrous,f9c2d726-ba82-32dd-8208-e1d91127360d
-electronics,kg,Metal,product/non-ferrous,d8b5a9c1-6b11-3939-bfe2-3748b3058cbd
-electronics,kg,Metal,waste/non-ferrous,46908549-ef3c-3e5a-9a0a-2c85f6a019fe
-batteries,kg,Metal,product/non-ferrous,56ef8184-3c10-3a2a-b8d9-bcdc345b39c9
-batteries,kg,Metal,waste/non-ferrous,51b582d8-e3e0-3135-a048-f5ed9281f899
-cans,kg,Metal,product/non-ferrous,f3e77aa5-1189-34f3-8fc4-1becbec494d4
-cans,kg,Metal,waste/non-ferrous,5eb0d73c-aed8-39c7-98f6-7ac64c7e070c
-wire,kg,Metal,product/non-ferrous,1a308108-888b-3956-807f-77cf1fc71469
-wire,kg,Metal,waste/non-ferrous,3294a176-70b9-3c49-8dbb-2f4e3f4824d1
-pipes,kg,Metal,product/non-ferrous,c33edf91-acc6-364a-b8ea-ee9867349624
-pipes,kg,Metal,waste/non-ferrous,2a0857f5-b50d-3f94-bff0-9ec1ff23870c
+roofing,kg,Metal,product/ferrous,4248da08-3bd0-38ac-bfd7-c962c5e988eb
+roofing,kg,Metal,waste/ferrous,cd4b8baa-3d34-3da1-8ce9-63e2e5237dbf
+furniture,kg,Metal,product/ferrous,50777e18-938f-32a1-93f2-7b157e0228b8
+furniture,kg,Metal,waste/ferrous,498b3d6d-4a76-38c0-b9a6-3e28b1d47f85
+sheet,kg,Metal,product/ferrous,2d9464d7-cf6d-337a-bcd5-3bec25e8e5f0
+sheet,kg,Metal,waste/ferrous,624ec854-07ca-3dc7-a84d-41e5fe8db9a2
+tires,kg,Metal,product/ferrous,3997e2a7-d798-3c32-95e5-dfd1b40dd8ea
+tires,kg,Metal,waste/ferrous,93aa1355-6fdc-37d4-8f09-3d659de2027c
+packaging,kg,Metal,product/aluminum,160dc756-c3c4-37e0-b815-5f0e0f2e0b95
+packaging,kg,Metal,waste/aluminum,1d52b6fc-4909-3d6b-b097-e4a05cf82eea
+durable goods,kg,Metal,product/aluminum,233026a8-b48e-34d0-b156-d3f6ea0fe73f
+durable goods,kg,Metal,waste/aluminum,fee3f2dd-66e4-3320-983a-c0c1dc3c53ba
+electronics,kg,Metal,product/aluminum,0ab4ee64-74f5-36ed-b4aa-df03e113b4d7
+electronics,kg,Metal,waste/aluminum,897403cf-36d6-3ab6-a6e6-c76675c498a2
+cans,kg,Metal,product/aluminum,47b8028f-60f6-3fb9-9dbb-71335f215093
+cans,kg,Metal,waste/aluminum,2fafa9e0-6a7c-3ef9-a20e-f54c4db3c84c
+pipes,kg,Metal,product/aluminum,ffdd3235-6f32-3f85-84c5-e6e9d57ff652
+pipes,kg,Metal,waste/aluminum,42b977fd-2f15-3827-98c2-f7c8fa1dc50b
+roofing,kg,Metal,product/aluminum,7e1cca77-2797-377f-b477-07979d205518
+roofing,kg,Metal,waste/aluminum,115f4e7d-ddae-3ca9-9b8f-b2043ceae16d
+furniture,kg,Metal,product/aluminum,3697ca97-c2d3-3718-9951-0da391cfa06a
+furniture,kg,Metal,waste/aluminum,f508ad4c-55ec-3bc5-b78f-098f82631f70
+sheet,kg,Metal,product/aluminum,fb4236cc-8380-3100-a424-281bb13122c9
+sheet,kg,Metal,waste/aluminum,7734f1cb-e160-377f-a612-5bf73fd04dab
+durable goods,kg,Metal,product/copper,fa52242e-9d9f-367d-a40e-3273628335d1
+durable goods,kg,Metal,waste/copper,e027507e-ca41-37b9-9811-48ebb279c55f
+electronics,kg,Metal,product/copper,970ed471-8b15-3023-96cb-8cf491f71780
+electronics,kg,Metal,waste/copper,f87bf822-4be0-3891-8a6d-1d943a9f6746
+wire,kg,Metal,product/copper,90302fa4-8916-3242-b841-a32008351bfb
+wire,kg,Metal,waste/copper,d07af013-64c4-374c-9162-2e1b3fccb0d1
+pipes,kg,Metal,product/copper,04c5fd7d-40f6-3b39-8aa7-65f4edf3c243
+pipes,kg,Metal,waste/copper,fffb0bd9-a6eb-390b-8ca4-5d869e4abdd8
+roofing,kg,Metal,product/copper,3ec65cb1-e00a-348b-acb5-cfe0ce8161f3
+roofing,kg,Metal,waste/copper,17f8432a-1799-3afc-a8e9-bd8598a5c81a
+furniture,kg,Metal,product/copper,a2e4d7f0-d0d2-3fa6-ad6a-bd956f4c1ec2
+furniture,kg,Metal,waste/copper,a274861c-e1c4-3cb4-b877-7046e63b084a
+sheet,kg,Metal,product/copper,39f2eaf2-f044-3f2c-a9ee-c6c51cc1db7b
+sheet,kg,Metal,waste/copper,e0834254-5fa9-3b80-999d-cf0b3347f5b0
+durable goods,kg,Metal,product/precious,465f3954-4b36-3f12-a680-a8994a6789d8
+durable goods,kg,Metal,waste/precious,e4bba9ba-83c9-3e48-95bf-38b4d7361f5f
+electronics,kg,Metal,product/precious,6a4f4919-f4a7-32c3-94da-eb941df49c77
+electronics,kg,Metal,waste/precious,3af1cc94-e59f-31a5-98f2-d26da70eabc5
+wire,kg,Metal,product/precious,835e54c0-b10a-30c9-adee-a98858068499
+wire,kg,Metal,waste/precious,e9ed2fd5-e337-3126-8a1c-0b43ac49d7f1
+furniture,kg,Metal,product/precious,f2e2dbe1-1d58-3cd6-81f6-47fe3746c382
+furniture,kg,Metal,waste/precious,3cd658e3-1f3c-344f-a059-9c2f07cb7743
+batteries,kg,Metal,product/heavy,245ed7d1-bfab-3eb2-a15d-8efbcd729129
+batteries,kg,Metal,waste/heavy,70714c1b-6935-3d57-b27c-6a5c945564e3
+pipes,kg,Metal,product/heavy,8de349d2-5410-3704-9c19-a63c264a1fd3
+pipes,kg,Metal,waste/heavy,85ea5f53-cbea-3587-af4d-67020e323447
 roofing,kg,Other petroleum products,product/asphalt,e18c63d4-a1c8-3ac0-a802-16002c6c8b56
 roofing,kg,Other petroleum products,waste/asphalt,9f6d0582-6553-3b66-8c8e-3eebc6aa244c
 pavement,kg,Other petroleum products,product/asphalt,3205662d-26c1-38d2-83ff-b9782242181f
@@ -1369,6 +1465,8 @@ automotive upholstery,kg,Textile,product/fiber,3c06a4c6-326a-3636-8036-46d9380d3
 automotive upholstery,kg,Textile,waste/fiber,a091df0c-6e58-30fc-b741-d3ad6f500970
 furniture,kg,Textile,product/fiber,ab76be4b-230a-3a2c-a0c4-b042f9e9b93c
 furniture,kg,Textile,waste/fiber,90c72842-d209-3125-bed0-a3a97bb73855
+bags,kg,Textile,product/fiber,f5df2b4e-a9ca-3eab-89f8-68837a9277c2
+bags,kg,Textile,waste/fiber,4eaebda9-57cb-321d-b8cd-9065d352f6b6
 lumber,kg,Wood,product/wood,1bd4ebc0-1a7a-3eb9-bd99-c02c27ed49d6
 lumber,kg,Wood,waste/wood,3e666d39-27a3-3612-a6ba-87e726a6f8ef
 fiberboard,kg,Wood,product/wood,574d59ee-2e91-3455-8774-fc378c22abdf
@@ -1439,10 +1537,16 @@ livestock,kg,Livestock,waste/eggs,2a59a13d-fd81-316c-8cd1-e95a5d87d664
 livestock,kg,Livestock,waste/by-product,0cf61054-3ebb-3df7-8ca4-a11861639810
 metal,kg,Metal,material/mixed,f5b31644-f10d-30b5-8bd7-66e78f74992a
 metal,kg,Metal,material/ferrous,3ac3fb48-9269-38e8-8dac-3b96a16b18c5
-metal,kg,Metal,material/non-ferrous,a3babb9c-11e1-3fb2-9bf4-d8462393d3c6
+metal,kg,Metal,material/aluminum,1b02a49e-f5c8-3dae-a2d8-53e4e7b1ce7e
+metal,kg,Metal,material/copper,0a2772ba-5d68-360f-9389-d6a8db5f2d58
+metal,kg,Metal,material/precious,39d35b49-8c38-397e-adb2-c53a69400ea7
+metal,kg,Metal,material/heavy,acf5ba38-b5c6-3eec-a759-e2b0b3e07a91
 metal,kg,Metal,waste/mixed,3ce8ae9c-a878-354c-8273-01320f41b5f2
 metal,kg,Metal,waste/ferrous,6c899571-d483-30eb-bcff-9abbeebcf7e3
-metal,kg,Metal,waste/non-ferrous,696cac7d-989a-3492-824e-c75dceab5593
+metal,kg,Metal,waste/aluminum,b9989412-3d91-3782-91d5-e800b864264b
+metal,kg,Metal,waste/copper,61d0011d-4935-309d-abaa-b9ddf44fb549
+metal,kg,Metal,waste/precious,fb170f6a-bbb6-36e5-a283-c4b3b3ac6c02
+metal,kg,Metal,waste/heavy,fd9911b8-5591-36cc-a9b6-7aba13fa039c
 other petroleum products,kg,Other petroleum products,material/asphalt,e35338b3-9975-3ba2-ab91-249c9798f4ad
 other petroleum products,kg,Other petroleum products,material/solvents,973057a1-b923-38f1-a5f5-ebeff1b3921d
 other petroleum products,kg,Other petroleum products,material/paint,efd23994-4d5e-3a59-8bf7-94183337a602
