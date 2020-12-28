@@ -32,11 +32,11 @@ if __name__ == '__main__':
     #flowables_w_category = pd.DataFrame()
     #category = pd.DataFrame()
 
+    flowables_for_class = pd.read_csv(inputpath + 'FlowableUnits.csv', header=0, dtype=None)
+    log.info('Import ' + str(len(flowables_for_class)) + ' flowables from FlowableUnits.csv')
+
     # Loop through flow class specific files based on those classes specified in flowlistspecs
     for t in flow_list_specs["flow_classes"]:
-        # Handle flowables first
-        flowables_for_class = pd.read_csv(inputpath + 'FlowableUnits.csv', header=0, dtype=None)
-        log.info('Import ' + str(len(flowables_for_class)) + ' flowables for class ' + t)
         # Drop duplicate flowables in list
         flowables_for_class = flowables_for_class.drop_duplicates(subset='Flowable')
         # Add Flow Class to columns
