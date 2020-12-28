@@ -1,20 +1,21 @@
 ﻿Flowable,Category
-containers,clay
-durable goods,clay
-nondurable goods,clay
-bricks,clay
-dinnerware,clay
-insulators,clay
-pavement,clay
-coatings,clay
-pottery,clay
-roofing,clay
-pipes,clay
-plaster,clay
+containers,ceramics
+durable goods,ceramics
+nondurable goods,ceramics
+bricks,ceramics
+dinnerware,ceramics
+insulators,ceramics
+pavement,ceramics
+coatings,ceramics
+pottery,ceramics
+roofing,ceramics
+pipes,ceramics
+plaster,ceramics
+flooring,ceramics
 durable goods,gypsum
 nondurable goods,gypsum
 drywall,gypsum
-soil ammendment,gypsum
+soil amendment,gypsum
 plaster,gypsum
 food additive,gypsum
 clay additive,gypsum

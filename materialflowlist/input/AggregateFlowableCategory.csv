@@ -1,7 +1,14 @@
 ﻿Flowable,Category
 bricks,concrete
 pavement,concrete
+pavement,stone
 fill,soil
-fill,rock
+fill,stone
+fill,sand
 fill,ash
-stonework,rock
+fill,gravel
+stonework,stone
+landscaping,soil
+landscaping,gravel
+landscaping,stone
+landscaping,concrete
