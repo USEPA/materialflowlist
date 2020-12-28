@@ -1,14 +1,12 @@
 """
 materialflowlist
-
-
 """
+
 import os
 import pandas as pd
 from materialflowlist.assemble_materialflowlist import read_in_flowclass_file
 from materialflowlist.globals import outputpath, flowmappingpath, flow_list_specs
 #import materialflowlist.jsonld as jsonld
-
 
 def get_flows(preferred_only=None):
     """Gets a flow list in a standard format
@@ -22,7 +20,6 @@ def get_flows(preferred_only=None):
     if preferred_only:
         flows = flows[flows['Preferred'] == 1]
     return flows
-
 
 def get_flowmapping(source=None):
     """Gets a flow mapping in standard format
@@ -53,7 +50,6 @@ def get_flowmapping(source=None):
                 flowmappings = pd.concat([flowmappings, flowmapping])
     return flowmappings
 
-
 #def write_jsonld(flows, path, mappings=None):
     """ Writes a standard openLCA JSON-LD zip archive with elementary flows and optionally
      flowmappings
@@ -65,7 +61,6 @@ def get_flowmapping(source=None):
     """
     #writer = jsonld.Writer(flow_list=flows, flow_mapping=mappings)
     #writer.write_to(path)
-
 
 def get_alt_conversion():
     """returns a dataframe of all flowables with altunits and alt conversion factors

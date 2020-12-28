@@ -1,21 +1,23 @@
 """
 Provides a pandas dataframe.
 
-Of all contexts as paths and as a pattern of context classes. Used by
+Of contexts as paths and as a pattern of context classes. Used by
 flowlist.py.
 """
 
 import pandas as pd
-from materialflowlist.globals import inputpath, as_path, flow_list_specs
+from materialflowlist.globals import inputpath, flow_list_specs
 
 contexts = pd.read_csv(inputpath + 'Contexts.csv', na_values='N/A')
 
 # Get levels for max number of compartment classes
 max_compartment_classes = len(contexts.columns)
+
 # Define compartment_classes
-compartment_classes = flow_list_specs['flow_classes'] +\
+compartment_classes = flow_list_specs['flow_classes'] + \
                       flow_list_specs['category_context_classes'] + \
                       flow_list_specs['type_context_classes']
+
 # Create dictionary of context levels
 context_levels = {}
 counter = 0
@@ -29,7 +31,6 @@ primarycontexts = pd.DataFrame(data=flow_list_specs['primary_context_classes'],c
 primarycontexts['target'] = 1
 contexts['target'] = 1
 contexts = pd.merge(primarycontexts, contexts, on='target').drop('target', axis=1)
-
 
 """
 # Describe a pattern of compartment classes used in each context

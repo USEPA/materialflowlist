@@ -34,9 +34,9 @@ flow_list_specs = {
     "type_context_classes": ["Type"]
 }
 
-
 def as_path(*args: str) -> str:
-    """Converts strings to lowercase path-like string
+    """
+    Converts strings to lowercase path-like string
     Take variable order of string inputs
     :param args: variable-length of strings
     :return: string

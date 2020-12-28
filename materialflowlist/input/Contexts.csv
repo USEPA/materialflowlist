@@ -2,12 +2,26 @@ Class,Category,Type
 Aggregate,ash,bottom
 Aggregate,ash,fly
 Aggregate,ash,wood
-Aggregate,rock,slab
-Aggregate,rock,crushed
+Aggregate,stone,slab
+Aggregate,stone,boulder
+Aggregate,stone,paver
+Aggregate,gravel,small
+Aggregate,gravel,medium
+Aggregate,gravel,large
 Aggregate,soil,topsoil
 Aggregate,soil,subsoil
-Aggregate,concrete,structural
-Aggregate,concrete,paving
+Aggregate,concrete,precast
+Aggregate,concrete,ready-mix
+Aggregate,sand,fine
+Aggregate,sand,course
+Other plant matter,residential,stumps and roots
+Other plant matter,residential,branches
+Other plant matter,residential,leaves
+Other plant matter,residential,grass clippings
+Other plant matter,commercial,stumps and roots
+Other plant matter,commercial,branches
+Other plant matter,commercial,leaves
+Other plant matter,commercial,grass clippings
 Crops,biomass,annual
 Crops,biomass,perennial
 Crops,grain,cereal
@@ -78,9 +92,11 @@ Textile,fiber,plant
 Textile,fiber,animal
 Textile,fiber,synthetic
 Textile,fiber,composite
-Wood,wood,hardwood
-Wood,wood,softwood
-Wood,wood,engineered
+Wood,hardwood,solid
+Wood,softwood,solid
+Wood,engineered,OSB
+Wood,engineered,plywood
+Wood,engineered,composite
 Minerals,gypsum,food-grade
 Minerals,gypsum,powder
 Minerals,gypsum,raw

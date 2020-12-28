@@ -1,11 +1,10 @@
 """
-Generate the elementary flow master list.
-
+Generate the material flow master list.
 As a pandas dataframe from input files. Write it to the output folder.
 """
 
 import pandas as pd
-from materialflowlist.globals import log, inputpath, outputpath, flow_list_specs, flow_list_fields, as_path
+from materialflowlist.globals import log, inputpath, outputpath, flow_list_specs, flow_list_fields
 from materialflowlist.contexts import contexts
 from fedelemflowlist.uuid_generators import make_uuid
 
@@ -36,7 +35,7 @@ if __name__ == '__main__':
     # Loop through flow class specific files based on those classes specified in flowlistspecs
     for t in flow_list_specs["flow_classes"]:
         # Handle flowables first
-        flowables_for_class = read_in_flowclass_file(t, 'Flowables')
+        flowables_for_class = pd.read_csv(inputpath + 'FlowableUnits.csv', header=0, dtype=None)
         log.info('Import ' + str(len(flowables_for_class)) + ' flowables for class ' + t)
         # Drop duplicate flowables in list
         flowables_for_class = flowables_for_class.drop_duplicates(subset='Flowable')
@@ -92,7 +91,6 @@ if __name__ == '__main__':
     flows = flows.drop(columns=['PrimaryContext', 'Category', 'Type'])
 
     flows = flows.append(flowscategorycutoff, ignore_index=False)
-
     log.info('Total of ' + str(len(flows)) + ' flows with contexts created.')
 
     # Loop through flows generating UUID for each
@@ -110,6 +108,7 @@ if __name__ == '__main__':
         flows = flows.drop_duplicates(subset=['Flow UUID'], keep='first')
     flows.drop(columns='Duplicates')
 
+    # Log unique entries
     contexts_in_flows = pd.unique(flows['Context'])
     log.info('Created ' + str(len(flows)) + ' flows with ' + str(len(contexts_in_flows)) + ' unique contexts')
 
