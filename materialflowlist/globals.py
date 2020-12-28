@@ -15,11 +15,8 @@ flowmappingpath = modulepath + 'flowmapping/'
 flow_list_fields = {'Flowable': [{'dtype': 'str'}, {'required': True}],
                     'Unit': [{'dtype': 'str'}, {'required': True}],
                     'Class': [{'dtype': 'str'}, {'required': True}],
-                    #'External Reference': [{'dtype': 'str'}, {'required': False}],
                     'Context': [{'dtype': 'str'}, {'required': True}],
                     'Flow UUID': [{'dtype': 'str'}, {'required': True}],
-                    #'AltUnit': [{'dtype': 'str'}, {'required': False}],
-                    #'AltUnitConversionFactor': [{'dtype': 'float'}, {'required': False}]
                     }
 
 log.basicConfig(level=log.DEBUG, format='%(levelname)s %(message)s',
