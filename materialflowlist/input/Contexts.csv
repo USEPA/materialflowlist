@@ -1,4 +1,4 @@
-Class,Category,Type
+Class,SecondaryContext,ContextDetail
 Aggregate,ash,bottom
 Aggregate,ash,fly
 Aggregate,ash,wood
@@ -14,21 +14,21 @@ Aggregate,concrete,precast
 Aggregate,concrete,ready-mix
 Aggregate,sand,fine
 Aggregate,sand,course
-Other plant matter,residential,stumps and roots
-Other plant matter,residential,branches
-Other plant matter,residential,leaves
-Other plant matter,residential,grass clippings
-Other plant matter,commercial,stumps and roots
-Other plant matter,commercial,branches
-Other plant matter,commercial,leaves
-Other plant matter,commercial,grass clippings
-Crops,biomass,annual
-Crops,biomass,perennial
-Crops,grain,cereal
-Crops,grain,oilseed
-Crops,grain,feed
-Crops,crop,vegetable
-Crops,crop,fruit
+Plants,residential,stumps and roots
+Plants,residential,branches
+Plants,residential,leaves
+Plants,residential,grass clippings
+Plants,commercial,stumps and roots
+Plants,commercial,branches
+Plants,commercial,leaves
+Plants,commercial,grass clippings
+Plants,biomass,annual
+Plants,biomass,perennial
+Plants,grain,cereal
+Plants,grain,oilseed
+Plants,grain,feed
+Plants,crop,vegetable
+Plants,crop,fruit
 Livestock,meat,beef
 Livestock,meat,poultry
 Livestock,meat,pork

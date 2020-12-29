@@ -1,4 +1,4 @@
-﻿Flowable,Category
+﻿Flowable,SecondaryContext
 packaging,mixed
 packaging,ferrous
 packaging,aluminum
@@ -38,3 +38,4 @@ sheet,copper
 tires,ferrous
 structural components,ferrous
 structural components,aluminum
+pallets,ferrous

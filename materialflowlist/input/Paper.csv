@@ -1,4 +1,4 @@
-﻿Flowable,Category
+﻿Flowable,SecondaryContext
 nondurable goods,paper
 nondurable goods,paperboard
 packaging,paper
@@ -9,3 +9,4 @@ magazines,paper
 newspapers,paper
 aseptic cartons,paperboard
 containers,paperboard
+pallets,paperboard

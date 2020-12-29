@@ -1,4 +1,4 @@
-﻿Flowable,Category
+﻿Flowable,SecondaryContext
 containers,thermoplastic
 packaging,thermoplastic
 bags,thermoplastic
@@ -24,3 +24,5 @@ adhesives,thermoset
 pipes,thermoplastic
 pipes,thermoset
 mulch,thermoset
+pallets,thermoset
+pallets,thermoplastic

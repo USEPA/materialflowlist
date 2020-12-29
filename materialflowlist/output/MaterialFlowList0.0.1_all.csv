@@ -45,46 +45,6 @@ fill,kg,Aggregate,product/gravel/large,3efe155d-cb7e-3b3d-850b-03476db1f301
 fill,kg,Aggregate,waste/gravel/small,5a644187-9d09-3211-9fb5-8d34a2c5ff87
 fill,kg,Aggregate,waste/gravel/medium,8f39daf0-ff5d-3745-b10d-d31d720f3778
 fill,kg,Aggregate,waste/gravel/large,3949cc5f-cea0-3ea3-9f64-d55dff44e0ff
-animal feed,kg,Crops,product/grain/cereal,b004d178-1306-3390-a9a8-d93796df8aa5
-animal feed,kg,Crops,product/grain/oilseed,34a1ac5b-4bc7-33f7-91ab-550f168174b6
-animal feed,kg,Crops,product/grain/feed,029455b3-dc17-34a6-bbaa-45f18b6e89e1
-animal feed,kg,Crops,waste/grain/cereal,554c5829-4664-3bbc-9490-9f226521ba1c
-animal feed,kg,Crops,waste/grain/oilseed,9e25e8c7-4ab1-3d93-8fea-eacba1678654
-animal feed,kg,Crops,waste/grain/feed,af619f26-9010-3098-a59e-56640524be2f
-food,kg,Crops,product/grain/cereal,87453921-9afd-350f-a42e-73337d4e2f9c
-food,kg,Crops,product/grain/oilseed,87ea8282-16a2-3797-8441-1b02c4142ea1
-food,kg,Crops,product/grain/feed,a31309d5-0942-3809-99c4-b86a4abcd303
-food,kg,Crops,waste/grain/cereal,4f6b510f-3c90-3d00-90fa-f8c0cdc2fc24
-food,kg,Crops,waste/grain/oilseed,aa879bfa-addc-3cb0-9c46-3d9078e05b13
-food,kg,Crops,waste/grain/feed,98880085-fea5-373a-90d0-d873d46e9375
-pellets,kg,Crops,product/grain/cereal,ab43a9b6-0def-36db-b9be-996112b31800
-pellets,kg,Crops,product/grain/oilseed,e7d57171-50d9-332d-86dc-819f7009b2db
-pellets,kg,Crops,product/grain/feed,f2152987-8945-31b8-8da2-baff6d6d763e
-pellets,kg,Crops,waste/grain/cereal,3b44533a-8705-311c-b60f-aa69324d09da
-pellets,kg,Crops,waste/grain/oilseed,f5653dbb-3ec7-3c8f-a170-bd1940e851fc
-pellets,kg,Crops,waste/grain/feed,9328e704-34d9-3aa6-94b2-06158e477171
-vegetable oil,kg,Crops,product/grain/cereal,e239c091-9332-3028-9ae2-7feb221ad190
-vegetable oil,kg,Crops,product/grain/oilseed,cf94d47a-c1f6-3ac9-8fbf-f6926917c4ff
-vegetable oil,kg,Crops,product/grain/feed,f99aef72-41c6-3d5e-b41a-3fd6005203c1
-vegetable oil,kg,Crops,waste/grain/cereal,d09dfb16-71c2-3697-b14d-b2049d7651dc
-vegetable oil,kg,Crops,waste/grain/oilseed,0e2e3a83-116b-3b18-9e72-b3f14be767a9
-vegetable oil,kg,Crops,waste/grain/feed,7772e744-aab3-35bd-a650-6bb4a8ddd476
-briquettes,kg,Crops,product/biomass/annual,aaebe230-44ce-33a7-9823-681c83bcdfd8
-briquettes,kg,Crops,product/biomass/perennial,385753ca-08cf-3f36-943e-5ed87e66c573
-briquettes,kg,Crops,waste/biomass/annual,0633ca27-1088-3546-b5b0-190a25749019
-briquettes,kg,Crops,waste/biomass/perennial,b0848733-f411-3fce-9ee0-7fda9c0e54fa
-pellets,kg,Crops,product/biomass/annual,19b47a7d-56fd-30a6-ac4f-b3b662182c42
-pellets,kg,Crops,product/biomass/perennial,c39ad269-4d7f-31ea-8eb2-03e335fbddbf
-pellets,kg,Crops,waste/biomass/annual,01d82bbd-2266-3755-bb80-f42053f47253
-pellets,kg,Crops,waste/biomass/perennial,40ed0e0a-0c9e-3c59-a1cf-50a1456ef6fe
-food,kg,Crops,product/crop/vegetable,7a4499fe-2ac5-3e94-8b56-5dcbd96609fd
-food,kg,Crops,product/crop/fruit,bf4a23a3-38e2-3cc9-9810-0b76f659cc9f
-food,kg,Crops,waste/crop/vegetable,d7fba9f2-c4f5-3a12-aca9-07050033de48
-food,kg,Crops,waste/crop/fruit,0be5fcc0-fa3a-3c27-b38a-b18d433d4d10
-trimmings,kg,Crops,product/crop/vegetable,dab61484-5075-3906-a0ed-5f20255234d6
-trimmings,kg,Crops,product/crop/fruit,061ec365-b5e0-3eee-99d5-b331989ed6c4
-trimmings,kg,Crops,waste/crop/vegetable,d4a471b8-5772-38fe-bf88-281153bed8dd
-trimmings,kg,Crops,waste/crop/fruit,47ce714d-a84d-3c02-9f23-8cf9fafe1de8
 bottles,kg,Glass,product/glass/clear,d531edab-bb37-3ab0-b9f4-11c2691dd417
 bottles,kg,Glass,product/glass/green,8bdf2359-b205-3561-a61a-c387100bdb3f
 bottles,kg,Glass,product/glass/brown,b11fe843-1c45-3457-afa3-01c7e7912911
@@ -265,6 +225,12 @@ packaging,kg,Metal,product/ferrous/alloy steel,0c2f6551-3651-356a-b057-31d031475
 packaging,kg,Metal,waste/ferrous/iron,74f18af5-6f62-3d9f-9648-5084d93d87af
 packaging,kg,Metal,waste/ferrous/carbon steel,3e5e75f2-c57d-3859-9f4f-86f3b0c4d96f
 packaging,kg,Metal,waste/ferrous/alloy steel,1d7a79b8-ec1b-3711-a6c4-da69038f5e88
+pallets,kg,Metal,product/ferrous/iron,5bf61fde-5edd-3c07-873c-fe0ae63fa739
+pallets,kg,Metal,product/ferrous/carbon steel,cf76ea08-72d2-3792-b206-b6d7865a7da7
+pallets,kg,Metal,product/ferrous/alloy steel,67c2a595-8b90-36c0-8400-f0c82735923e
+pallets,kg,Metal,waste/ferrous/iron,deb93dfa-032f-3182-8422-66764043a2b2
+pallets,kg,Metal,waste/ferrous/carbon steel,609e626c-2451-3ed2-8714-1ed8df61f488
+pallets,kg,Metal,waste/ferrous/alloy steel,c8aed9e7-53cd-3110-b671-a8011e8a188d
 pipes,kg,Metal,product/ferrous/iron,f4f16a7d-64c5-39d3-a5cb-fefbc65db246
 pipes,kg,Metal,product/ferrous/carbon steel,315ddee7-f700-3134-b44b-3e0224b387ee
 pipes,kg,Metal,product/ferrous/alloy steel,86ee534b-8d61-302e-bb9b-a2181825a816
@@ -531,38 +497,6 @@ roofing,kg,Other petroleum products,product/asphalt/other,0bf3b9f8-55bd-30c1-bfa
 roofing,kg,Other petroleum products,waste/asphalt/paving,bea26ded-d15a-3c3b-911e-e5573324ddde
 roofing,kg,Other petroleum products,waste/asphalt/roofing,4b07bb69-5b80-3f3b-9e76-435fe6909847
 roofing,kg,Other petroleum products,waste/asphalt/other,04ff5e5f-0e01-3593-89ab-de6c8c95a7fd
-brown waste,kg,Other plant matter,product/residential/stumps and roots,2ee9e5cc-ad74-3487-bfca-7aa1f29d46ae
-brown waste,kg,Other plant matter,product/residential/branches,8630557f-a569-33a0-96be-bf662615b181
-brown waste,kg,Other plant matter,product/residential/leaves,7f37bfa1-8556-3078-91bb-20973fb86536
-brown waste,kg,Other plant matter,product/residential/grass clippings,b6b6a0f8-d6aa-3d40-a6e3-2355944c945a
-brown waste,kg,Other plant matter,waste/residential/stumps and roots,835a05c3-f2ed-368f-8016-aa4e2f86f442
-brown waste,kg,Other plant matter,waste/residential/branches,71577190-047a-3200-bef6-9db531d79e1a
-brown waste,kg,Other plant matter,waste/residential/leaves,1049c143-90f8-3090-8c16-bcd63793db3a
-brown waste,kg,Other plant matter,waste/residential/grass clippings,4416e9e7-4fa6-35c5-9b34-f42fcfbd0562
-green waste,kg,Other plant matter,product/residential/stumps and roots,b15a5782-8944-3683-9227-90f12aecb519
-green waste,kg,Other plant matter,product/residential/branches,85e814d8-ef7d-3472-ae9e-c5fe0b6df81f
-green waste,kg,Other plant matter,product/residential/leaves,b5097cec-ca91-36ed-8384-ffb08195cce1
-green waste,kg,Other plant matter,product/residential/grass clippings,1f4970da-7b34-3537-bdec-d4008049f91a
-green waste,kg,Other plant matter,waste/residential/stumps and roots,d094144d-63e7-315c-b8f6-ba062840a474
-green waste,kg,Other plant matter,waste/residential/branches,870bb2b1-99a3-3ae4-a0e0-da4c295e4d29
-green waste,kg,Other plant matter,waste/residential/leaves,28945c67-48f1-3857-a741-9dbd5b59869f
-green waste,kg,Other plant matter,waste/residential/grass clippings,425a4d49-bc60-3459-aaff-8115eeee5d0f
-brown waste,kg,Other plant matter,product/commercial/stumps and roots,f870ccd5-af1b-3c70-a80a-8a8d7e74a85a
-brown waste,kg,Other plant matter,product/commercial/branches,97c44e2c-676c-378d-afda-269971103685
-brown waste,kg,Other plant matter,product/commercial/leaves,fef07f6e-acf2-3651-96f3-33c4a63fb181
-brown waste,kg,Other plant matter,product/commercial/grass clippings,afcd91af-a667-31e8-a9e9-017c8a689f71
-brown waste,kg,Other plant matter,waste/commercial/stumps and roots,31c48072-ac9b-33f8-bca8-72a0b7bfd7f9
-brown waste,kg,Other plant matter,waste/commercial/branches,e9d0c330-766d-3295-8c66-2d0ed40a2218
-brown waste,kg,Other plant matter,waste/commercial/leaves,fb1311d2-707e-366f-8802-bd4afec46060
-brown waste,kg,Other plant matter,waste/commercial/grass clippings,a058c1bb-7b34-3f9c-a063-f178dc8a4140
-green waste,kg,Other plant matter,product/commercial/stumps and roots,d95ec515-8241-30d9-b128-349076a73f73
-green waste,kg,Other plant matter,product/commercial/branches,8cf5df19-73cd-36c8-816b-c06f8fadbb67
-green waste,kg,Other plant matter,product/commercial/leaves,fea39f5a-e03d-382b-a222-fce99df6d1af
-green waste,kg,Other plant matter,product/commercial/grass clippings,ea9b10ec-74b9-3330-a77b-0b699a79e50f
-green waste,kg,Other plant matter,waste/commercial/stumps and roots,d1f416e0-f491-33c4-808c-11f69eac9489
-green waste,kg,Other plant matter,waste/commercial/branches,41f06142-1acf-31f1-b7d6-bbbf74c4cb5d
-green waste,kg,Other plant matter,waste/commercial/leaves,cbc99ef2-582c-3035-ae37-b9db1cdeb773
-green waste,kg,Other plant matter,waste/commercial/grass clippings,261ee2c9-e250-3fcd-9fcf-ca4dcc3af0ac
 aseptic cartons,kg,Paper,product/paperboard/coated,3e7e4e17-803a-3086-abf2-76dfc7454f15
 aseptic cartons,kg,Paper,product/paperboard/uncoated,5a70293f-55ec-3b33-bc80-47bf7522f965
 aseptic cartons,kg,Paper,product/paperboard/corrugated,41b55733-a0fe-32c5-9e0a-ae57fe141a38
@@ -587,6 +521,12 @@ packaging,kg,Paper,product/paperboard/corrugated,936ee728-e79c-3494-bee5-bc8c71f
 packaging,kg,Paper,waste/paperboard/coated,bd2d62cc-efe6-334f-8193-7a509786c33a
 packaging,kg,Paper,waste/paperboard/uncoated,03039d7f-4bb5-3d65-887a-f1458bf3f15f
 packaging,kg,Paper,waste/paperboard/corrugated,44bb1743-843f-32dc-85f6-64f6c5e892bd
+pallets,kg,Paper,product/paperboard/coated,23a2b68c-b856-342b-9987-f71973f097a1
+pallets,kg,Paper,product/paperboard/uncoated,1a8179ed-b54e-3338-87cb-2b5141013c55
+pallets,kg,Paper,product/paperboard/corrugated,15d423b2-2ac7-3cad-a1cb-5c50c62915a1
+pallets,kg,Paper,waste/paperboard/coated,65576142-9250-30bb-bc60-3f113b5c33ec
+pallets,kg,Paper,waste/paperboard/uncoated,e75acfb8-7f5e-3b0b-83f0-499eec9ad420
+pallets,kg,Paper,waste/paperboard/corrugated,1ba98a3a-e57a-3407-84c9-e1b043f69d1d
 bags,kg,Paper,product/paper/white,3aaa78a2-2cfd-3e80-9161-ac052911522d
 bags,kg,Paper,product/paper/mixed,f9d69296-603a-3ccc-b3c5-cf2fbf73d86c
 bags,kg,Paper,product/paper/glossy,43bb2f94-3570-3d58-ad18-e7fb5975b679
@@ -635,6 +575,94 @@ packaging,kg,Paper,waste/paper/white,867a926b-313e-38e7-aaf3-0790017ccf44
 packaging,kg,Paper,waste/paper/mixed,681e41cf-44dc-3bfd-aa1f-2231aced11b8
 packaging,kg,Paper,waste/paper/glossy,42e2cf8a-2c23-3e99-bf79-cf8db28a61a8
 packaging,kg,Paper,waste/paper/newsprint,ece4825a-18cf-39c6-9369-45d069a1e0f0
+animal feed,kg,Plants,product/grain/cereal,b004d178-1306-3390-a9a8-d93796df8aa5
+animal feed,kg,Plants,product/grain/oilseed,34a1ac5b-4bc7-33f7-91ab-550f168174b6
+animal feed,kg,Plants,product/grain/feed,029455b3-dc17-34a6-bbaa-45f18b6e89e1
+animal feed,kg,Plants,waste/grain/cereal,554c5829-4664-3bbc-9490-9f226521ba1c
+animal feed,kg,Plants,waste/grain/oilseed,9e25e8c7-4ab1-3d93-8fea-eacba1678654
+animal feed,kg,Plants,waste/grain/feed,af619f26-9010-3098-a59e-56640524be2f
+food,kg,Plants,product/grain/cereal,87453921-9afd-350f-a42e-73337d4e2f9c
+food,kg,Plants,product/grain/oilseed,87ea8282-16a2-3797-8441-1b02c4142ea1
+food,kg,Plants,product/grain/feed,a31309d5-0942-3809-99c4-b86a4abcd303
+food,kg,Plants,waste/grain/cereal,4f6b510f-3c90-3d00-90fa-f8c0cdc2fc24
+food,kg,Plants,waste/grain/oilseed,aa879bfa-addc-3cb0-9c46-3d9078e05b13
+food,kg,Plants,waste/grain/feed,98880085-fea5-373a-90d0-d873d46e9375
+pellets,kg,Plants,product/grain/cereal,ab43a9b6-0def-36db-b9be-996112b31800
+pellets,kg,Plants,product/grain/oilseed,e7d57171-50d9-332d-86dc-819f7009b2db
+pellets,kg,Plants,product/grain/feed,f2152987-8945-31b8-8da2-baff6d6d763e
+pellets,kg,Plants,waste/grain/cereal,3b44533a-8705-311c-b60f-aa69324d09da
+pellets,kg,Plants,waste/grain/oilseed,f5653dbb-3ec7-3c8f-a170-bd1940e851fc
+pellets,kg,Plants,waste/grain/feed,9328e704-34d9-3aa6-94b2-06158e477171
+vegetable oil,kg,Plants,product/grain/cereal,e239c091-9332-3028-9ae2-7feb221ad190
+vegetable oil,kg,Plants,product/grain/oilseed,cf94d47a-c1f6-3ac9-8fbf-f6926917c4ff
+vegetable oil,kg,Plants,product/grain/feed,f99aef72-41c6-3d5e-b41a-3fd6005203c1
+vegetable oil,kg,Plants,waste/grain/cereal,d09dfb16-71c2-3697-b14d-b2049d7651dc
+vegetable oil,kg,Plants,waste/grain/oilseed,0e2e3a83-116b-3b18-9e72-b3f14be767a9
+vegetable oil,kg,Plants,waste/grain/feed,7772e744-aab3-35bd-a650-6bb4a8ddd476
+briquettes,kg,Plants,product/biomass/annual,aaebe230-44ce-33a7-9823-681c83bcdfd8
+briquettes,kg,Plants,product/biomass/perennial,385753ca-08cf-3f36-943e-5ed87e66c573
+briquettes,kg,Plants,waste/biomass/annual,0633ca27-1088-3546-b5b0-190a25749019
+briquettes,kg,Plants,waste/biomass/perennial,b0848733-f411-3fce-9ee0-7fda9c0e54fa
+pellets,kg,Plants,product/biomass/annual,19b47a7d-56fd-30a6-ac4f-b3b662182c42
+pellets,kg,Plants,product/biomass/perennial,c39ad269-4d7f-31ea-8eb2-03e335fbddbf
+pellets,kg,Plants,waste/biomass/annual,01d82bbd-2266-3755-bb80-f42053f47253
+pellets,kg,Plants,waste/biomass/perennial,40ed0e0a-0c9e-3c59-a1cf-50a1456ef6fe
+brown waste,kg,Plants,product/residential/stumps and roots,2ee9e5cc-ad74-3487-bfca-7aa1f29d46ae
+brown waste,kg,Plants,product/residential/branches,8630557f-a569-33a0-96be-bf662615b181
+brown waste,kg,Plants,product/residential/leaves,7f37bfa1-8556-3078-91bb-20973fb86536
+brown waste,kg,Plants,product/residential/grass clippings,b6b6a0f8-d6aa-3d40-a6e3-2355944c945a
+brown waste,kg,Plants,waste/residential/stumps and roots,835a05c3-f2ed-368f-8016-aa4e2f86f442
+brown waste,kg,Plants,waste/residential/branches,71577190-047a-3200-bef6-9db531d79e1a
+brown waste,kg,Plants,waste/residential/leaves,1049c143-90f8-3090-8c16-bcd63793db3a
+brown waste,kg,Plants,waste/residential/grass clippings,4416e9e7-4fa6-35c5-9b34-f42fcfbd0562
+green waste,kg,Plants,product/residential/stumps and roots,b15a5782-8944-3683-9227-90f12aecb519
+green waste,kg,Plants,product/residential/branches,85e814d8-ef7d-3472-ae9e-c5fe0b6df81f
+green waste,kg,Plants,product/residential/leaves,b5097cec-ca91-36ed-8384-ffb08195cce1
+green waste,kg,Plants,product/residential/grass clippings,1f4970da-7b34-3537-bdec-d4008049f91a
+green waste,kg,Plants,waste/residential/stumps and roots,d094144d-63e7-315c-b8f6-ba062840a474
+green waste,kg,Plants,waste/residential/branches,870bb2b1-99a3-3ae4-a0e0-da4c295e4d29
+green waste,kg,Plants,waste/residential/leaves,28945c67-48f1-3857-a741-9dbd5b59869f
+green waste,kg,Plants,waste/residential/grass clippings,425a4d49-bc60-3459-aaff-8115eeee5d0f
+trimmings,kg,Plants,product/residential/stumps and roots,28ca19f4-fa20-3103-80c4-db819e311019
+trimmings,kg,Plants,product/residential/branches,2719251e-d1cc-3881-b1bf-6949096b012c
+trimmings,kg,Plants,product/residential/leaves,da54c4a5-4e4a-3761-92ea-2e524ea23047
+trimmings,kg,Plants,product/residential/grass clippings,72582353-8320-3dd6-b13e-1a1acaa66695
+trimmings,kg,Plants,waste/residential/stumps and roots,6d84785d-8bc1-3a12-8e46-6b4c039736fe
+trimmings,kg,Plants,waste/residential/branches,df93d62e-936f-3ac1-bd20-7256d9edd77c
+trimmings,kg,Plants,waste/residential/leaves,f0d5cd4f-b66a-3e0c-8e7b-c4f2ee107cad
+trimmings,kg,Plants,waste/residential/grass clippings,1c08b90a-c35c-33cc-aaf1-7a46a0cfc184
+brown waste,kg,Plants,product/commercial/stumps and roots,f870ccd5-af1b-3c70-a80a-8a8d7e74a85a
+brown waste,kg,Plants,product/commercial/branches,97c44e2c-676c-378d-afda-269971103685
+brown waste,kg,Plants,product/commercial/leaves,fef07f6e-acf2-3651-96f3-33c4a63fb181
+brown waste,kg,Plants,product/commercial/grass clippings,afcd91af-a667-31e8-a9e9-017c8a689f71
+brown waste,kg,Plants,waste/commercial/stumps and roots,31c48072-ac9b-33f8-bca8-72a0b7bfd7f9
+brown waste,kg,Plants,waste/commercial/branches,e9d0c330-766d-3295-8c66-2d0ed40a2218
+brown waste,kg,Plants,waste/commercial/leaves,fb1311d2-707e-366f-8802-bd4afec46060
+brown waste,kg,Plants,waste/commercial/grass clippings,a058c1bb-7b34-3f9c-a063-f178dc8a4140
+green waste,kg,Plants,product/commercial/stumps and roots,d95ec515-8241-30d9-b128-349076a73f73
+green waste,kg,Plants,product/commercial/branches,8cf5df19-73cd-36c8-816b-c06f8fadbb67
+green waste,kg,Plants,product/commercial/leaves,fea39f5a-e03d-382b-a222-fce99df6d1af
+green waste,kg,Plants,product/commercial/grass clippings,ea9b10ec-74b9-3330-a77b-0b699a79e50f
+green waste,kg,Plants,waste/commercial/stumps and roots,d1f416e0-f491-33c4-808c-11f69eac9489
+green waste,kg,Plants,waste/commercial/branches,41f06142-1acf-31f1-b7d6-bbbf74c4cb5d
+green waste,kg,Plants,waste/commercial/leaves,cbc99ef2-582c-3035-ae37-b9db1cdeb773
+green waste,kg,Plants,waste/commercial/grass clippings,261ee2c9-e250-3fcd-9fcf-ca4dcc3af0ac
+trimmings,kg,Plants,product/commercial/stumps and roots,34b5c44f-32ed-30cb-b9f1-cc8561f5914b
+trimmings,kg,Plants,product/commercial/branches,36ec4dab-6f02-3ccc-bc55-1977efaa7653
+trimmings,kg,Plants,product/commercial/leaves,d27ef393-fd06-35f8-8aab-e52df0b7d5cd
+trimmings,kg,Plants,product/commercial/grass clippings,0f8bc4f1-84e6-33b0-9008-970e79fa3d39
+trimmings,kg,Plants,waste/commercial/stumps and roots,8897a456-0440-3f45-8c8c-2031ece09890
+trimmings,kg,Plants,waste/commercial/branches,105cac22-8458-3769-a3c9-4e2801c04d12
+trimmings,kg,Plants,waste/commercial/leaves,0e7aea39-7394-3c14-a76b-15ee674354ce
+trimmings,kg,Plants,waste/commercial/grass clippings,79f8f5b3-4d51-346c-be59-64e1866b7494
+food,kg,Plants,product/crop/vegetable,7a4499fe-2ac5-3e94-8b56-5dcbd96609fd
+food,kg,Plants,product/crop/fruit,bf4a23a3-38e2-3cc9-9810-0b76f659cc9f
+food,kg,Plants,waste/crop/vegetable,d7fba9f2-c4f5-3a12-aca9-07050033de48
+food,kg,Plants,waste/crop/fruit,0be5fcc0-fa3a-3c27-b38a-b18d433d4d10
+trimmings,kg,Plants,product/crop/vegetable,dab61484-5075-3906-a0ed-5f20255234d6
+trimmings,kg,Plants,product/crop/fruit,061ec365-b5e0-3eee-99d5-b331989ed6c4
+trimmings,kg,Plants,waste/crop/vegetable,d4a471b8-5772-38fe-bf88-281153bed8dd
+trimmings,kg,Plants,waste/crop/fruit,47ce714d-a84d-3c02-9f23-8cf9fafe1de8
 adhesives,kg,Plastic,product/thermoset/rubber,deb95495-a247-3303-8611-0b55db17b51b
 adhesives,kg,Plastic,product/thermoset/polyesters,44302326-d65f-35e0-9a27-0c03cfdf0077
 adhesives,kg,Plastic,product/thermoset/urethanes,fe356668-be2a-34ae-b18a-b4a27727a5d5
@@ -715,6 +743,16 @@ nondurable goods,kg,Plastic,waste/thermoset/polyesters,66a3efc3-ccca-345e-9520-3
 nondurable goods,kg,Plastic,waste/thermoset/urethanes,bbdcede8-86b9-37d9-b0e2-a071c879314d
 nondurable goods,kg,Plastic,waste/thermoset/epoxies,f9300c3c-5a1d-3411-afc1-bb05e8bce335
 nondurable goods,kg,Plastic,waste/thermoset/other resins,e3a30d73-a91a-3901-bcd9-f86728c6be76
+pallets,kg,Plastic,product/thermoset/rubber,9d067ff7-c277-3888-a626-95c84696e5c7
+pallets,kg,Plastic,product/thermoset/polyesters,b1865166-9268-33ab-ba37-2062499a42eb
+pallets,kg,Plastic,product/thermoset/urethanes,c0bb241c-f0c5-3114-a424-515c7849d1fa
+pallets,kg,Plastic,product/thermoset/epoxies,9b3cb1ed-72b2-3370-b748-0e673afda4fe
+pallets,kg,Plastic,product/thermoset/other resins,80aff2c4-80ba-3c1e-baad-34db47521254
+pallets,kg,Plastic,waste/thermoset/rubber,8879195b-5931-3b9a-81db-eb2a3948f335
+pallets,kg,Plastic,waste/thermoset/polyesters,9577e21a-76d4-312e-808d-37d9c3dcad2f
+pallets,kg,Plastic,waste/thermoset/urethanes,e4ab7b29-0f09-3470-8521-7cb02a17216d
+pallets,kg,Plastic,waste/thermoset/epoxies,ea684033-426c-3e79-8ab5-60c48a99c090
+pallets,kg,Plastic,waste/thermoset/other resins,94deeafe-25e4-35d2-a66c-acedac969ee2
 pipes,kg,Plastic,product/thermoset/rubber,59a65aa4-f6b5-39ed-925d-70e2b5305d5a
 pipes,kg,Plastic,product/thermoset/polyesters,f206eb57-b97e-3724-a71e-a1f666eef49e
 pipes,kg,Plastic,product/thermoset/urethanes,4718dcbb-6185-32d7-916b-c4bf6dbe4ad9
@@ -953,6 +991,22 @@ packaging,kg,Plastic,waste/thermoplastic/PE,dd227664-f09b-3266-bfd5-b17b88ab1e87
 packaging,kg,Plastic,waste/thermoplastic/PS,455e5198-c95f-37df-932b-60287466f127
 packaging,kg,Plastic,waste/thermoplastic/PP,afa26f23-366b-3082-9a7b-d57be72da9b6
 packaging,kg,Plastic,waste/thermoplastic/PVC,37d8f892-4a5b-3576-8a82-20b7666f3e70
+pallets,kg,Plastic,product/thermoplastic/acrylics,7309e5a1-e75d-3071-8a2a-3eb2e0e6c7af
+pallets,kg,Plastic,product/thermoplastic/ABS,b0341d3a-7624-3afc-8a79-531272e142ac
+pallets,kg,Plastic,product/thermoplastic/nylons,f77daa8c-21aa-37cd-a44f-ffb12994cef7
+pallets,kg,Plastic,product/thermoplastic/polycarbonate,41ba527b-2bb8-30a2-880f-865d91f320d3
+pallets,kg,Plastic,product/thermoplastic/PE,2c81b9e2-6c72-30ce-b6af-d7bee211feda
+pallets,kg,Plastic,product/thermoplastic/PS,2d11bb50-9714-3ec5-af02-8da91d7e8756
+pallets,kg,Plastic,product/thermoplastic/PP,e205542a-2cc9-3842-9541-b69797ccfd06
+pallets,kg,Plastic,product/thermoplastic/PVC,82884e67-0cc4-353b-8d58-7a9c9d2de719
+pallets,kg,Plastic,waste/thermoplastic/acrylics,008382a6-8b82-3880-aeef-a588a2c1048e
+pallets,kg,Plastic,waste/thermoplastic/ABS,ad421ca3-96bb-3e5c-b312-1fc225d9f008
+pallets,kg,Plastic,waste/thermoplastic/nylons,6706a0e9-3bc3-3014-a003-9bc0f5b442c5
+pallets,kg,Plastic,waste/thermoplastic/polycarbonate,edbd7fe3-6ce7-3634-b764-d5d951c7baf4
+pallets,kg,Plastic,waste/thermoplastic/PE,6ed1aeb7-8082-338c-b937-206d71967f2c
+pallets,kg,Plastic,waste/thermoplastic/PS,6baf46ff-58ed-3055-ae47-78257077d296
+pallets,kg,Plastic,waste/thermoplastic/PP,c59067ee-9315-3449-96a2-305b9ab11ff8
+pallets,kg,Plastic,waste/thermoplastic/PVC,ee6acc8a-0035-3763-8669-7fc8b1173a76
 pipes,kg,Plastic,product/thermoplastic/acrylics,d11f1a9e-7def-30a1-8e23-7a4ba95e441c
 pipes,kg,Plastic,product/thermoplastic/ABS,a0738134-263a-3c9c-93b6-31a6996d49e3
 pipes,kg,Plastic,product/thermoplastic/nylons,d68f581c-69c7-3a28-99ec-106983c62e02
@@ -1169,20 +1223,6 @@ aggregate,kg,Aggregate,waste/concrete/precast,81bbfe07-f97c-3393-8c89-8f14135224
 aggregate,kg,Aggregate,waste/concrete/ready-mix,eb42da63-6c8c-3871-80fc-76bf43429e65
 aggregate,kg,Aggregate,waste/sand/fine,002de627-590f-3671-975c-18281a11de75
 aggregate,kg,Aggregate,waste/sand/course,b93c6e8a-8bf2-3de4-90bc-45d6551d8a46
-crops,kg,Crops,material/biomass/annual,f7103a8e-765c-3436-8a6a-9e6191fb48eb
-crops,kg,Crops,material/biomass/perennial,31a5730f-7f0c-301d-b20b-1b9573d6315b
-crops,kg,Crops,material/grain/cereal,8703d548-d671-3f56-9f26-8af86731cea0
-crops,kg,Crops,material/grain/oilseed,8ea391bf-1ad5-3078-80ea-3cd2860137a0
-crops,kg,Crops,material/grain/feed,3e04e0d4-007b-3cd8-973f-b6f26408f21b
-crops,kg,Crops,material/crop/vegetable,ecd64e0c-9100-3aa7-bcab-e9796a7e2250
-crops,kg,Crops,material/crop/fruit,e2cf1ef7-ac4e-3eec-a97c-3234574bc1db
-crops,kg,Crops,waste/biomass/annual,1e1ddecf-effd-3b6a-be53-e49174278efb
-crops,kg,Crops,waste/biomass/perennial,c72713cd-c064-39eb-8acf-562e253e9541
-crops,kg,Crops,waste/grain/cereal,d0d3f471-0ff6-359d-bb88-0c49000b6e34
-crops,kg,Crops,waste/grain/oilseed,a78e2e7e-2b33-3f53-b9ca-e2ce09129809
-crops,kg,Crops,waste/grain/feed,89a0ccd2-912a-3535-b64f-944c1df91b5f
-crops,kg,Crops,waste/crop/vegetable,f1f296be-d661-313b-9133-f88cd94c15a4
-crops,kg,Crops,waste/crop/fruit,08534eca-a3a5-3f99-a7e1-da62077eb581
 glass,kg,Glass,material/glass/clear,3044b060-fe32-3103-a9dd-f3e72b8b2b30
 glass,kg,Glass,material/glass/green,45e4ab5f-d803-37b9-a52d-7b476ec653a1
 glass,kg,Glass,material/glass/brown,fbd915c2-51e5-309f-bfc2-3bd4276d63e9
@@ -1273,22 +1313,6 @@ other petroleum products,kg,Other petroleum products,waste/paint/oil-based,b375d
 other petroleum products,kg,Other petroleum products,waste/oil/automotive,d93d0ff7-beba-39bc-853c-7e29b4471595
 other petroleum products,kg,Other petroleum products,waste/oil/hydraulic,70bb83f7-7507-3bcd-99b9-03bd08bfe167
 other petroleum products,kg,Other petroleum products,waste/grease/automotive,ee15478a-924f-3cae-bdf9-6b9a58e456c1
-other plant matter,kg,Other plant matter,material/residential/stumps and roots,a2510d34-7002-3a2b-b69a-586ffa02698c
-other plant matter,kg,Other plant matter,material/residential/branches,ecadf8b5-f42d-3707-a060-f35f5f8131fe
-other plant matter,kg,Other plant matter,material/residential/leaves,0694594d-26ba-3547-9dc9-5687cda27693
-other plant matter,kg,Other plant matter,material/residential/grass clippings,063decac-62b0-375c-9d09-3782ca6db0d6
-other plant matter,kg,Other plant matter,material/commercial/stumps and roots,14118e64-7fd2-3c62-a63b-64f7ceb8e8d7
-other plant matter,kg,Other plant matter,material/commercial/branches,bbc578c0-8d48-3a65-a5fc-1a6e500aff6a
-other plant matter,kg,Other plant matter,material/commercial/leaves,2c22a8d1-2c7b-334c-9c74-e49b521186c9
-other plant matter,kg,Other plant matter,material/commercial/grass clippings,44136f9a-f08a-39d7-9d39-c76fb448e6d8
-other plant matter,kg,Other plant matter,waste/residential/stumps and roots,200caa65-fa3c-3154-bc17-8b3872aed59a
-other plant matter,kg,Other plant matter,waste/residential/branches,fd68a6d4-3b2c-3a26-9d35-113130e12bfc
-other plant matter,kg,Other plant matter,waste/residential/leaves,f0ff2945-3d92-3185-9b52-f84001a58fb3
-other plant matter,kg,Other plant matter,waste/residential/grass clippings,908c044f-1690-3328-86a2-409d381a6fa4
-other plant matter,kg,Other plant matter,waste/commercial/stumps and roots,d22b8ff3-5593-3739-a073-499f8eb902e7
-other plant matter,kg,Other plant matter,waste/commercial/branches,fb2aa2e8-8b8f-3e0b-b97e-e641c8c36b01
-other plant matter,kg,Other plant matter,waste/commercial/leaves,fe36dd7e-94e1-37bf-8197-a11efb3eb7f8
-other plant matter,kg,Other plant matter,waste/commercial/grass clippings,42a3ed86-5f66-38ae-9466-81c3c0398317
 paper,kg,Paper,material/paper/white,0a7e1dba-a919-35ae-abcb-c727170287b4
 paper,kg,Paper,material/paper/mixed,4a223e09-3099-31b6-8585-aa7f9f437454
 paper,kg,Paper,material/paper/glossy,e64136f9-2d8e-38b3-8cf0-506bac7946a9
@@ -1303,6 +1327,36 @@ paper,kg,Paper,waste/paper/newsprint,8a8999bb-a2c9-376c-8542-9e3d2be376de
 paper,kg,Paper,waste/paperboard/coated,bdeb8dc9-0937-3d38-95f9-75ea8509032b
 paper,kg,Paper,waste/paperboard/uncoated,ac6ef6c6-f3d4-32df-ba42-5b0bd15ddf52
 paper,kg,Paper,waste/paperboard/corrugated,4ba16838-52c3-3033-a957-c89319b5094b
+plants,kg,Plants,material/residential/stumps and roots,459e6b5f-8b41-3234-be47-3f3c83f0ab2d
+plants,kg,Plants,material/residential/branches,651730d1-5626-3ee8-868d-6fd93b91362a
+plants,kg,Plants,material/residential/leaves,4680c56c-f652-327a-b070-25ff822bce3a
+plants,kg,Plants,material/residential/grass clippings,ee4e2225-37bd-3dfa-a286-1eb9ed77e27b
+plants,kg,Plants,material/commercial/stumps and roots,0ec1da35-45c1-37f3-9aad-d6f1669058d6
+plants,kg,Plants,material/commercial/branches,3ddc057b-de35-38fb-9bec-39462100360b
+plants,kg,Plants,material/commercial/leaves,ed908480-d1a9-36f8-bd1c-9079674e9c3a
+plants,kg,Plants,material/commercial/grass clippings,9995d859-d56c-350d-baff-cde9d4a3cc3b
+plants,kg,Plants,material/biomass/annual,e326a403-a66b-3cd5-8b3f-b1dc2119f2ad
+plants,kg,Plants,material/biomass/perennial,2f4c926e-8816-3cbc-afba-a23aec4b3022
+plants,kg,Plants,material/grain/cereal,b6c7db5f-743d-3cb6-a030-aaa56a91eb45
+plants,kg,Plants,material/grain/oilseed,bdf662f3-2f78-3082-9e34-43b7eb759048
+plants,kg,Plants,material/grain/feed,1970ea82-f6ba-3467-a5c6-080f59004e0f
+plants,kg,Plants,material/crop/vegetable,c7db3986-ef40-3f84-8f3b-da41da7f69d9
+plants,kg,Plants,material/crop/fruit,dd52ccad-e6ce-3921-9567-ee93cebe50c4
+plants,kg,Plants,waste/residential/stumps and roots,70173c5e-706a-34c9-bbf1-11a59b7a6d99
+plants,kg,Plants,waste/residential/branches,ab244913-6480-3111-924d-cb01bb822fdc
+plants,kg,Plants,waste/residential/leaves,e6028e57-a2a1-3f1a-9f2b-0809a0c96bcc
+plants,kg,Plants,waste/residential/grass clippings,77bf24ec-9ca7-38da-9116-411419d72c14
+plants,kg,Plants,waste/commercial/stumps and roots,2916f62d-ee9b-3e80-ac08-a2cd2b52f8ba
+plants,kg,Plants,waste/commercial/branches,99c4cdd6-8e21-3e0a-a68c-36c1e8fd3c60
+plants,kg,Plants,waste/commercial/leaves,b8537267-016a-3447-a4ff-0530f7a942ce
+plants,kg,Plants,waste/commercial/grass clippings,324c81b9-225b-38d0-ac56-83ce21dbdaa3
+plants,kg,Plants,waste/biomass/annual,47bea2c9-9793-3a2c-98e6-eb4c61296bcf
+plants,kg,Plants,waste/biomass/perennial,1d5099c7-25ac-31be-a2c6-8a2f8d632edf
+plants,kg,Plants,waste/grain/cereal,63a433c6-b33a-37c3-b44b-ccb1a076c8bf
+plants,kg,Plants,waste/grain/oilseed,4efaddf4-cda3-3ef0-b285-2caabd4bd62f
+plants,kg,Plants,waste/grain/feed,e2cfa270-1fb3-310c-b41b-330f4bb03902
+plants,kg,Plants,waste/crop/vegetable,4d817ef7-13f5-3e0a-9f76-517fa0ee7d2e
+plants,kg,Plants,waste/crop/fruit,2e8bfb3e-aea3-3d29-bf25-bbb3c9c6c87a
 plastic,kg,Plastic,material/thermoset/rubber,95628733-a02b-3c0e-a8bc-1e7f780cb4ae
 plastic,kg,Plastic,material/thermoset/polyesters,2a88eb74-b220-32cf-ad0c-433a787e844a
 plastic,kg,Plastic,material/thermoset/urethanes,7e7dd4dd-72c8-3a48-b789-f26b72a55331
@@ -1365,22 +1419,6 @@ fill,kg,Aggregate,product/ash,36f4d353-2c04-3be8-ab05-c80857ab2b91
 fill,kg,Aggregate,waste/ash,67a3a623-79b2-3695-8cbd-a79de305b5a2
 fill,kg,Aggregate,product/gravel,42d61e8b-3704-3795-8d28-584fc8087c84
 fill,kg,Aggregate,waste/gravel,cdfada89-69bf-3036-aeaa-692e00a35de4
-animal feed,kg,Crops,product/grain,87d9e3c4-55d8-3635-84c3-da1f454b8c49
-animal feed,kg,Crops,waste/grain,81399a5d-f9b1-3430-8ef8-d372d938531c
-food,kg,Crops,product/grain,dea28dc3-7ab8-30ed-97b6-6d595f96f736
-food,kg,Crops,waste/grain,5c482bd9-2483-3f6a-9be7-df517bae2f91
-pellets,kg,Crops,product/grain,f4c42602-d172-3903-bd44-81cd93422a74
-pellets,kg,Crops,waste/grain,73be8d9b-0f76-3e69-88c9-dde77974141e
-vegetable oil,kg,Crops,product/grain,defe2e05-c305-3e8f-b37d-011025a7a453
-vegetable oil,kg,Crops,waste/grain,0fb67639-e5bd-37bc-8234-c5572ade4e83
-briquettes,kg,Crops,product/biomass,4b2afd80-61bf-35d0-8fa9-43ea1ee9dbbc
-briquettes,kg,Crops,waste/biomass,a5c56ead-85b7-3e68-974e-2e72c517af59
-pellets,kg,Crops,product/biomass,64fdff42-fdb3-3e7f-8bdf-3181ea75720b
-pellets,kg,Crops,waste/biomass,211d0fc8-a104-3fd5-9378-4c08a929462d
-food,kg,Crops,product/crop,e2ac33b6-bdfa-3699-92a5-d960057af145
-food,kg,Crops,waste/crop,8bcc2db0-f3c9-302e-a97c-8502be115387
-trimmings,kg,Crops,product/crop,49497a94-d21d-32fc-a7f6-c2128d1b744a
-trimmings,kg,Crops,waste/crop,698c2aca-1c56-3552-9238-b98515ade0c6
 bottles,kg,Glass,product/glass,3b0df7e9-6949-3005-b242-558e57041e47
 bottles,kg,Glass,waste/glass,e9ca6fe1-f562-336e-871e-48fd35a1ff28
 coatings,kg,Glass,product/glass,4a4f78b2-59d1-36ff-9a9f-d5b15dd2acba
@@ -1441,6 +1479,8 @@ furniture,kg,Metal,product/ferrous,50777e18-938f-32a1-93f2-7b157e0228b8
 furniture,kg,Metal,waste/ferrous,498b3d6d-4a76-38c0-b9a6-3e28b1d47f85
 packaging,kg,Metal,product/ferrous,1642bdf6-49be-365e-9ea0-7397d422a139
 packaging,kg,Metal,waste/ferrous,c2bfaa0a-de9f-3143-8cfd-224dcdfc698e
+pallets,kg,Metal,product/ferrous,24eb5f91-473b-3c4e-ad73-c5f03ed1821d
+pallets,kg,Metal,waste/ferrous,e58d61fa-b9fb-3763-8521-c546f2a2d873
 pipes,kg,Metal,product/ferrous,e3b145eb-b2eb-3c7b-82d0-834520fdbce8
 pipes,kg,Metal,waste/ferrous,5a700abe-0c46-3b36-8a62-78046b34c626
 roofing,kg,Metal,product/ferrous,4248da08-3bd0-38ac-bfd7-c962c5e988eb
@@ -1557,14 +1597,6 @@ pavement,kg,Other petroleum products,product/asphalt,3205662d-26c1-38d2-83ff-b97
 pavement,kg,Other petroleum products,waste/asphalt,1519208b-3b4a-3568-b74b-fba02faf904f
 roofing,kg,Other petroleum products,product/asphalt,e18c63d4-a1c8-3ac0-a802-16002c6c8b56
 roofing,kg,Other petroleum products,waste/asphalt,9f6d0582-6553-3b66-8c8e-3eebc6aa244c
-brown waste,kg,Other plant matter,product/residential,dc3fdd37-a5dd-3309-81cb-7424e3f3317b
-brown waste,kg,Other plant matter,waste/residential,d0cf094c-93ab-3ffc-8f9b-068fbb80bfb3
-green waste,kg,Other plant matter,product/residential,b8e4ea9b-0041-3a80-b559-00cac2316e19
-green waste,kg,Other plant matter,waste/residential,db127aef-67bc-3c43-aa52-88e4dc194ed3
-brown waste,kg,Other plant matter,product/commercial,92bf2bc4-dbe7-354a-9b38-544a5bf1cb9a
-brown waste,kg,Other plant matter,waste/commercial,a010e207-0535-3a0d-be98-b0ec39cca106
-green waste,kg,Other plant matter,product/commercial,01d58426-d17a-3194-b3cb-ef2eb9746573
-green waste,kg,Other plant matter,waste/commercial,d4e442b0-a94c-31e0-aac4-34dcb69f21ff
 aseptic cartons,kg,Paper,product/paperboard,08ce20d8-77a6-3c4d-b036-aace6f96346d
 aseptic cartons,kg,Paper,waste/paperboard,e8c2b557-295a-3fe2-98b2-8d04bf8f6946
 containers,kg,Paper,product/paperboard,0e92db71-3a64-3646-943d-f46b661f1ad9
@@ -1573,6 +1605,8 @@ nondurable goods,kg,Paper,product/paperboard,0b9f6f19-b496-33c2-b955-9ff604a0e78
 nondurable goods,kg,Paper,waste/paperboard,3c5ed15b-7be6-36b5-ba49-996c7491014d
 packaging,kg,Paper,product/paperboard,ce536f74-7a20-3d1f-a735-7e4b665757a3
 packaging,kg,Paper,waste/paperboard,916890df-a8f9-3c27-b10c-d27a6b31d8aa
+pallets,kg,Paper,product/paperboard,3072a09e-786a-38a1-8a21-4c7779b2d363
+pallets,kg,Paper,waste/paperboard,7ca18758-a66b-3ca2-8989-545b4f6ecdcd
 bags,kg,Paper,product/paper,d4a708dc-2a50-347a-b63c-2659ca1a0741
 bags,kg,Paper,waste/paper,6ba0a63a-850e-3585-aa24-6a642cb5f561
 books,kg,Paper,product/paper,d4aae1a2-f935-36d7-9320-8011c1c0538c
@@ -1585,6 +1619,34 @@ nondurable goods,kg,Paper,product/paper,28b2ccdd-f08b-3b3c-9689-65c239d038f2
 nondurable goods,kg,Paper,waste/paper,d6f85f73-3ba3-3a7f-9ad6-2ec903cbbbdd
 packaging,kg,Paper,product/paper,ad9bfa8b-743a-3520-83d1-9cda4d29523c
 packaging,kg,Paper,waste/paper,95422e83-d3bc-3fd3-a362-7a16d26f9ab7
+animal feed,kg,Plants,product/grain,87d9e3c4-55d8-3635-84c3-da1f454b8c49
+animal feed,kg,Plants,waste/grain,81399a5d-f9b1-3430-8ef8-d372d938531c
+food,kg,Plants,product/grain,dea28dc3-7ab8-30ed-97b6-6d595f96f736
+food,kg,Plants,waste/grain,5c482bd9-2483-3f6a-9be7-df517bae2f91
+pellets,kg,Plants,product/grain,f4c42602-d172-3903-bd44-81cd93422a74
+pellets,kg,Plants,waste/grain,73be8d9b-0f76-3e69-88c9-dde77974141e
+vegetable oil,kg,Plants,product/grain,defe2e05-c305-3e8f-b37d-011025a7a453
+vegetable oil,kg,Plants,waste/grain,0fb67639-e5bd-37bc-8234-c5572ade4e83
+briquettes,kg,Plants,product/biomass,4b2afd80-61bf-35d0-8fa9-43ea1ee9dbbc
+briquettes,kg,Plants,waste/biomass,a5c56ead-85b7-3e68-974e-2e72c517af59
+pellets,kg,Plants,product/biomass,64fdff42-fdb3-3e7f-8bdf-3181ea75720b
+pellets,kg,Plants,waste/biomass,211d0fc8-a104-3fd5-9378-4c08a929462d
+brown waste,kg,Plants,product/residential,dc3fdd37-a5dd-3309-81cb-7424e3f3317b
+brown waste,kg,Plants,waste/residential,d0cf094c-93ab-3ffc-8f9b-068fbb80bfb3
+green waste,kg,Plants,product/residential,b8e4ea9b-0041-3a80-b559-00cac2316e19
+green waste,kg,Plants,waste/residential,db127aef-67bc-3c43-aa52-88e4dc194ed3
+trimmings,kg,Plants,product/residential,507d3f80-9f37-3213-846b-95312ac8e0e7
+trimmings,kg,Plants,waste/residential,d84d2b7d-c84f-39fa-b8dc-ad53d98cdd6b
+brown waste,kg,Plants,product/commercial,92bf2bc4-dbe7-354a-9b38-544a5bf1cb9a
+brown waste,kg,Plants,waste/commercial,a010e207-0535-3a0d-be98-b0ec39cca106
+green waste,kg,Plants,product/commercial,01d58426-d17a-3194-b3cb-ef2eb9746573
+green waste,kg,Plants,waste/commercial,d4e442b0-a94c-31e0-aac4-34dcb69f21ff
+trimmings,kg,Plants,product/commercial,ae697ddf-3267-367c-b622-2c06088ec4a0
+trimmings,kg,Plants,waste/commercial,33f279a8-03c8-3915-b0a6-6b3590b0eebb
+food,kg,Plants,product/crop,e2ac33b6-bdfa-3699-92a5-d960057af145
+food,kg,Plants,waste/crop,8bcc2db0-f3c9-302e-a97c-8502be115387
+trimmings,kg,Plants,product/crop,49497a94-d21d-32fc-a7f6-c2128d1b744a
+trimmings,kg,Plants,waste/crop,698c2aca-1c56-3552-9238-b98515ade0c6
 adhesives,kg,Plastic,product/thermoset,5704f3cc-5fa5-3f08-8aa0-ac23d492aec8
 adhesives,kg,Plastic,waste/thermoset,15d50f5e-49e4-3e03-8da6-19c53c26d23c
 coatings,kg,Plastic,product/thermoset,8ef2c7a7-563a-397a-8175-c916c591f737
@@ -1601,6 +1663,8 @@ medical goods,kg,Plastic,product/thermoset,8b195f93-72df-33a4-9f89-fcefbbc920bb
 medical goods,kg,Plastic,waste/thermoset,e7a48646-8ca0-3a26-bda0-be4055a3c378
 nondurable goods,kg,Plastic,product/thermoset,e8216847-71dc-396e-b187-693aa94a8eb9
 nondurable goods,kg,Plastic,waste/thermoset,a5b555db-8417-3f74-8468-7e3070578910
+pallets,kg,Plastic,product/thermoset,8aed91c6-54a9-3696-8286-405f3c0c6b1f
+pallets,kg,Plastic,waste/thermoset,23599d87-9b70-32bd-b6fb-743bdd477e2d
 pipes,kg,Plastic,product/thermoset,5f9cf6a2-c02d-32ab-b460-d7c99bc0c227
 pipes,kg,Plastic,waste/thermoset,af0c6b3b-a143-341d-bc68-889f18a5fa40
 tires,kg,Plastic,product/thermoset,3638c998-1385-362b-8b92-89a3aceed14d
@@ -1633,6 +1697,8 @@ nondurable goods,kg,Plastic,product/thermoplastic,85a28d02-a7c1-3cba-ac8b-f576b6
 nondurable goods,kg,Plastic,waste/thermoplastic,000964e0-91a2-39de-835c-8c95c698f01d
 packaging,kg,Plastic,product/thermoplastic,998fc28a-d851-3aa8-b941-600711d7172b
 packaging,kg,Plastic,waste/thermoplastic,93769272-63a5-3faf-854e-ae7e957d3f2d
+pallets,kg,Plastic,product/thermoplastic,2d6809a2-8226-3fbd-9117-9012ecf098fb
+pallets,kg,Plastic,waste/thermoplastic,2a0090da-b09d-3049-8875-a7586b080442
 pipes,kg,Plastic,product/thermoplastic,f5de79df-ef6a-3fff-ae3c-46e2d547da9d
 pipes,kg,Plastic,waste/thermoplastic,2738177b-fb31-382e-a27f-02f9075a0b21
 apparel,kg,Textile,product/fiber,4004b7eb-319f-3d8d-bbe3-59a2057665ad
@@ -1739,12 +1805,6 @@ aggregate,kg,Aggregate,waste/gravel,b99f2c17-bced-3bcb-82d7-6442614c79ad
 aggregate,kg,Aggregate,waste/soil,6c457205-4b64-321a-b73a-21eb8dcec4ae
 aggregate,kg,Aggregate,waste/concrete,b4b33778-d319-38d7-8a5b-6c02246d6596
 aggregate,kg,Aggregate,waste/sand,66559d51-d82f-3d46-b176-e5b6c0979f3c
-crops,kg,Crops,material/biomass,2728a315-6e01-3111-9f13-70b5966f3def
-crops,kg,Crops,material/grain,7b63bf67-740b-3626-a889-f6edee1a497c
-crops,kg,Crops,material/crop,22b230c5-2e0f-3f9d-977a-f57fb521c042
-crops,kg,Crops,waste/biomass,4061df3a-16d2-3190-8d12-d3330f4d10e8
-crops,kg,Crops,waste/grain,bc46b5bb-ac81-3a65-8031-277e4123adb1
-crops,kg,Crops,waste/crop,8e37d064-3808-389a-9329-1703b5c0f37c
 glass,kg,Glass,material/glass,1eeb66da-12c8-3994-841e-63cea3655e3c
 glass,kg,Glass,waste/glass,8aefb006-dd91-334b-8d18-673c8729a597
 leather,kg,Leather,material/leather,af423a0e-d260-34f1-942b-f63c73dadcc0
@@ -1783,14 +1843,20 @@ other petroleum products,kg,Other petroleum products,waste/solvents,c0780d37-a53
 other petroleum products,kg,Other petroleum products,waste/paint,affc81fc-f701-3f96-91ef-dcccf02140ed
 other petroleum products,kg,Other petroleum products,waste/oil,2146ecb1-186e-3b35-8c35-f47394d24b90
 other petroleum products,kg,Other petroleum products,waste/grease,72f5d557-3c06-3d65-82e7-08df094a642f
-other plant matter,kg,Other plant matter,material/residential,2e322a51-16c5-3a09-b6fc-a5e4ee32d0e8
-other plant matter,kg,Other plant matter,material/commercial,7a9d1b33-19e1-398a-9cd6-32d496805213
-other plant matter,kg,Other plant matter,waste/residential,ba3a93c5-2737-354b-bcd6-13c8dc9da1a4
-other plant matter,kg,Other plant matter,waste/commercial,b00cc88c-3d14-35c1-820a-1272f8f3a578
 paper,kg,Paper,material/paper,2bccddae-5eca-3757-b2e9-8c6dc267b357
 paper,kg,Paper,material/paperboard,fa958ef9-3efa-3676-9da9-3f2e0eaf8ca9
 paper,kg,Paper,waste/paper,c452a608-ae60-3f14-a8f1-e1ba68fcffb6
 paper,kg,Paper,waste/paperboard,864f67a7-35d2-3550-8df8-fe6a7aea70ba
+plants,kg,Plants,material/residential,99afead9-48a8-3ed8-9890-65808aaaac9c
+plants,kg,Plants,material/commercial,bb7af1f9-d4ef-3f4d-b37f-1e5a423d5959
+plants,kg,Plants,material/biomass,24286a93-9cf3-3dab-af93-41b51daa3eb6
+plants,kg,Plants,material/grain,fb632847-df4c-35d8-a097-a518df32a4fb
+plants,kg,Plants,material/crop,c60e32bc-ecaf-375a-a17c-22746a3400d1
+plants,kg,Plants,waste/residential,7e88861a-9383-34d8-bbb6-e2a29e7055e3
+plants,kg,Plants,waste/commercial,5d2abf9b-ac1c-3f12-8aae-0df2eb01e4d8
+plants,kg,Plants,waste/biomass,7d322b26-b459-3b1c-a95a-303eb2dd55f5
+plants,kg,Plants,waste/grain,af935ae9-821d-32f7-b0fa-0163fea5b06d
+plants,kg,Plants,waste/crop,0aebdb8d-32d1-3614-bb9f-e221001f1dd8
 plastic,kg,Plastic,material/thermoset,422a06ee-8af0-3db7-a656-b1c8b87f6aa2
 plastic,kg,Plastic,material/thermoplastic,e7e4796c-ba70-3907-b098-375d07c64ba5
 plastic,kg,Plastic,waste/thermoset,5d3cf9ff-4b4d-3567-8ce7-24b631956047

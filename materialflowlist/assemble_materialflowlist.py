@@ -9,7 +9,7 @@ from materialflowlist.contexts import contexts
 from fedelemflowlist.uuid_generators import make_uuid
 
 def read_in_flowclass_file(flowclass):
-    flowclassfile = pd.read_csv(inputpath + flowclass + 'FlowableCategory.csv', header=0, dtype=None)
+    flowclassfile = pd.read_csv(inputpath + flowclass + '.csv', header=0, dtype=None)
     flowclassfile = flowclassfile.dropna(axis=0, how='all')
     return flowclassfile
 
@@ -29,40 +29,43 @@ if __name__ == '__main__':
         # Add Flow Class to columns
         flowables_for_class['Class'] = t
         flowables = pd.concat([flowables, flowables_for_class], ignore_index=True, sort=False)
-        class_category = read_in_flowclass_file(t)
+        class_secondarycontext = read_in_flowclass_file(t)
         flowables_for_class = flowables_for_class.drop_duplicates()
-        log.info('Import ' + str(len(class_category)) + ' flowable contexts for class ' + t)
-        class_category = class_category.dropna(axis=0, how='all')
+        log.info('Import ' + str(len(class_secondarycontext)) + ' flowable contexts for class ' + t)
+        class_secondarycontext = class_secondarycontext.dropna(axis=0, how='all')
 
         # merge in flowables and flowable primary contexts
-        class_flowables_w_category = pd.merge(flowables_for_class, class_category, on=['Flowable'], how='left')
-        log.info('Create ' + str(len(class_flowables_w_category)) +
+        class_flowables_w_secondarycontext = pd.merge(flowables_for_class, class_secondarycontext, on=['Flowable'], how='left')
+        log.info('Create ' + str(len(class_flowables_w_secondarycontext)) +
                  ' flows with primary context for class ' + t)
-        flows = pd.concat([flows, class_flowables_w_category])
+        flows = pd.concat([flows, class_flowables_w_secondarycontext])
 
-    #create waste flows matching all product flows
+    #create all product flows and matching waste flows
     product_waste_contexts = contexts[contexts.PrimaryContext != "material"]
-    flows = flows.merge(product_waste_contexts, on=['Class', 'Category'], how='inner')
+    flows = flows.merge(product_waste_contexts, on=['Class', 'SecondaryContext'], how='inner')
 
     #adding flowables based on class name for unspecified material flows and matching waste flows
     material_waste_contexts = contexts.copy(deep=True)
     material_waste_contexts = material_waste_contexts[material_waste_contexts.PrimaryContext != "product"]
-    classflows_list = flow_list_specs['flow_classes']
-    classflows = pd.DataFrame({'Class':classflows_list})
+    class_list = flow_list_specs['flow_classes']
+    classflows = pd.DataFrame({'Class':class_list})
     classflows['Flowable'] = classflows['Class'].str.lower()
     materialflows = pd.merge(classflows,material_waste_contexts,on='Class')
     materialflows['Unit'] = "kg"
 
     flows = flows.append(materialflows, ignore_index=False)
 
-    #generating context cutoff at category and full contexts
+    #generating context cutoff at category and full contexts (creates duplicates to be dropped)
     flowscategorycutoff = flows.copy(deep=True)
-    flowscategorycutoff['Context'] = flowscategorycutoff['PrimaryContext'] + "/" + flowscategorycutoff['Category']
-    flowscategorycutoff = flowscategorycutoff.drop(columns=['PrimaryContext', 'Category', 'Type'])
-    flows['Context'] = flows['PrimaryContext'] + "/" + flows['Category'] + "/" + flows['Type']
-    flows = flows.drop(columns=['PrimaryContext', 'Category', 'Type'])
+    flowscategorycutoff['Context'] = flowscategorycutoff['PrimaryContext'] + "/" + flowscategorycutoff['SecondaryContext']
+    flowscategorycutoff = flowscategorycutoff.drop(columns=['PrimaryContext', 'SecondaryContext', 'ContextDetail'])
 
+    #Create combined context and drop individual context level columns
+    flows['Context'] = flows['PrimaryContext'] + "/" + flows['SecondaryContext'] + "/" + flows['ContextDetail']
+    flows = flows.drop(columns=['PrimaryContext', 'SecondaryContext', 'ContextDetail'])
     flows = flows.append(flowscategorycutoff, ignore_index=False)
+    flows = flows.drop_duplicates()
+
     log.info('Total of ' + str(len(flows)) + ' flows with contexts created.')
 
     # Loop through flows generating UUID for each

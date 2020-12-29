@@ -15,8 +15,8 @@ max_compartment_classes = len(contexts.columns)
 
 # Define compartment_classes
 compartment_classes = flow_list_specs['flow_classes'] + \
-                      flow_list_specs['category_context_classes'] + \
-                      flow_list_specs['type_context_classes']
+                      flow_list_specs['secondary_context_classes'] + \
+                      flow_list_specs['detail_context_classes']
 
 # Create dictionary of context levels
 context_levels = {}
@@ -27,6 +27,8 @@ for c in compartment_classes:
 
 # Drop duplicates just as a check
 contexts = contexts.drop_duplicates()
+
+#Merge contexts into single database
 primarycontexts = pd.DataFrame(data=flow_list_specs['primary_context_classes'],columns=['PrimaryContext'])
 primarycontexts['target'] = 1
 contexts['target'] = 1
