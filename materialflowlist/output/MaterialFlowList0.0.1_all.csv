@@ -357,57 +357,57 @@ wire,kg,Metal,product/precious/gold,8118017c-0e9c-38c2-8576-3fac8f19d43e
 wire,kg,Metal,product/precious/silver,1cc7f207-4738-381f-bfbd-cf68f428df43
 wire,kg,Metal,waste/precious/gold,6fc1b5c9-c3a4-3985-a539-60bf3a9b5af1
 wire,kg,Metal,waste/precious/silver,4ec7c230-9257-33e0-8113-6801a7325e71
-bricks,kg,Minerals,product/ceramics/terracotta/earthenware,a9f436b7-bec7-3877-b585-4896376f3e29
+bricks,kg,Minerals,product/ceramics/terracotta-earthenware,7357f1c6-972a-3913-b3a1-993eba5fb46b
 bricks,kg,Minerals,product/ceramics/porcelain,faaf6bbf-b031-3953-b951-e1005091d202
-bricks,kg,Minerals,waste/ceramics/terracotta/earthenware,cef476b4-e51d-3be1-bf79-bfcd291276da
+bricks,kg,Minerals,waste/ceramics/terracotta-earthenware,6ebff941-0818-3e09-bdc8-899a85fb1f10
 bricks,kg,Minerals,waste/ceramics/porcelain,9ef9a222-ecbe-3aeb-9179-3413e4c7813c
-coatings,kg,Minerals,product/ceramics/terracotta/earthenware,4d39282f-31b8-390c-82a2-3f532cc6d47f
+coatings,kg,Minerals,product/ceramics/terracotta-earthenware,35765e16-ad86-3c5c-9268-6abd85da52ff
 coatings,kg,Minerals,product/ceramics/porcelain,0d8624db-a9d0-3cde-a30d-7464989a8231
-coatings,kg,Minerals,waste/ceramics/terracotta/earthenware,850e69f7-6bd2-313b-b2e1-4051f9b5319e
+coatings,kg,Minerals,waste/ceramics/terracotta-earthenware,e88fbf36-24b2-31a0-b050-2b072c009d0a
 coatings,kg,Minerals,waste/ceramics/porcelain,db8dde86-0c5e-3728-a83f-4efcc4d61f83
-containers,kg,Minerals,product/ceramics/terracotta/earthenware,18c5bb47-46f4-3ed8-8dad-aa60f5084654
+containers,kg,Minerals,product/ceramics/terracotta-earthenware,833c555d-4876-3e77-b4be-0c506b39bf7b
 containers,kg,Minerals,product/ceramics/porcelain,3d1fbfcb-48b3-36f1-8b9b-f3197e6b40ff
-containers,kg,Minerals,waste/ceramics/terracotta/earthenware,e35cd1fc-c50a-3e10-9a12-cbfe18078526
+containers,kg,Minerals,waste/ceramics/terracotta-earthenware,5dbd9b37-3f81-3a5d-a714-7ab44ded51d0
 containers,kg,Minerals,waste/ceramics/porcelain,c8a7fdbe-5cc6-3ab9-afe8-b74dd3e0031b
-dinnerware,kg,Minerals,product/ceramics/terracotta/earthenware,7a1a739c-0484-3583-ba98-74bf182bc9d5
+dinnerware,kg,Minerals,product/ceramics/terracotta-earthenware,428d5374-b2d4-3a79-9088-2b82d5ef2be7
 dinnerware,kg,Minerals,product/ceramics/porcelain,540dfd7e-096d-3b5d-89dd-0d70c6561478
-dinnerware,kg,Minerals,waste/ceramics/terracotta/earthenware,f5e36ff1-fc7b-3cf5-b6ac-314a26f8c200
+dinnerware,kg,Minerals,waste/ceramics/terracotta-earthenware,705d351d-98b7-35b3-90ea-c068daf25e44
 dinnerware,kg,Minerals,waste/ceramics/porcelain,ba1fe83f-b9b0-31ce-b1c2-72b024fcba76
-durable goods,kg,Minerals,product/ceramics/terracotta/earthenware,b3015d5b-daf9-345b-8f29-8f07c7a234d9
+durable goods,kg,Minerals,product/ceramics/terracotta-earthenware,bc3e4187-9443-3f5d-a8b5-aa8c1a5583ff
 durable goods,kg,Minerals,product/ceramics/porcelain,15b8a649-dfa5-383b-8ebc-311530b346b9
-durable goods,kg,Minerals,waste/ceramics/terracotta/earthenware,63066ec9-f9bb-325d-b782-bc3ebac1578d
+durable goods,kg,Minerals,waste/ceramics/terracotta-earthenware,9dfeaf1a-d8e6-33e1-abf1-3e2f565a8120
 durable goods,kg,Minerals,waste/ceramics/porcelain,b4e88fc3-e575-34cc-869e-2b97b4af1cfa
-flooring,kg,Minerals,product/ceramics/terracotta/earthenware,b80353db-ace2-36da-b964-98be231077e4
+flooring,kg,Minerals,product/ceramics/terracotta-earthenware,939180ac-9c9f-3d25-b124-28d385840608
 flooring,kg,Minerals,product/ceramics/porcelain,4ff07622-935b-30c6-affb-ddabdfcadd06
-flooring,kg,Minerals,waste/ceramics/terracotta/earthenware,e0d3f3a9-17b3-3221-b043-d4244300dcf7
+flooring,kg,Minerals,waste/ceramics/terracotta-earthenware,c7c9ef95-4936-3eb1-b8ac-0cee37c66b0c
 flooring,kg,Minerals,waste/ceramics/porcelain,d0c830db-13c3-3342-9bf0-62265ac3d113
-insulators,kg,Minerals,product/ceramics/terracotta/earthenware,4e8a2b36-5b27-3c7f-8cda-15bcf15a05e5
+insulators,kg,Minerals,product/ceramics/terracotta-earthenware,0930c481-c42a-39bb-9c2c-8608f91dcb96
 insulators,kg,Minerals,product/ceramics/porcelain,e4852462-34f4-3a2f-b72a-67d70fbd0397
-insulators,kg,Minerals,waste/ceramics/terracotta/earthenware,1b57cd18-960c-3c73-bae1-9990dafd8cea
+insulators,kg,Minerals,waste/ceramics/terracotta-earthenware,bdf2bc76-c08e-37ad-a705-65c9de272e07
 insulators,kg,Minerals,waste/ceramics/porcelain,0a415602-abfe-3072-84e8-3ceedcac8d74
-nondurable goods,kg,Minerals,product/ceramics/terracotta/earthenware,8d3c614f-0ba4-3253-8bc8-a5c987e6455d
+nondurable goods,kg,Minerals,product/ceramics/terracotta-earthenware,4aade285-e6fd-3853-88d6-df317b960143
 nondurable goods,kg,Minerals,product/ceramics/porcelain,decf4a06-445c-3ef8-82dd-16fea469dec7
-nondurable goods,kg,Minerals,waste/ceramics/terracotta/earthenware,7135755c-a57a-31df-a675-a0ad818b8ff6
+nondurable goods,kg,Minerals,waste/ceramics/terracotta-earthenware,1110f6ce-5090-3691-a7f5-6c4871a59233
 nondurable goods,kg,Minerals,waste/ceramics/porcelain,0025285a-348f-3ff3-b9ee-e11024b63a64
-pavement,kg,Minerals,product/ceramics/terracotta/earthenware,12126373-6d8f-32e7-b481-470a902bbcef
+pavement,kg,Minerals,product/ceramics/terracotta-earthenware,2e4f39f5-ef15-3ddb-a3d9-7d2bb6140586
 pavement,kg,Minerals,product/ceramics/porcelain,66c5f9cf-58da-3d93-a53e-a852560c1ca8
-pavement,kg,Minerals,waste/ceramics/terracotta/earthenware,0cd743ab-abc3-340f-aaf9-f68ab1aa1592
+pavement,kg,Minerals,waste/ceramics/terracotta-earthenware,c02dd080-c1cd-30c6-9ad3-d2bf4d49be53
 pavement,kg,Minerals,waste/ceramics/porcelain,9d6692ff-b33e-3262-af6b-24bf6854ff60
-pipes,kg,Minerals,product/ceramics/terracotta/earthenware,e07a479c-4e5f-3b6d-84ea-8411fd9058ac
+pipes,kg,Minerals,product/ceramics/terracotta-earthenware,675d5ccf-1d9b-34fe-a8be-cb35c3bb496d
 pipes,kg,Minerals,product/ceramics/porcelain,f1bf7642-df19-3b91-a3b2-5ccce89059db
-pipes,kg,Minerals,waste/ceramics/terracotta/earthenware,916a9832-1cc4-39fd-a42f-6914022e9426
+pipes,kg,Minerals,waste/ceramics/terracotta-earthenware,3de23d6d-94ac-3ce4-91b5-520dcd5c079e
 pipes,kg,Minerals,waste/ceramics/porcelain,a2e10499-0838-3335-885d-3524eb71e9d4
-plaster,kg,Minerals,product/ceramics/terracotta/earthenware,dd6e2ce2-65dc-368c-9a03-21e83f728f23
+plaster,kg,Minerals,product/ceramics/terracotta-earthenware,bde022e8-55c6-3e1f-a485-1c2040d7478a
 plaster,kg,Minerals,product/ceramics/porcelain,798e6da6-c47a-31dc-ae6e-56f31b46f875
-plaster,kg,Minerals,waste/ceramics/terracotta/earthenware,ffb04e65-0761-34d5-bec3-cb30c748f117
+plaster,kg,Minerals,waste/ceramics/terracotta-earthenware,b7062460-9fe7-3481-a7d3-156010a30d94
 plaster,kg,Minerals,waste/ceramics/porcelain,a1c5c299-ecea-3219-be46-c146d35fad76
-pottery,kg,Minerals,product/ceramics/terracotta/earthenware,ee076887-5c63-37af-984a-79a375ea87c1
+pottery,kg,Minerals,product/ceramics/terracotta-earthenware,f55cf268-c3ee-33d0-8368-d976c214124a
 pottery,kg,Minerals,product/ceramics/porcelain,7cf2189d-877c-3aa8-97df-265f5d1497c2
-pottery,kg,Minerals,waste/ceramics/terracotta/earthenware,538b0b06-84a6-3748-9f8e-552f6b9ad854
+pottery,kg,Minerals,waste/ceramics/terracotta-earthenware,63cd38c2-5384-31f0-a8a5-2e3792b6f113
 pottery,kg,Minerals,waste/ceramics/porcelain,9639b065-6ac3-3900-891b-ce17f21fc619
-roofing,kg,Minerals,product/ceramics/terracotta/earthenware,803eb0d2-e265-3163-a111-a37aff387b14
+roofing,kg,Minerals,product/ceramics/terracotta-earthenware,b98997ef-ec5f-39fc-93a6-bc75a51232bf
 roofing,kg,Minerals,product/ceramics/porcelain,16ecb04c-a162-3a23-9872-23a0edba591a
-roofing,kg,Minerals,waste/ceramics/terracotta/earthenware,21cada3b-4f56-3b97-8680-09089f858f53
+roofing,kg,Minerals,waste/ceramics/terracotta-earthenware,397a9bf7-81e5-3ef0-87f4-f15421fe3248
 roofing,kg,Minerals,waste/ceramics/porcelain,8ef8ab31-3abe-3b4e-a3bf-b62b046b4441
 clay additive,kg,Minerals,product/gypsum/food-grade,f9fbb121-77e2-35e1-9f05-baa782240d09
 clay additive,kg,Minerals,product/gypsum/powder,76fa0838-683d-3cfd-a213-ce0ec2864401
@@ -1287,13 +1287,13 @@ minerals,kg,Minerals,material/gypsum/food-grade,a4cf6ebf-9d7b-3384-9562-969dc0cd
 minerals,kg,Minerals,material/gypsum/powder,5dce56ee-6643-3568-b934-ca1d00b63f3d
 minerals,kg,Minerals,material/gypsum/raw,98a4afb8-6adc-3f01-9ba7-ffc0dc362a21
 minerals,kg,Minerals,material/gypsum/blocks,da2cb5d1-9c92-3a1e-a2e0-4b036ac3baa6
-minerals,kg,Minerals,material/ceramics/terracotta/earthenware,a96db7b2-d3ee-3f8c-ba00-d7a7efc3fea6
+minerals,kg,Minerals,material/ceramics/terracotta-earthenware,c514f52f-6573-39ae-be61-28cde23206ee
 minerals,kg,Minerals,material/ceramics/porcelain,e3d0ebff-c2f6-314f-bd84-4deea5ba5c33
 minerals,kg,Minerals,waste/gypsum/food-grade,1bdc2a4d-a884-3c73-9e13-a960c2b1ca03
 minerals,kg,Minerals,waste/gypsum/powder,79191153-4a19-3573-bf5d-48051cb33728
 minerals,kg,Minerals,waste/gypsum/raw,e42f8ec4-3ccb-3b0a-b0a4-2ae056ace730
 minerals,kg,Minerals,waste/gypsum/blocks,cdf69dc7-8d45-31cc-8695-1f4ce3e8d3ae
-minerals,kg,Minerals,waste/ceramics/terracotta/earthenware,e9555a19-fdca-353c-9469-6200d1d47d49
+minerals,kg,Minerals,waste/ceramics/terracotta-earthenware,e38de3cd-aec2-3bdb-9d93-a0490dcd9cad
 minerals,kg,Minerals,waste/ceramics/porcelain,ef2bd8cc-1eb3-3ad7-83d6-db106f5b833c
 other petroleum products,kg,Other petroleum products,material/asphalt/paving,56bbdc4b-947d-39a3-82ef-49e14ffbbea1
 other petroleum products,kg,Other petroleum products,material/asphalt/roofing,499bd17c-9179-3c4e-aea3-beb1166c05a1
