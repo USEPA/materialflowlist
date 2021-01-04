@@ -1,0 +1,41 @@
+﻿Flowable,SecondaryContext
+packaging,mixed
+packaging,ferrous
+packaging,aluminum
+durable goods,mixed
+durable goods,ferrous
+durable goods,aluminum
+durable goods,copper
+durable goods,precious
+electronics,mixed
+electronics,aluminum
+electronics,ferrous
+electronics,precious
+electronics,copper
+batteries,heavy
+batteries,ferrous
+cans,mixed
+cans,ferrous
+cans,aluminum
+wire,mixed
+wire,ferrous
+wire,copper
+wire,precious
+pipes,ferrous
+pipes,aluminum
+pipes,copper
+pipes,heavy
+roofing,ferrous
+roofing,copper
+roofing,aluminum
+furniture,ferrous
+furniture,aluminum
+furniture,copper
+furniture,precious
+sheet,ferrous
+sheet,aluminum
+sheet,copper
+tires,ferrous
+structural components,ferrous
+structural components,aluminum
+pallets,ferrous

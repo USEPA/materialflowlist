@@ -1,0 +1,105 @@
+Class,SecondaryContext,ContextDetail
+Aggregate,ash,bottom
+Aggregate,ash,fly
+Aggregate,ash,wood
+Aggregate,stone,slab
+Aggregate,stone,boulder
+Aggregate,stone,paver
+Aggregate,gravel,small
+Aggregate,gravel,medium
+Aggregate,gravel,large
+Aggregate,soil,topsoil
+Aggregate,soil,subsoil
+Aggregate,concrete,precast
+Aggregate,concrete,ready-mix
+Aggregate,sand,fine
+Aggregate,sand,course
+Plants,residential,stumps and roots
+Plants,residential,branches
+Plants,residential,leaves
+Plants,residential,grass clippings
+Plants,commercial,stumps and roots
+Plants,commercial,branches
+Plants,commercial,leaves
+Plants,commercial,grass clippings
+Plants,biomass,annual
+Plants,biomass,perennial
+Plants,grain,cereal
+Plants,grain,oilseed
+Plants,grain,feed
+Plants,crop,vegetable
+Plants,crop,fruit
+Livestock,meat,beef
+Livestock,meat,poultry
+Livestock,meat,pork
+Livestock,dairy,milk
+Livestock,dairy,cheese
+Livestock,dairy,butter
+Livestock,dairy,yogurt
+Livestock,eggs,poultry
+Livestock,by-product,manure
+Livestock,by-product,carcass
+Livestock,eggs,chicken
+Glass,glass,clear
+Glass,glass,green
+Glass,glass,brown
+Glass,glass,automotive
+Glass,glass,mixed colors
+Leather,leather,chemically treated
+Leather,leather,naturally treated
+Metal,mixed,metal
+Metal,ferrous,iron
+Metal,ferrous,carbon steel
+Metal,ferrous,alloy steel
+Metal,aluminum,aluminum
+Metal,aluminum,alloy
+Metal,copper,copper
+Metal,copper,alloy
+Metal,precious,gold
+Metal,precious,silver
+Metal,heavy,lead
+Metal,heavy,mercury
+Other petroleum products,asphalt,paving
+Other petroleum products,asphalt,roofing
+Other petroleum products,asphalt,other
+Other petroleum products,solvents,solvents
+Other petroleum products,paint,acrylic
+Other petroleum products,paint,oil-based
+Other petroleum products,oil,automotive
+Other petroleum products,oil,hydraulic
+Other petroleum products,grease,automotive
+Paper,paper,white
+Paper,paper,mixed
+Paper,paper,glossy
+Paper,paper,newsprint
+Paper,paperboard,coated
+Paper,paperboard,uncoated
+Paper,paperboard,corrugated
+Plastic,thermoset,rubber
+Plastic,thermoset,polyesters
+Plastic,thermoset,urethanes
+Plastic,thermoset,epoxies
+Plastic,thermoset,other resins
+Plastic,thermoplastic,acrylics
+Plastic,thermoplastic,ABS
+Plastic,thermoplastic,nylons
+Plastic,thermoplastic,polycarbonate
+Plastic,thermoplastic,PE
+Plastic,thermoplastic,PS
+Plastic,thermoplastic,PP
+Plastic,thermoplastic,PVC
+Textile,fiber,plant
+Textile,fiber,animal
+Textile,fiber,synthetic
+Textile,fiber,composite
+Wood,hardwood,solid
+Wood,softwood,solid
+Wood,engineered,OSB
+Wood,engineered,plywood
+Wood,engineered,composite
+Minerals,gypsum,food-grade
+Minerals,gypsum,powder
+Minerals,gypsum,raw
+Minerals,gypsum,blocks
+Minerals,ceramics,terracotta/earthenware
+Minerals,ceramics,porcelain

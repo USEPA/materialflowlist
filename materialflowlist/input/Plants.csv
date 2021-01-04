@@ -1,0 +1,15 @@
+﻿Flowable,SecondaryContext
+food,grain
+food,crop
+animal feed,grain
+trimmings,crop
+pellets,biomass
+pellets,grain
+briquettes,biomass
+vegetable oil,grain
+green waste,residential
+brown waste,residential
+green waste,commercial
+brown waste,commercial
+trimmings,residential
+trimmings,commercial

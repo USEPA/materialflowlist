@@ -1,0 +1,14 @@
+﻿Flowable,SecondaryContext
+bricks,concrete
+pavement,concrete
+pavement,stone
+fill,soil
+fill,stone
+fill,sand
+fill,ash
+fill,gravel
+stonework,stone
+landscaping,soil
+landscaping,gravel
+landscaping,stone
+landscaping,concrete

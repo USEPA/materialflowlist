@@ -11,8 +11,8 @@ setup(
     install_requires = ['pandas>=0.22'],
     url='https://github.com/USEPA/materialflowlist.git',
     license='CC0',
-    author='Wesley Ingwersen',
-    author_email='ingwersen.wesley@epa.gov',
+    author='Troy Hottle',
+    author_email='ta.hottle@gmail.com',
     classifiers=[
         "Development Status :: Alpha",
         "Environment :: IDE",
