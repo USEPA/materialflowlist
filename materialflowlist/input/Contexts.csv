@@ -14,7 +14,6 @@ Aggregate,concrete,precast
 Aggregate,concrete,ready-mix
 Aggregate,sand,fine
 Aggregate,sand,course
-<<<<<<< HEAD
 Plants,residential,stumps and roots
 Plants,residential,branches
 Plants,residential,leaves
@@ -30,23 +29,6 @@ Plants,grain,oilseed
 Plants,grain,feed
 Plants,crop,vegetable
 Plants,crop,fruit
-=======
-Other plant matter,residential,stumps and roots
-Other plant matter,residential,branches
-Other plant matter,residential,leaves
-Other plant matter,residential,grass clippings
-Other plant matter,commercial,stumps and roots
-Other plant matter,commercial,branches
-Other plant matter,commercial,leaves
-Other plant matter,commercial,grass clippings
-Crops,biomass,annual
-Crops,biomass,perennial
-Crops,grain,cereal
-Crops,grain,oilseed
-Crops,grain,feed
-Crops,crop,vegetable
-Crops,crop,fruit
->>>>>>> Integration of FlowableUnits.csv file to streamline input files, no longer need individual class flowable files. refinement of flowable list, Contexts.csv, and flowable category files.
 Livestock,meat,beef
 Livestock,meat,poultry
 Livestock,meat,pork
@@ -103,7 +85,6 @@ Plastic,thermoplastic,ABS
 Plastic,thermoplastic,nylons
 Plastic,thermoplastic,polycarbonate
 Plastic,thermoplastic,PE
-Plastic,thermoplastic,PET
 Plastic,thermoplastic,PS
 Plastic,thermoplastic,PP
 Plastic,thermoplastic,PVC
