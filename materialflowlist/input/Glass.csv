@@ -1,6 +1,9 @@
 ﻿Flowable,SecondaryContext
-containers,glass
-bottles,glass
+container,glass
+bottle,glass
 sheet,glass
-windows,glass
-coatings,glass
+window,glass
+coating,glass
+automotive,glass
+strucutral component,glass
+electronic,glass

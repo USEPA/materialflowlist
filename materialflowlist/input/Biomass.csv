@@ -1,0 +1,22 @@
+﻿Flowable,SecondaryContext
+food,crop
+animal feed,crop
+trimming,crop
+pellet,crop
+briquette,crop
+vegetable oil,crop
+trimming,green waste
+trimming,brown waste
+food,livestock
+manure,livestock
+trimming,livestock
+animal feed,livestock
+tallow,livestock
+lard,livestock
+by-product,livestock
+by-product,crop
+stumps and roots,brown waste
+branches,brown waste
+leaves,green waste
+leaves,brown waste
+grass,green waste

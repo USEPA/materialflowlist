@@ -1,0 +1,26 @@
+﻿Flowable,SecondaryContext
+container,clay
+durable good,clay
+nondurable good,clay
+brick,clay
+dinnerware,clay
+insulator,clay
+pavement,clay
+coating,clay
+pottery,clay
+roofing,clay
+pipe,clay
+plaster,clay
+flooring,clay
+durable good,gypsum
+nondurable good,gypsum
+drywall,gypsum
+soil amendment,gypsum
+plaster,gypsum
+food additive,gypsum
+clay additive,gypsum
+pavement,gypsum
+statue,rock
+interior surface,rock
+strucutral component,rock
+structural component,gypsum

@@ -1,28 +1,32 @@
 ﻿Flowable,SecondaryContext
-containers,thermoplastic
+container,thermoplastic
 packaging,thermoplastic
-bags,thermoplastic
+bag,thermoplastic
 film,thermoplastic
-electronics,thermoplastic
-electronics,thermoset
-batteries,thermoplastic
-bottles,thermoplastic
-durable goods,thermoplastic
-durable goods,thermoset
-medical goods,thermoplastic
-medical goods,thermoset
-nondurable goods,thermoplastic
-nondurable goods,thermoset
+electronic,thermoplastic
+electronic,thermoset
+electronic,mixed
+battery,thermoplastic
+bottle,thermoplastic
+durable good,thermoplastic
+durable good,thermoset
+durable good,plastic
+medical good,thermoplastic
+medical good,thermoset
+medical good,plastic
+nondurable good,thermoplastic
+nondurable good,thermoset
+nondurable good,plastic
 flooring,thermoplastic
 flooring,thermoset
-tires,thermoset
+tire,thermoset
 footware,thermoplastic
 footware,thermoset
-coatings,thermoplastic
-coatings,thermoset
-adhesives,thermoset
-pipes,thermoplastic
-pipes,thermoset
+coating,thermoplastic
+coating,thermoset
+adhesive,thermoset
+pipe,thermoplastic
+pipe,thermoset
 mulch,thermoset
-pallets,thermoset
-pallets,thermoplastic
+pallet,thermoset
+pallet,thermoplastic

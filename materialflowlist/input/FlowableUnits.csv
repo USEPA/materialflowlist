@@ -1,25 +1,25 @@
 Flowable,Unit
-adhesives,kg
+adhesive,kg
 animal feed,kg
 apparel,kg
-aseptic cartons,kg
-automotive upholstery,kg
-bags,kg
-batteries,kg
-books,kg
-bottles,kg
-bricks,kg
-briquettes,kg
+aseptic carton,kg
+upholstery,kg
+bag,kg
+battery,kg
+book,kg
+bottle,kg
+brick,kg
+briquette,kg
 brown waste,kg
-cans,kg
-carpets,kg
+can,kg
+carpet,kg
 clay additive,kg
-coatings,kg
-containers,kg
+coating,kg
+container,kg
 dinnerware,kg
 drywall,kg
-durable goods,kg
-electronics,kg
+durable good,kg
+electronic,kg
 fiberboard,kg
 fill,kg
 film,kg
@@ -29,36 +29,44 @@ food additive,kg
 footware,kg
 furniture,kg
 green waste,kg
-insulators,kg
+insulator,kg
 lard,kg
-linens,kg
+linen,kg
 lumber,kg
-magazines,kg
+magazine,kg
 manure,kg
-medical goods,kg
-newspapers,kg
-nondurable goods,kg
+medical good,kg
+newspaper,kg
+nondurable good,kg
 packaging,kg
-pallets,kg
+pallet,kg
 particleboard,kg
 pavement,kg
-pellets,kg
-pipes,kg
+pellet,kg
+pipe,kg
 plaster,kg
 plywood,kg
 pottery,kg
 roofing,kg
-rugs,kg
+rug,kg
 sawdust,kg
 sheet,kg
 soil amendment,kg
 stonework,kg
 tallow,kg
-tires,kg
-trimmings,kg
+tire,kg
+trimming,kg
 vegetable oil,kg
 veneer,kg
-windows,kg
+window,kg
 wire,kg
-structural components,kg
+structural component,kg
 mulch,kg
+interior surface,kg
+statue,kg
+binder,kg
+by-product,kg
+automotive,kg
+fertilizer,kg
+landscaping,kg
+window frame,kg

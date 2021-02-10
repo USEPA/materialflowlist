@@ -1,12 +1,12 @@
 ﻿Flowable,SecondaryContext
-nondurable goods,paper
-nondurable goods,paperboard
+nondurable good,paper
+nondurable good,paperboard
 packaging,paper
 packaging,paperboard
-bags,paper
-books,paper
-magazines,paper
-newspapers,paper
-aseptic cartons,paperboard
-containers,paperboard
-pallets,paperboard
+bag,paper
+book,paper
+magazine,paper
+newspaper,paper
+aseptic carton,paperboard
+container,paperboard
+pallet,paperboard

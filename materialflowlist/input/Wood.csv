@@ -1,39 +1,28 @@
 ﻿Flowable,SecondaryContext
-lumber,hardwood
-lumber,softwood
+lumber,solid
 lumber,composite
-structural components,hardwood
-structural components,softwood
-structural components,engineered
-flooring,hardwood
-flooring,softwood
+structural component,solid
+structural component,engineered
+strucutral component,wood
+flooring,solid
 flooring,engineered
-durable goods,hardwood
-durable goods,softwood
-pallets,softwood
-pallets,hardwood
-pallets,engineered
-pellets,hardwood
-pellets,softwood
-briquettes,hardwood
-briquettes,softwood
-nondurable goods,hardwood
-nondurable goods,softwood
-dinnerware,hardwood
-dinnerware,softwood
-dinnerware,engineered
-roofing,hardwood
-roofing,softwood
+durable good,solid
+pallet,solid
+pallet,engineered
+pellet,solid
+briquette,solid
+nondurable good,solid
+dinnerware,solid
+roofing,solid
 roofing,engineered
-windows,hardwood
-windows,softwood
-windows,engineered
-packaging,softwood
-furniture,hardwood
-furniture,softwood
-veneer,hardwood
-veneer,softwood
-sawdust,hardwood
-sawdust,softwood
-mulch,hardwood
-mulch,softwood
+window frame,solid
+window frame,engineered
+packaging,solid
+furniture,solid
+veneer,solid
+sawdust,solid
+mulch,solid
+fertilizer,ash
+nondurable good,wood
+sawdust,wood
+

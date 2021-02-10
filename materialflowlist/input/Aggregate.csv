@@ -1,5 +1,5 @@
 ﻿Flowable,SecondaryContext
-bricks,concrete
+brick,concrete
 pavement,concrete
 pavement,stone
 fill,soil
@@ -12,3 +12,6 @@ landscaping,soil
 landscaping,gravel
 landscaping,stone
 landscaping,concrete
+binder,cement
+strucutral component,concrete
+structural component,stone

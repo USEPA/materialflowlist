@@ -1,53 +1,48 @@
 Class,SecondaryContext,ContextDetail
 Aggregate,ash,bottom
 Aggregate,ash,fly
-Aggregate,ash,wood
 Aggregate,stone,slab
 Aggregate,stone,boulder
 Aggregate,stone,paver
-Aggregate,gravel,small
-Aggregate,gravel,medium
-Aggregate,gravel,large
+Aggregate,gravel,small grain
+Aggregate,gravel,medium grain
+Aggregate,gravel,large grain
+Aggragate,gravel,mixed
 Aggregate,soil,topsoil
 Aggregate,soil,subsoil
+Aggregate,soil,mixed
 Aggregate,concrete,precast
 Aggregate,concrete,ready-mix
-Aggregate,sand,fine
-Aggregate,sand,course
-Plants,residential,stumps and roots
-Plants,residential,branches
-Plants,residential,leaves
-Plants,residential,grass clippings
-Plants,commercial,stumps and roots
-Plants,commercial,branches
-Plants,commercial,leaves
-Plants,commercial,grass clippings
-Plants,biomass,annual
-Plants,biomass,perennial
-Plants,grain,cereal
-Plants,grain,oilseed
-Plants,grain,feed
-Plants,crop,vegetable
-Plants,crop,fruit
-Livestock,meat,beef
-Livestock,meat,poultry
-Livestock,meat,pork
-Livestock,dairy,milk
-Livestock,dairy,cheese
-Livestock,dairy,butter
-Livestock,dairy,yogurt
-Livestock,eggs,poultry
-Livestock,by-product,manure
-Livestock,by-product,carcass
-Livestock,eggs,chicken
+Aggregate,sand,fine grain
+Aggregate,sand,course grain
+Aggregate,sand,mixed
+Aggregate,cement,portland
+Biomass,green waste,residential
+Biomass,green waste,commercial
+Biomass,brown waste,residential
+Biomass,brown waste,commercial
+Biomass,brown waste,mixed
+Biomass,green waste,mixed
+Biomass,crop,annual
+Biomass,crop,perennial
+Biomass,crop,grain
+Biomass,crop,vegetable
+Biomass,crop,fruit
+Biomass,crop,mixed
+Biomass,livestock,beef
+Biomass,livestock,poultry
+Biomass,livestock,pork
+Biomass,livestock,poultry
+Biomass,livestock,mixed
+Biomass,biomass,mixed
 Glass,glass,clear
 Glass,glass,green
 Glass,glass,brown
-Glass,glass,automotive
-Glass,glass,mixed colors
+Glass,glass,mixed
 Leather,leather,chemically treated
 Leather,leather,naturally treated
-Metal,mixed,metal
+Leather,leather,mixed
+Metal,metal,mixed
 Metal,ferrous,iron
 Metal,ferrous,carbon steel
 Metal,ferrous,alloy steel
@@ -59,15 +54,20 @@ Metal,precious,gold
 Metal,precious,silver
 Metal,heavy,lead
 Metal,heavy,mercury
-Other petroleum products,asphalt,paving
-Other petroleum products,asphalt,roofing
-Other petroleum products,asphalt,other
-Other petroleum products,solvents,solvents
+Other petroleum products,asphalt,hot mix
+Other petroleum products,asphalt,cold mix
+Other petroleum products,solvent,organic
+Other petroleum products,solvent,inorganic
+Other petroleum products,solvent,mixed
 Other petroleum products,paint,acrylic
 Other petroleum products,paint,oil-based
-Other petroleum products,oil,automotive
-Other petroleum products,oil,hydraulic
-Other petroleum products,grease,automotive
+Other petroleum products,oil,heavy
+Other petroleum products,oil,light
+Other petroleum products,oil,mixed
+Other petroleum products,grease,fluid
+Other petroleum products,grease,soft
+Other petroleum products,grease,stiff
+Other petroleum products,grease,mixed
 Paper,paper,white
 Paper,paper,mixed
 Paper,paper,glossy
@@ -75,32 +75,38 @@ Paper,paper,newsprint
 Paper,paperboard,coated
 Paper,paperboard,uncoated
 Paper,paperboard,corrugated
+Paper,paperboard,mixed
 Plastic,thermoset,rubber
-Plastic,thermoset,polyesters
-Plastic,thermoset,urethanes
-Plastic,thermoset,epoxies
-Plastic,thermoset,other resins
-Plastic,thermoplastic,acrylics
-Plastic,thermoplastic,ABS
-Plastic,thermoplastic,nylons
+Plastic,thermoset,polyester
+Plastic,thermoset,urethane
+Plastic,thermoset,epoxie
+Plastic,thermoset,other resin
+Plastic,thermoset,mixed
+Plastic,thermoplastic,acrylic
+Plastic,thermoplastic,acrylonitrile butadiene styrene
+Plastic,thermoplastic,nylon
 Plastic,thermoplastic,polycarbonate
-Plastic,thermoplastic,PE
-Plastic,thermoplastic,PET
-Plastic,thermoplastic,PS
-Plastic,thermoplastic,PP
-Plastic,thermoplastic,PVC
+Plastic,thermoplastic,polyethelene
+Plastic,thermoplastic,polyethylene terephthalate
+Plastic,thermoplastic,polystyrene
+Plastic,thermoplastic,polypropylene
+Plastic,thermoplastic,polyvinyl chloride
+Plastic,thermoplastic,mixed
+Plastic,plastic,mixed
 Textile,fiber,plant
 Textile,fiber,animal
 Textile,fiber,synthetic
 Textile,fiber,composite
-Wood,hardwood,solid
-Wood,softwood,solid
-Wood,engineered,OSB
+Textile,fiber,mixed
+Wood,solid,hardwood
+Wood,solid,softwood
+Wood,ash,mixed
+Wood,wood,mixed
+Wood,engineered,oriented strand board
 Wood,engineered,plywood
 Wood,engineered,composite
-Minerals,gypsum,food-grade
 Minerals,gypsum,powder
 Minerals,gypsum,raw
-Minerals,gypsum,blocks
-Minerals,ceramics,terracotta-earthenware
-Minerals,ceramics,porcelain
+Minerals,rock,marble
+Minerals,clay,terracotta-earthenware
+Minerals,clay,porcelain
