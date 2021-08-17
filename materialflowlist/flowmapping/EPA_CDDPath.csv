@@ -1,0 +1,14 @@
+SourceListName,SourceFlowName,SourceFlowUUID,SourceFlowContext,SourceUnit,MatchCondition,ConversionFactor,TargetFlowName,TargetFlowClass,TargetFlowContext,TargetUnit,TargetFlowUUID,Mapper,Verifier,LastUpdated
+EPA_CDDPath,Asphalt Shingles,,,short tons,,907.185,Asphalt Shingles,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Bricks,,,short tons,,907.185,Bricks,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Concrete,,,short tons,,907.185,Concrete,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Gypsum Drywall,,,short tons,,907.185,Gypsum Drywall,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Metal,,,short tons,,907.185,Metal,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Reclaimed Asphalt Pavement,,,short tons,,907.185,Asphalt Pavement,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Wood,,,short tons,,907.185,Wood,,,kg,,Young,,8/17/2021
+EPA_CDDPath,"Organics (e.g., Land Clearing Debris)",,,short tons,,907.185,Organics,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Cardboard,,,short tons,,907.185,Cardboard,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Carpet,,,short tons,,907.185,Carpet,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Fines,,,short tons,,907.185,Fines,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Glass,,,short tons,,907.185,Glass,,,kg,,Young,,8/17/2021
+EPA_CDDPath,Plastic,,,short tons,,907.185,Plastic,,,kg,,Young,,8/17/2021
