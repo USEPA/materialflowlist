@@ -105,8 +105,15 @@ Wood,wood,mixed
 Wood,engineered,oriented strand board
 Wood,engineered,plywood
 Wood,engineered,composite
-Minerals,gypsum,powder
-Minerals,gypsum,raw
-Minerals,rock,marble
-Minerals,clay,terracotta-earthenware
-Minerals,clay,porcelain
+Mineral,gypsum,powder
+Mineral,gypsum,raw
+Mineral,rock,marble
+Mineral,clay,terracotta-earthenware
+Mineral,clay,porcelain
+Energy,generation,onsite
+Energy,generation,offsite
+Energy,transmission,grid
+Energy,distribution,industrial
+Energy,distribution,commercial
+Energy,distribution,resiential
+Energy,distribution,onsite

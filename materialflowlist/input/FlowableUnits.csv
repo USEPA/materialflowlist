@@ -70,3 +70,6 @@ automotive,kg
 fertilizer,kg
 landscaping,kg
 window frame,kg
+electricity, kWh
+steam, m3
+heat, MJ
