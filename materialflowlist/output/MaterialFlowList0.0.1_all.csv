@@ -333,6 +333,130 @@ wire,kg,Metal,product/precious/gold,8118017c-0e9c-38c2-8576-3fac8f19d43e
 wire,kg,Metal,product/precious/silver,1cc7f207-4738-381f-bfbd-cf68f428df43
 wire,kg,Metal,waste/precious/gold,6fc1b5c9-c3a4-3985-a539-60bf3a9b5af1
 wire,kg,Metal,waste/precious/silver,4ec7c230-9257-33e0-8113-6801a7325e71
+brick,kg,Mineral,product/clay/terracotta-earthenware,72511f61-fedc-3b68-9d36-57ae6ecdc3ff
+brick,kg,Mineral,product/clay/porcelain,01920d2d-e691-3d0e-a88d-95097a072bc8
+brick,kg,Mineral,waste/clay/terracotta-earthenware,49ef0402-80ae-3fe3-beac-093d365c8032
+brick,kg,Mineral,waste/clay/porcelain,c9b99332-0934-36dc-8a6a-67964382f9a4
+coating,kg,Mineral,product/clay/terracotta-earthenware,5155017c-20ef-37a6-bfcf-117d0f366dea
+coating,kg,Mineral,product/clay/porcelain,5152a0e7-777f-3cf9-8ff7-f8952eff2fda
+coating,kg,Mineral,waste/clay/terracotta-earthenware,38fc40c1-19de-3a81-ae90-ea9c383e214e
+coating,kg,Mineral,waste/clay/porcelain,e2be73f1-bf59-3e59-a39b-1dd95ad7c7f1
+container,kg,Mineral,product/clay/terracotta-earthenware,6210551c-78ef-34fb-84af-cb437336d5b3
+container,kg,Mineral,product/clay/porcelain,fae8cf68-1e81-3aa8-91f1-f295ddb9977e
+container,kg,Mineral,waste/clay/terracotta-earthenware,1889faa1-e80f-3eb6-ae07-7994c1ede1b2
+container,kg,Mineral,waste/clay/porcelain,f817c98b-8549-37b3-a4ce-ffcda8257a3d
+dinnerware,kg,Mineral,product/clay/terracotta-earthenware,1c8c80d3-d698-3ecf-9d57-15513af4d638
+dinnerware,kg,Mineral,product/clay/porcelain,b1888005-2a0e-3544-ae20-19feb21ac13f
+dinnerware,kg,Mineral,waste/clay/terracotta-earthenware,5e61ef32-4087-3312-bcd0-fae7fd118a97
+dinnerware,kg,Mineral,waste/clay/porcelain,bbd40b9e-80f3-358a-a3ff-c634edf82f59
+durable good,kg,Mineral,product/clay/terracotta-earthenware,529bd691-c5ce-3094-a8f5-b75b6d744ef4
+durable good,kg,Mineral,product/clay/porcelain,1837fde9-c912-3724-8427-36f4f71987c8
+durable good,kg,Mineral,waste/clay/terracotta-earthenware,0e492ad2-8372-3bea-8033-182780f24512
+durable good,kg,Mineral,waste/clay/porcelain,7393fb3d-3897-3717-bd76-fafc99b35ede
+flooring,kg,Mineral,product/clay/terracotta-earthenware,3abcd1f3-77c7-3ab8-a653-951ca04b9e00
+flooring,kg,Mineral,product/clay/porcelain,aa9e3a15-275e-334b-bc83-3992aabfd3c4
+flooring,kg,Mineral,waste/clay/terracotta-earthenware,550856eb-9a5b-31b2-a076-137e0b251440
+flooring,kg,Mineral,waste/clay/porcelain,04b0b7d9-5a05-3b03-a056-64ea21898618
+insulator,kg,Mineral,product/clay/terracotta-earthenware,aaaef56e-bedd-311f-b1b8-afd511818bef
+insulator,kg,Mineral,product/clay/porcelain,9f87746d-26d0-31eb-a668-9ffeb44995c6
+insulator,kg,Mineral,waste/clay/terracotta-earthenware,6f10de69-627e-38d0-b4e9-31a67ab0efc6
+insulator,kg,Mineral,waste/clay/porcelain,d3c866c6-c65e-3100-a34f-31588978954d
+nondurable good,kg,Mineral,product/clay/terracotta-earthenware,edc45941-82bf-3919-ae80-35b30a20c1b4
+nondurable good,kg,Mineral,product/clay/porcelain,d0b901c7-c4f4-3427-ae6e-48cf18bc9527
+nondurable good,kg,Mineral,waste/clay/terracotta-earthenware,e67e7041-ab9d-3c9f-b676-ada73a66df3d
+nondurable good,kg,Mineral,waste/clay/porcelain,94d90eee-9041-3bd3-b4ec-786cb5419478
+pavement,kg,Mineral,product/clay/terracotta-earthenware,68ce152b-3790-39c4-a81e-f51bb8287eb0
+pavement,kg,Mineral,product/clay/porcelain,265b9fe6-7cbe-3bba-9ae7-8b9e20394159
+pavement,kg,Mineral,waste/clay/terracotta-earthenware,f1b07434-c9b0-3263-bea5-f191dbb538e9
+pavement,kg,Mineral,waste/clay/porcelain,2b59ed4c-6097-354e-a988-98839aa7f55f
+pipe,kg,Mineral,product/clay/terracotta-earthenware,fedab9fc-d850-361d-9074-f6fc3fff2559
+pipe,kg,Mineral,product/clay/porcelain,ee88dd27-edd2-3735-960a-efbbae4b479b
+pipe,kg,Mineral,waste/clay/terracotta-earthenware,a9ab575a-cd64-3d43-984e-dfd94a997926
+pipe,kg,Mineral,waste/clay/porcelain,33d2966c-3e04-39c2-8e10-a961b80a99ba
+plaster,kg,Mineral,product/clay/terracotta-earthenware,17c8e525-a056-31a9-8487-27b455bd73f7
+plaster,kg,Mineral,product/clay/porcelain,308b37cf-7278-3ad6-bb92-8d0dea27a87f
+plaster,kg,Mineral,waste/clay/terracotta-earthenware,967bfae0-e49d-3da0-aeae-e84a1dbb78ae
+plaster,kg,Mineral,waste/clay/porcelain,e23ce940-a4fa-3af9-a3bf-21b2beeb4141
+pottery,kg,Mineral,product/clay/terracotta-earthenware,c88f83a0-31e0-3e84-889b-32c82bed8b0c
+pottery,kg,Mineral,product/clay/porcelain,550444e3-5b1a-33e5-86f5-3dfdd8c5ce6f
+pottery,kg,Mineral,waste/clay/terracotta-earthenware,516e973d-8948-3f32-85b0-364d618a744c
+pottery,kg,Mineral,waste/clay/porcelain,3cc87934-d6da-3a15-8449-9c56697efba8
+roofing,kg,Mineral,product/clay/terracotta-earthenware,fe20c8d7-715f-3a29-a464-f983d3546ee4
+roofing,kg,Mineral,product/clay/porcelain,f35cb36e-1972-3b56-b216-0e7441d6d2b1
+roofing,kg,Mineral,waste/clay/terracotta-earthenware,7371b655-5bca-35e2-a8df-2ee7db7414d0
+roofing,kg,Mineral,waste/clay/porcelain,dc852878-034b-3ab2-b32d-49f21e3303f8
+clay additive,kg,Mineral,product/gypsum/powder,76fa0838-683d-3cfd-a213-ce0ec2864401
+clay additive,kg,Mineral,product/gypsum/raw,2f47db0d-cc0e-3a6f-ba2f-fdfe7c60945b
+clay additive,kg,Mineral,waste/gypsum/powder,cb052271-6cc6-399f-89f4-01fd1916839f
+clay additive,kg,Mineral,waste/gypsum/raw,cd7d17d9-28f3-326b-a9b7-20f5238feb60
+drywall,kg,Mineral,product/gypsum/powder,0fdc1e2e-5f58-368e-a4a7-b2b6918cb097
+drywall,kg,Mineral,product/gypsum/raw,c320cfb4-e2d8-3118-86e5-d13f924498ab
+drywall,kg,Mineral,waste/gypsum/powder,3aae4af5-42cd-3a5d-8cc1-2856ea65f058
+drywall,kg,Mineral,waste/gypsum/raw,5214c857-522d-3e68-aaed-bc866c9d1983
+durable good,kg,Mineral,product/gypsum/powder,1359a8ee-f77d-3589-901c-f83482fa067e
+durable good,kg,Mineral,product/gypsum/raw,76cf9a4a-a7e2-323e-a0eb-7bcd4a4d1301
+durable good,kg,Mineral,waste/gypsum/powder,f8cae294-2e19-3fd2-98e6-84955006c023
+durable good,kg,Mineral,waste/gypsum/raw,684f3a52-1d91-348d-87eb-e2e5aa377227
+food additive,kg,Mineral,product/gypsum/powder,ab4848ab-ed60-3daf-90a8-8199dc63946e
+food additive,kg,Mineral,product/gypsum/raw,aa42d290-4896-31d0-a553-f6384716ffba
+food additive,kg,Mineral,waste/gypsum/powder,9cc1057d-3009-3f79-9324-abaf6886929c
+food additive,kg,Mineral,waste/gypsum/raw,f7c9eda0-8a2c-3d6d-8073-7e94022b09a6
+nondurable good,kg,Mineral,product/gypsum/powder,61379b25-3e8e-3827-a4dd-29c9ebfa4495
+nondurable good,kg,Mineral,product/gypsum/raw,c6801f8f-7688-30d6-9bc8-cb6bebd95439
+nondurable good,kg,Mineral,waste/gypsum/powder,29ee8493-9e2c-33de-9f63-8280647ea8f1
+nondurable good,kg,Mineral,waste/gypsum/raw,f7429889-7992-3b86-800b-6225ff62e748
+pavement,kg,Mineral,product/gypsum/powder,f50eecdd-738a-3dac-ad5d-0b0e8fb1e9ea
+pavement,kg,Mineral,product/gypsum/raw,9e8a717e-0f49-3575-82a8-762ee1e8d6b4
+pavement,kg,Mineral,waste/gypsum/powder,21f9910a-cb44-33f8-882a-2663614580d2
+pavement,kg,Mineral,waste/gypsum/raw,2e4ef411-dc8a-3f08-b21d-29b86486fca5
+plaster,kg,Mineral,product/gypsum/powder,23c04f60-4519-32d2-a1aa-610ca77f6ae2
+plaster,kg,Mineral,product/gypsum/raw,6552b7ec-8c82-30ba-8dc0-40a7d3cc14f4
+plaster,kg,Mineral,waste/gypsum/powder,91b034f3-38ed-334b-a140-887ff6424f04
+plaster,kg,Mineral,waste/gypsum/raw,bc7b4c98-4fe0-38fb-9eae-e2598def9760
+soil amendment,kg,Mineral,product/gypsum/powder,cf4f7bd0-1571-3062-876e-b86d4f40e3c6
+soil amendment,kg,Mineral,product/gypsum/raw,b2e3cd0f-e43b-3580-aede-82573cc41425
+soil amendment,kg,Mineral,waste/gypsum/powder,2552eb3e-8e0d-3e72-b536-c5b421d60a32
+soil amendment,kg,Mineral,waste/gypsum/raw,8e89849a-524e-3012-9cdc-2e68da04ebba
+structural component,kg,Mineral,product/gypsum/powder,781d1c93-785e-3e2b-9b67-0cd850ae6525
+structural component,kg,Mineral,product/gypsum/raw,249f6369-d81c-3917-9eb2-929207d7b021
+structural component,kg,Mineral,waste/gypsum/powder,b359c4d9-ffab-335d-a04c-8cf2a06be2cb
+structural component,kg,Mineral,waste/gypsum/raw,05a3c4f3-5ee9-3970-bf68-a0eb79306204
+interior surface,kg,Mineral,product/rock/marble,c4f2c9a7-16e7-310d-81a0-63e92da69b24
+interior surface,kg,Mineral,waste/rock/marble,c12c0eea-fdf3-3348-9a6d-8db6494593a3
+statue,kg,Mineral,product/rock/marble,671d71c6-8e92-3d67-923c-b6f6d3bafed2
+statue,kg,Mineral,waste/rock/marble,32c32eae-c9c2-3364-8052-09428ccf6176
+coating,kg,Other petroleum products,product/paint/acrylic,4433dbe1-9c6e-3767-ad2c-d67b4d888214
+coating,kg,Other petroleum products,product/paint/oil-based,533cbee4-b1bc-30d5-8d3e-0e0042c2fb25
+coating,kg,Other petroleum products,waste/paint/acrylic,751a21ed-2246-3d0b-937e-a93929fc8cb4
+coating,kg,Other petroleum products,waste/paint/oil-based,a0b7b755-6ee2-32a3-bb4d-b93b603b6120
+coating,kg,Other petroleum products,product/oil/heavy,c4b6da98-c0a8-3b5e-be25-a09dca77cb35
+coating,kg,Other petroleum products,product/oil/light,c24c50da-eec0-3f73-bee4-01db3ae9375a
+coating,kg,Other petroleum products,product/oil/mixed,d8ec9086-6ede-3985-98ad-33357d5fc1fb
+coating,kg,Other petroleum products,waste/oil/heavy,c4c1a59e-0abe-3580-95f4-379afa9829bf
+coating,kg,Other petroleum products,waste/oil/light,6cdf3e4c-c40b-335d-9893-a27b198bd8fa
+coating,kg,Other petroleum products,waste/oil/mixed,df4abb63-03a2-3e3a-b6ca-5275bdd227b6
+coating,kg,Other petroleum products,product/grease/fluid,94896b2a-1ca7-37bc-82c9-a74123c0386a
+coating,kg,Other petroleum products,product/grease/soft,88bae2cd-44a8-3eb2-9b75-019970a4b576
+coating,kg,Other petroleum products,product/grease/stiff,fd610568-3ceb-3c5b-9d6b-756fb76f4622
+coating,kg,Other petroleum products,product/grease/mixed,e9b54022-235f-34ff-8b5b-e22659305b28
+coating,kg,Other petroleum products,waste/grease/fluid,36bdcd8f-0297-319a-988a-f07eda8cb8f7
+coating,kg,Other petroleum products,waste/grease/soft,3f128a6b-4862-3411-9439-6f31df8a548e
+coating,kg,Other petroleum products,waste/grease/stiff,bcbc59c7-d7cb-352b-bedd-ed9afb99ca9d
+coating,kg,Other petroleum products,waste/grease/mixed,506fbad9-d672-3826-abd8-3f92224d3e06
+nondurable good,kg,Other petroleum products,product/solvent/organic,021eea78-7461-3063-8206-7e6e2bbcfb0f
+nondurable good,kg,Other petroleum products,product/solvent/inorganic,e319ce32-7409-3e61-9bf5-7c1292c50b6d
+nondurable good,kg,Other petroleum products,product/solvent/mixed,d4a8a910-85c3-33af-adf7-1050c6c1e7d0
+nondurable good,kg,Other petroleum products,waste/solvent/organic,fba7030e-852a-302a-a608-b2bf6966833f
+nondurable good,kg,Other petroleum products,waste/solvent/inorganic,d3b3c51a-620d-3159-8299-b08dfdd41970
+nondurable good,kg,Other petroleum products,waste/solvent/mixed,a5811aba-6370-3dd0-8109-2c9afcfffb63
+pavement,kg,Other petroleum products,product/asphalt/hot mix,59fbaf46-94c1-322d-b413-a410c05255be
+pavement,kg,Other petroleum products,product/asphalt/cold mix,fc40af0f-710b-3971-ab68-cfebc9508940
+pavement,kg,Other petroleum products,waste/asphalt/hot mix,903ed00d-8b82-3ce6-9feb-148cb52a0889
+pavement,kg,Other petroleum products,waste/asphalt/cold mix,530b2e87-61b2-3538-99ee-69ebd44d6325
+roofing,kg,Other petroleum products,product/asphalt/hot mix,9523a6e0-f522-305d-8ea0-97877d552031
+roofing,kg,Other petroleum products,product/asphalt/cold mix,587e1783-2588-381b-9985-c0b95bbe427d
+roofing,kg,Other petroleum products,waste/asphalt/hot mix,b84493b0-06c9-320e-b529-ad120507e7b1
+roofing,kg,Other petroleum products,waste/asphalt/cold mix,6c6cce36-2fc0-3a0f-b4ba-4c3829d4190b
 aseptic carton,kg,Paper,product/paperboard/coated,49558c6f-9940-3810-acd8-aa46dcce1074
 aseptic carton,kg,Paper,product/paperboard/uncoated,fe785fe1-6613-3eef-8196-ec40d46a7321
 aseptic carton,kg,Paper,product/paperboard/corrugated,1290e23d-d55f-3a0c-be42-65720a917084
@@ -1213,6 +1337,36 @@ sawdust,kg,Wood,product/wood/mixed,a3bc5837-373d-3066-ba12-4f1360a2a379
 sawdust,kg,Wood,waste/wood/mixed,075b010e-9dda-3c23-867e-358de0ff921c
 fertilizer,kg,Wood,product/ash/mixed,bce9d982-0370-3615-8076-9273e9e45b22
 fertilizer,kg,Wood,waste/ash/mixed,1bd98dca-2582-3b04-b2de-9bb4968d591c
+electricity, kWh,Energy,product/generation/onsite,6812a99e-7cba-3af1-9e94-0f52ea5e4450
+electricity, kWh,Energy,product/generation/offsite,afafd970-85c8-3d92-b90d-1c8841cfa0bb
+electricity, kWh,Energy,waste/generation/onsite,8a94962b-b613-3c36-9093-fab350f41cfe
+electricity, kWh,Energy,waste/generation/offsite,f7dc74d2-6d48-352a-ad29-cf452fee3a6a
+steam, m3,Energy,product/generation/onsite,a1b65146-02e4-326c-ab84-316fac3f6483
+steam, m3,Energy,product/generation/offsite,8baab425-955d-3325-b64c-79574e28bdb3
+steam, m3,Energy,waste/generation/onsite,f21c396c-0084-3e8b-afc7-9ac0e7bf7f98
+steam, m3,Energy,waste/generation/offsite,f02bc18c-6115-3858-8684-29a0eaa4a5a8
+heat, MJ,Energy,product/generation/onsite,b22022fe-8e35-385a-8076-4ff9102db60c
+heat, MJ,Energy,product/generation/offsite,24a0d076-4988-3661-ac30-aff9a0a38d52
+heat, MJ,Energy,waste/generation/onsite,9228faa1-3022-3233-b936-395e3aa406eb
+heat, MJ,Energy,waste/generation/offsite,6976b94e-8c91-33ec-b172-daaaab221a48
+electricity, kWh,Energy,product/transmission/grid,da6dcd0c-3075-3d85-9368-1100d0a36656
+electricity, kWh,Energy,waste/transmission/grid,4ab0aa73-8eb0-30c9-b872-40f824908626
+electricity, kWh,Energy,product/distribution/industrial,c4084333-5fd6-328f-993b-7239a8425e88
+electricity, kWh,Energy,product/distribution/commercial,76bbd55b-a2d8-35cd-8679-3a7f2f3106ff
+electricity, kWh,Energy,product/distribution/resiential,6f82290c-c3dd-324e-b0a0-09bf89e9e0d9
+electricity, kWh,Energy,product/distribution/onsite,0a00ccce-2229-3e2e-ba4b-13b88ad1a801
+electricity, kWh,Energy,waste/distribution/industrial,c3983d65-2401-3a1c-a74f-30c682122c31
+electricity, kWh,Energy,waste/distribution/commercial,08f1529c-3fc0-3595-a4ca-3306b2e9fd5e
+electricity, kWh,Energy,waste/distribution/resiential,2f8d2109-3e56-3b0f-bc80-6692a1ed195c
+electricity, kWh,Energy,waste/distribution/onsite,3f6b4017-b2c2-361f-b572-646c226ff616
+heat, MJ,Energy,product/distribution/industrial,ae1398db-3df5-353d-9259-8ca86af50047
+heat, MJ,Energy,product/distribution/commercial,8a2fe168-2e7f-3949-a1c7-4c8838599f64
+heat, MJ,Energy,product/distribution/resiential,0b1dd418-7377-3379-8067-cbad394138a4
+heat, MJ,Energy,product/distribution/onsite,14bbdb01-1b74-3b51-8f3f-ced014a8c437
+heat, MJ,Energy,waste/distribution/industrial,4f83b8e4-6c00-3017-b447-5c355951c874
+heat, MJ,Energy,waste/distribution/commercial,163d80f6-b4c4-31c1-94ab-5ac5fb6158c6
+heat, MJ,Energy,waste/distribution/resiential,04b5bc77-4d16-308f-9f45-f83c965e6d36
+heat, MJ,Energy,waste/distribution/onsite,24a35a69-0818-3e72-837d-8f3c37292b08
 aggregate,kg,Aggregate,material/ash/bottom,6eb00060-3e0a-335a-87e0-29b4352d1df7
 aggregate,kg,Aggregate,material/ash/fly,342cc5f5-a369-3b4b-8659-6899c693c125
 aggregate,kg,Aggregate,material/stone/slab,3cb69b60-3ba4-34bf-ac94-5484e1bfccb2
@@ -1285,6 +1439,44 @@ metal,kg,Metal,waste/precious/gold,1f4dfa0a-c336-301e-8653-d3988416faa9
 metal,kg,Metal,waste/precious/silver,b2164178-ca51-3e56-b811-bdf2f5f573ae
 metal,kg,Metal,waste/heavy/lead,882b0261-9bfc-3105-a222-8891414057e9
 metal,kg,Metal,waste/heavy/mercury,e261e30d-ff89-3885-a49e-3b61b59ef834
+mineral,kg,Mineral,material/gypsum/powder,192a3d04-317a-33f1-94e6-78a317efe505
+mineral,kg,Mineral,material/gypsum/raw,23614f67-54bd-36e8-8060-290734f1f17a
+mineral,kg,Mineral,material/rock/marble,7ef3fcfd-ad4d-325f-a228-c6db3c25eaf6
+mineral,kg,Mineral,material/clay/terracotta-earthenware,da23ee8f-4c7a-30e1-b7de-6f905dc18fac
+mineral,kg,Mineral,material/clay/porcelain,30dfb057-9dd7-3e8a-9c8f-464a566be445
+mineral,kg,Mineral,waste/gypsum/powder,07e9830b-077b-3798-9331-6cab4be63fbf
+mineral,kg,Mineral,waste/gypsum/raw,f2709f25-4a12-3257-b627-965de11b4775
+mineral,kg,Mineral,waste/rock/marble,3f9ae746-d826-3601-bf13-c624c761e9d9
+mineral,kg,Mineral,waste/clay/terracotta-earthenware,5428ab38-e150-3bdc-b67d-356469fbcdf7
+mineral,kg,Mineral,waste/clay/porcelain,0db5297d-c5c9-3d32-b550-da3810a4a3e2
+other petroleum products,kg,Other petroleum products,material/asphalt/hot mix,c3b493bb-ee59-3c4f-8783-214cd52c641b
+other petroleum products,kg,Other petroleum products,material/asphalt/cold mix,fa18c7d4-2270-3693-b0e6-5230a6b263ad
+other petroleum products,kg,Other petroleum products,material/solvent/organic,bc934ec9-599e-3ed3-904c-ca7d2dc677c9
+other petroleum products,kg,Other petroleum products,material/solvent/inorganic,6461676d-8823-356d-b201-aca24676be01
+other petroleum products,kg,Other petroleum products,material/solvent/mixed,c7cafbfa-9f13-382f-b103-ae6d82c7b7cc
+other petroleum products,kg,Other petroleum products,material/paint/acrylic,f4543b71-092e-36bd-b390-08d52dc53515
+other petroleum products,kg,Other petroleum products,material/paint/oil-based,5fc33529-863c-3cbc-bb12-5bf7a31c42ee
+other petroleum products,kg,Other petroleum products,material/oil/heavy,7d0aa115-fbfa-36e7-88d8-907af7de2da3
+other petroleum products,kg,Other petroleum products,material/oil/light,f67a1fdb-caf9-3cbf-9eac-072f16f6b52e
+other petroleum products,kg,Other petroleum products,material/oil/mixed,6129ebae-205c-3ceb-a965-40265ff2c965
+other petroleum products,kg,Other petroleum products,material/grease/fluid,4078c781-4d09-30ad-8ac9-dbabac8eb570
+other petroleum products,kg,Other petroleum products,material/grease/soft,da7b5eae-41c1-39f1-a9c7-37341f8a8907
+other petroleum products,kg,Other petroleum products,material/grease/stiff,159aae2e-da71-37df-a4cb-647d62af3aa8
+other petroleum products,kg,Other petroleum products,material/grease/mixed,084656ef-be53-3217-844f-f091460c0f8a
+other petroleum products,kg,Other petroleum products,waste/asphalt/hot mix,ef4cddb6-8a40-3be4-93d5-9d584bd0b341
+other petroleum products,kg,Other petroleum products,waste/asphalt/cold mix,5884d58d-fa01-3991-9783-5f49c5808319
+other petroleum products,kg,Other petroleum products,waste/solvent/organic,e6f3582c-da33-39a6-8977-6fa6f82ac2eb
+other petroleum products,kg,Other petroleum products,waste/solvent/inorganic,e4337238-6d3e-39e1-9222-a00a49309a3a
+other petroleum products,kg,Other petroleum products,waste/solvent/mixed,6458358b-437e-3cd8-95e8-11106c0d46bf
+other petroleum products,kg,Other petroleum products,waste/paint/acrylic,656ec062-df18-3d51-b300-566a11f98e98
+other petroleum products,kg,Other petroleum products,waste/paint/oil-based,b375d6f4-614b-3a99-8f13-029128219cf6
+other petroleum products,kg,Other petroleum products,waste/oil/heavy,a36a2682-4228-3ce2-a54c-c14513181288
+other petroleum products,kg,Other petroleum products,waste/oil/light,31cd055c-6b54-32ee-b266-8e88fe09dc83
+other petroleum products,kg,Other petroleum products,waste/oil/mixed,3967cff5-3fe8-3130-8533-56c5d15f18fc
+other petroleum products,kg,Other petroleum products,waste/grease/fluid,27f62b8a-1c74-338d-8594-741c2da6e1ed
+other petroleum products,kg,Other petroleum products,waste/grease/soft,adca8f66-c5a6-3e22-af53-fdd22dce9c17
+other petroleum products,kg,Other petroleum products,waste/grease/stiff,e4493fd8-ffbf-3987-a640-2316c941c187
+other petroleum products,kg,Other petroleum products,waste/grease/mixed,e28d6120-ba89-3283-b1eb-2cac8ca6aa8a
 paper,kg,Paper,material/paper/white,0a7e1dba-a919-35ae-abcb-c727170287b4
 paper,kg,Paper,material/paper/mixed,4a223e09-3099-31b6-8585-aa7f9f437454
 paper,kg,Paper,material/paper/glossy,e64136f9-2d8e-38b3-8cf0-506bac7946a9
@@ -1393,6 +1585,20 @@ wood,kg,Wood,waste/wood/mixed,be7fc0d0-c9a5-35da-abf1-4c38e87b8da7
 wood,kg,Wood,waste/engineered/oriented strand board,306db808-717b-30f4-9e24-9fb20bc1d364
 wood,kg,Wood,waste/engineered/plywood,ef4be06a-6830-3164-a983-98316416e8ce
 wood,kg,Wood,waste/engineered/composite,a53b8800-e082-3918-94cf-f37a1f507025
+energy,kg,Energy,material/generation/onsite,1666a81b-f2d6-3bb1-a588-c266323746d4
+energy,kg,Energy,material/generation/offsite,80b8c586-8a16-3cb5-84e9-a1d1be1cf3f3
+energy,kg,Energy,material/transmission/grid,a46020eb-6f7b-34e8-a010-3664bfb811c2
+energy,kg,Energy,material/distribution/industrial,c62a41cd-381b-353d-98c8-f9f699ca5024
+energy,kg,Energy,material/distribution/commercial,4d7706aa-ff35-36cb-88d0-c923b0978962
+energy,kg,Energy,material/distribution/resiential,5ae414fe-4e5e-3ea1-9c44-37dad4715932
+energy,kg,Energy,material/distribution/onsite,1ef50837-80b4-32f6-b6ae-881104ef28ce
+energy,kg,Energy,waste/generation/onsite,0b7fe592-c8b2-38ad-845b-278f4fd1c094
+energy,kg,Energy,waste/generation/offsite,ed600a78-464a-3a1c-a8fc-f8b6c797aa35
+energy,kg,Energy,waste/transmission/grid,f4a08337-81fe-351b-b9f5-e5bcee5e120b
+energy,kg,Energy,waste/distribution/industrial,6f143113-b14a-35d9-a6bd-24e380ec4dc9
+energy,kg,Energy,waste/distribution/commercial,9f16a3bb-ee9d-3908-ad21-20e04e5ebcb9
+energy,kg,Energy,waste/distribution/resiential,82acdbd6-6d20-3c80-9920-371dc5d6fe0e
+energy,kg,Energy,waste/distribution/onsite,7e0c5752-501f-33b0-b724-2c2af761233e
 brick,kg,Aggregate,product/concrete,cb7850e8-4b09-3196-83f1-94d5aaca8db7
 brick,kg,Aggregate,waste/concrete,1fd393b8-199e-3446-83a0-71155e7f7e6b
 pavement,kg,Aggregate,product/concrete,def52cbc-f306-3636-815a-e5da41981168
@@ -1525,6 +1731,66 @@ furniture,kg,Metal,product/precious,f2e2dbe1-1d58-3cd6-81f6-47fe3746c382
 furniture,kg,Metal,waste/precious,3cd658e3-1f3c-344f-a059-9c2f07cb7743
 wire,kg,Metal,product/precious,835e54c0-b10a-30c9-adee-a98858068499
 wire,kg,Metal,waste/precious,e9ed2fd5-e337-3126-8a1c-0b43ac49d7f1
+brick,kg,Mineral,product/clay,7c9b51e3-055b-3034-b1ac-e4582de2198c
+brick,kg,Mineral,waste/clay,5896582d-5409-3734-8884-4b5f341750e6
+coating,kg,Mineral,product/clay,1ead0b11-779f-3d34-b9e9-c3cd3928e9c7
+coating,kg,Mineral,waste/clay,fc144e95-47e3-3b8b-83c3-f68b38f5f9dc
+container,kg,Mineral,product/clay,1babfaaf-bd89-300f-a2c9-3bd1750a8ff2
+container,kg,Mineral,waste/clay,efe71b8c-9e79-31b4-856e-bd3977e413b0
+dinnerware,kg,Mineral,product/clay,55c77744-6b3b-3204-9e68-d1e1168e8e42
+dinnerware,kg,Mineral,waste/clay,1e33c70a-9c71-3efe-a156-809b989f0548
+durable good,kg,Mineral,product/clay,9f1cf08d-7986-322b-9f60-3f533b4f8efe
+durable good,kg,Mineral,waste/clay,71fe287c-71a2-3130-841d-92c310a91413
+flooring,kg,Mineral,product/clay,3a69cdb3-77b4-3608-ac57-dc9c1f54a2ee
+flooring,kg,Mineral,waste/clay,cc22a1cd-fbe9-3bb7-85f9-61c2a0b60c0b
+insulator,kg,Mineral,product/clay,500ae8e7-b39b-3d32-8831-62508173be8f
+insulator,kg,Mineral,waste/clay,a7a96d5b-d598-3cbf-ba09-48b47f3c6df5
+nondurable good,kg,Mineral,product/clay,590d3a95-0300-3f22-9bb7-4e7e3c5fe73e
+nondurable good,kg,Mineral,waste/clay,30877657-18e2-3f1d-9c84-7203065d3e27
+pavement,kg,Mineral,product/clay,e22d6ac2-09b1-34b3-bd73-7f65431fa9bf
+pavement,kg,Mineral,waste/clay,6be29785-0bc3-3046-a8f9-2b82f57bf9e5
+pipe,kg,Mineral,product/clay,8c93f2d2-141c-33d5-9bb2-60589e6f801a
+pipe,kg,Mineral,waste/clay,0d0c1f2d-ca95-30f3-aa51-e5dd54e7d988
+plaster,kg,Mineral,product/clay,c236b393-1a6b-39d0-82db-33cea54bd4a6
+plaster,kg,Mineral,waste/clay,97195eda-e620-37a2-9843-cf29c25d1196
+pottery,kg,Mineral,product/clay,e239f163-b98f-3c75-b9d4-e14070e3f91b
+pottery,kg,Mineral,waste/clay,fb6ee084-7e3f-329e-b277-d0416d73328c
+roofing,kg,Mineral,product/clay,ec8de9f3-381e-33ff-842d-9c21b5498b27
+roofing,kg,Mineral,waste/clay,faf0e17a-e640-3697-a5ac-832f79290a31
+clay additive,kg,Mineral,product/gypsum,74673bdb-91d0-359d-b3a6-2362d8afa297
+clay additive,kg,Mineral,waste/gypsum,c65634a8-2e38-3189-98b5-e6c4fb618eab
+drywall,kg,Mineral,product/gypsum,65e71406-16ce-325b-bbf0-352618ff0777
+drywall,kg,Mineral,waste/gypsum,5eff16d9-2662-345c-ac35-7ad926c4e173
+durable good,kg,Mineral,product/gypsum,a1b24417-cd97-38c1-a218-f1bff7a21caa
+durable good,kg,Mineral,waste/gypsum,5b6166f7-6921-31ee-8f69-66e0041b946c
+food additive,kg,Mineral,product/gypsum,fcc5ad33-c260-3851-bf67-bb6ab9cfe97e
+food additive,kg,Mineral,waste/gypsum,3affbfd6-ec5c-3c57-b538-042158e04ddb
+nondurable good,kg,Mineral,product/gypsum,0d72c3f1-a2d9-3f1d-9acc-41627e71876b
+nondurable good,kg,Mineral,waste/gypsum,f201dae7-b217-3626-9772-49dc9be35f84
+pavement,kg,Mineral,product/gypsum,a48ab8d0-0eb4-318d-9b55-c8a38f6e0d73
+pavement,kg,Mineral,waste/gypsum,99272d91-8f94-3f88-885c-7a5c089b8501
+plaster,kg,Mineral,product/gypsum,3c9b233e-2d52-3804-bcf2-0da9f996a410
+plaster,kg,Mineral,waste/gypsum,0bcebe0f-7bad-3ae1-b036-d8baaaae036c
+soil amendment,kg,Mineral,product/gypsum,48ba4d20-5de4-33f2-a70d-2a680d1cba2f
+soil amendment,kg,Mineral,waste/gypsum,b5b89b16-4939-3d68-8c22-d2f6eee19f5c
+structural component,kg,Mineral,product/gypsum,6ae7978e-b433-3c5b-a873-e32af1c6dc82
+structural component,kg,Mineral,waste/gypsum,4a188cd8-9127-395d-95c7-baaf6b13f738
+interior surface,kg,Mineral,product/rock,969fd70d-edb2-3b52-a19a-1176b5ab8876
+interior surface,kg,Mineral,waste/rock,1226e166-98bc-37ee-be16-951e408f46fe
+statue,kg,Mineral,product/rock,89a4b862-124b-3068-9942-2bb38da323b6
+statue,kg,Mineral,waste/rock,fdb4dd5d-061c-33f1-bbc3-b26f970bf2e9
+coating,kg,Other petroleum products,product/paint,0e5cfaed-45a4-35c8-99c7-4bf0f7576f6d
+coating,kg,Other petroleum products,waste/paint,587d6392-b4f4-360c-bdd9-df870e3eedc0
+coating,kg,Other petroleum products,product/oil,e0f014ec-d04a-3d5e-b5bc-b5eb94b31c2d
+coating,kg,Other petroleum products,waste/oil,d47546d1-6a45-305c-a538-8c1038fd7653
+coating,kg,Other petroleum products,product/grease,a40cb55c-6bcd-375a-9f7d-4d20221baa87
+coating,kg,Other petroleum products,waste/grease,503ddb95-3177-36b6-8b2d-1ae221551b3f
+nondurable good,kg,Other petroleum products,product/solvent,fc65c2b5-a7d6-379c-bc0d-ed7a9e90069e
+nondurable good,kg,Other petroleum products,waste/solvent,fed9a633-a450-3242-844e-a63fe664bc0a
+pavement,kg,Other petroleum products,product/asphalt,3205662d-26c1-38d2-83ff-b9782242181f
+pavement,kg,Other petroleum products,waste/asphalt,1519208b-3b4a-3568-b74b-fba02faf904f
+roofing,kg,Other petroleum products,product/asphalt,e18c63d4-a1c8-3ac0-a802-16002c6c8b56
+roofing,kg,Other petroleum products,waste/asphalt,9f6d0582-6553-3b66-8c8e-3eebc6aa244c
 aseptic carton,kg,Paper,product/paperboard,debddaea-9597-307c-b864-bc0473cd829c
 aseptic carton,kg,Paper,waste/paperboard,a13b083c-0c1d-3287-b5a4-2360a2a93751
 container,kg,Paper,product/paperboard,fdcf3a87-b819-34ba-b2dc-65dae2f1c0cb
@@ -1705,6 +1971,18 @@ sawdust,kg,Wood,product/wood,5ce78c2b-fc1f-3279-af56-515bea2cc3a2
 sawdust,kg,Wood,waste/wood,f2e477e1-16f5-3d9a-8cba-fa882aefac9e
 fertilizer,kg,Wood,product/ash,5a58463b-4db3-30bc-9c7f-fbc4cf9a6e81
 fertilizer,kg,Wood,waste/ash,d953ed82-2d9f-3068-b60f-e64359d2d859
+electricity, kWh,Energy,product/generation,9d1b8ae9-ec71-3dc2-bdaa-370c06b01b15
+electricity, kWh,Energy,waste/generation,8fc76142-933e-3478-89ad-790cebb570a0
+steam, m3,Energy,product/generation,787a1d21-fd3f-300e-9ebd-967c6ac4aba1
+steam, m3,Energy,waste/generation,ede29316-759a-343a-bafe-0a75f6af3830
+heat, MJ,Energy,product/generation,7a135497-b117-3ceb-99ca-6fb9411c3e9d
+heat, MJ,Energy,waste/generation,a12ae0e7-597f-30b1-b6bd-09c9c172ebd4
+electricity, kWh,Energy,product/transmission,0a52a7ea-1db8-3ace-ac0f-2212485f758f
+electricity, kWh,Energy,waste/transmission,329254a0-86c1-3d28-84ed-3080bb4880dd
+electricity, kWh,Energy,product/distribution,69cd319f-de94-327b-8489-28d4fecc0f20
+electricity, kWh,Energy,waste/distribution,e89798c0-1e99-3bce-afa4-a6d8f370c688
+heat, MJ,Energy,product/distribution,6424586b-d32b-329c-9d4a-2354ec20a10b
+heat, MJ,Energy,waste/distribution,f6db3e5e-a67e-365f-8346-7c62201d2a72
 aggregate,kg,Aggregate,material/ash,465765ea-dd45-364d-a2d5-9ea28e7c19ca
 aggregate,kg,Aggregate,material/stone,57b09207-ae71-30d8-97a1-09b7d46dae76
 aggregate,kg,Aggregate,material/gravel,3df1e469-ded0-343f-80b5-acd37b199974
@@ -1735,6 +2013,22 @@ metal,kg,Metal,waste/aluminum,b9989412-3d91-3782-91d5-e800b864264b
 metal,kg,Metal,waste/copper,61d0011d-4935-309d-abaa-b9ddf44fb549
 metal,kg,Metal,waste/precious,fb170f6a-bbb6-36e5-a283-c4b3b3ac6c02
 metal,kg,Metal,waste/heavy,fd9911b8-5591-36cc-a9b6-7aba13fa039c
+mineral,kg,Mineral,material/gypsum,e230eb4e-ebaa-376e-9f20-e09bbbd0b220
+mineral,kg,Mineral,material/rock,bb2c753a-7e48-3bb1-9330-5306529c6c13
+mineral,kg,Mineral,material/clay,455a9e52-9c0f-3019-9e5b-e71d8430c568
+mineral,kg,Mineral,waste/gypsum,8bd4e0ab-f2e0-396b-be07-7ddeac208baa
+mineral,kg,Mineral,waste/rock,9d740e1e-e2ca-3f09-ad20-fbb243b6c67e
+mineral,kg,Mineral,waste/clay,2aaf2389-9dba-34db-890f-bd6031a2cd72
+other petroleum products,kg,Other petroleum products,material/asphalt,e35338b3-9975-3ba2-ab91-249c9798f4ad
+other petroleum products,kg,Other petroleum products,material/solvent,6f6a2c0c-6127-348b-beec-c7a12591d3fa
+other petroleum products,kg,Other petroleum products,material/paint,efd23994-4d5e-3a59-8bf7-94183337a602
+other petroleum products,kg,Other petroleum products,material/oil,1d341f13-0bb9-3ef9-9c46-f2f617c3d2a4
+other petroleum products,kg,Other petroleum products,material/grease,30209858-059b-32bc-b1d8-cc68046597eb
+other petroleum products,kg,Other petroleum products,waste/asphalt,502c3d3f-ee22-3ae1-a989-d74ee4a76b4e
+other petroleum products,kg,Other petroleum products,waste/solvent,682d8972-244c-3cd2-a8d0-db38d3f3dd52
+other petroleum products,kg,Other petroleum products,waste/paint,affc81fc-f701-3f96-91ef-dcccf02140ed
+other petroleum products,kg,Other petroleum products,waste/oil,2146ecb1-186e-3b35-8c35-f47394d24b90
+other petroleum products,kg,Other petroleum products,waste/grease,72f5d557-3c06-3d65-82e7-08df094a642f
 paper,kg,Paper,material/paper,2bccddae-5eca-3757-b2e9-8c6dc267b357
 paper,kg,Paper,material/paperboard,fa958ef9-3efa-3676-9da9-3f2e0eaf8ca9
 paper,kg,Paper,waste/paper,c452a608-ae60-3f14-a8f1-e1ba68fcffb6
@@ -1765,3 +2059,9 @@ wood,kg,Wood,waste/solid,45a9753d-9789-3ba4-b77a-c7d1098552dc
 wood,kg,Wood,waste/ash,0e651272-31cb-3c92-a29d-0ce95f72cff3
 wood,kg,Wood,waste/wood,d6622cec-3a8b-3645-91ec-e985a165ed79
 wood,kg,Wood,waste/engineered,e9c7b732-c363-39ca-882f-5f372336878e
+energy,kg,Energy,material/generation,b3f7e59e-7753-320b-8dbc-892d3e3ece5e
+energy,kg,Energy,material/transmission,412241df-8766-3813-b8e0-edc8aac9e725
+energy,kg,Energy,material/distribution,4302ae10-8c91-34aa-a0ef-bc908f3345f1
+energy,kg,Energy,waste/generation,605c36ee-0dd0-3b55-b67f-a5dbc17afe59
+energy,kg,Energy,waste/transmission,14ff9178-9ca6-3a87-95f3-58aca3b0ab5a
+energy,kg,Energy,waste/distribution,e7b170c6-a819-313b-9156-9a28614b9e59
