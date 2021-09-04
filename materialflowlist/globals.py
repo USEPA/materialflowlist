@@ -3,6 +3,7 @@ import sys
 import os
 import logging as log
 
+
 try:
     modulepath = os.path.dirname(os.path.realpath(__file__)).replace('\\', '/') + '/'
 except NameError:
@@ -19,6 +20,22 @@ flow_list_fields = {'Flowable': [{'dtype': 'str'}, {'required': True}],
                     'Flow UUID': [{'dtype': 'str'}, {'required': True}],
                     }
 
+flowmapping_fields = {'SourceListName': [{'dtype': 'str'}, {'required': True}],
+                      'SourceFlowName': [{'dtype': 'str'}, {'required': True}],
+                      'SourceFlowUUID': [{'dtype': 'str'}, {'required': False}],
+                      'SourceFlowContext': [{'dtype': 'str'}, {'required': True}],
+                      'SourceUnit': [{'dtype': 'str'}, {'required': True}],
+                      'MatchCondition': [{'dtype': 'str'}, {'required': False}],
+                      'ConversionFactor': [{'dtype': 'float'}, {'required': False}],
+                      'TargetFlowName': [{'dtype': 'str'}, {'required': True}],
+                      'TargetFlowClass': [{'dtype': 'str'}, {'required': True}],
+                      'TargetFlowContext': [{'dtype': 'str'}, {'required': True}],
+                      'TargetUnit': [{'dtype': 'str'}, {'required': True}],
+                      'TargetFlowUUID': [{'dtype': 'str'}, {'required': True}],
+                      'Mapper': [{'dtype': 'str'}, {'required': False}],
+                      'Verifier': [{'dtype': 'str'}, {'required': False}],
+                      'LastUpdated': [{'dtype': 'str'}, {'required': False}]}
+
 log.basicConfig(level=log.DEBUG, format='%(levelname)s %(message)s',
                 stream=sys.stdout)
 
@@ -30,4 +47,5 @@ flow_list_specs = {
     "secondary_context_classes": ["SecondaryContext"],
     "detail_context_classes": ["ContextDetail"]
 }
+
 
