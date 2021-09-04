@@ -13,11 +13,11 @@ CalRecycle,Remainder/Composite Paper - Other,,,tons,,907.185,paper,Paper,materia
 CalRecycle,Clear Glass Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/clear,kg,,Edelen,Young,9/2/2021
 CalRecycle,Green Glass Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/green,kg,,Edelen,Young,9/2/2021
 CalRecycle,Brown Glass Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/brown,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Glass Colored Bottles and Containers,,,tons,,907.185,container,Glass,produt/glass/mixed,kg,,Edelen,Young,9/2/2021
+CalRecycle,Other Glass Colored Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/mixed,kg,,Edelen,Young,9/2/2021
 CalRecycle,Flat Glass,,,tons,,907.185,glass,Glass,material/glass,kg,,Edelen,Young,9/2/2021
 CalRecycle,Remainder/Composite Glass,,,tons,,907.185,glass,Glass,material/glass/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Tin/Steel Cans,,,tons,,907.185,can,Metal,produt/ferrous/alloy steel,kg,,Edelen,Young,9/2/2021
-CalRecycle,Major Appliances,,,tons,,453.5925,durable good,Metal,product/metal/mixed ,kg,,Edelen,Young,9/2/2021
+CalRecycle,Tin/Steel Cans,,,tons,,907.185,can,Metal,product/ferrous/alloy steel,kg,,Edelen,Young,9/2/2021
+CalRecycle,Major Appliances,,,tons,,453.5925,durable good,Metal,product/metal/mixed,kg,,Edelen,Young,9/2/2021
 CalRecycle,Major Appliances,,,tons,,453.5925,durable good,Plastic,product/plastic/mixed,kg,,Edelen,Young,9/2/2021
 CalRecycle,Used Oil Filters,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/oil,kg,,Edelen,Young,9/2/2021
 CalRecycle,Other Ferrous,,,tons,,907.185,metal,Metal,material/ferrous,kg,,Edelen,Young,9/2/2021
@@ -45,14 +45,14 @@ CalRecycle,Non-Bag Commercial and Industrial Packaging Film,,,tons,,907.185,film
 CalRecycle,Film Products,,,tons,,907.185,film,Plastic,product/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
 CalRecycle,Other Film - Other,,,tons,,907.185,film,Plastic,product/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
 CalRecycle,Durable Plastic Items - Number 2 and 5 Bulky Rigids,,,tons,,453.5925,durable good,Plastic,product/thermoplastic/polypropylene,kg,,Edelen,Young,9/2/2021
-CalRecycle,Durable Plastic Items - Number 2 and 5 Bulky Rigids,,,tons,,453.5925,durable good,Plastic,product/thermoplastic polyethylene,kg,,Edelen,Young,9/2/2021
+CalRecycle,Durable Plastic Items - Number 2 and 5 Bulky Rigids,,,tons,,453.5925,durable good,Plastic,product/thermoplastic/polyethylene,kg,,Edelen,Young,9/2/2021
 CalRecycle,Durable Plastic Items - Other,,,tons,,907.185,durable good,Plastic,product/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
 CalRecycle,Remainder/Composite Plastics,,,tons,,907.185,plastic,Plastic,material/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
 CalRecycle,Food,,,tons,,453.5925,food,Biomass,product/livestock,kg,,Edelen,Young,9/2/2021
 CalRecycle,Food,,,tons,,453.5925,food,Biomass,product/crop,kg,,Edelen,Young,9/2/2021
-CalRecycle,Leaves and Grass,,,tons,,907.185,trimming,Biomass,product/greenwaste,kg,,Edelen,Young,9/2/2021
-CalRecycle,Prunings and Trimmings,,,tons,,907.185,trimming,Biomass,product/greenwaste,kg,,Edelen,Young,9/2/2021
-CalRecycle,Branches and Stumps,,,tons,,907.185,trimming,Biomass,product/greenwaste,kg,,Edelen,Young,9/2/2021
+CalRecycle,Leaves and Grass,,,tons,,907.185,trimming,Biomass,product/green waste,kg,,Edelen,Young,9/2/2021
+CalRecycle,Prunings and Trimmings,,,tons,,907.185,trimming,Biomass,product/green waste,kg,,Edelen,Young,9/2/2021
+CalRecycle,Branches and Stumps,,,tons,,907.185,trimming,Biomass,product/green waste,kg,,Edelen,Young,9/2/2021
 CalRecycle,Manures,,,tons,,907.185,manure,Biomass,product/livestock/mixed,kg,,Edelen,Young,9/2/2021
 CalRecycle,Textiles,,,tons,,907.185,textile,Textile,material/fiber,kg,,Edelen,Young,9/2/2021
 CalRecycle,Carpet,,,tons,,907.185,carpet,Textile,product/fiber,kg,,Edelen,Young,9/2/2021
@@ -62,12 +62,12 @@ CalRecycle,Asphalt Paving,,,tons,,907.185,pavement,Other Petroleum Products,prod
 CalRecycle,Asphalt Roofing,,,tons,,907.185,roofing,Other Petroleum Products,product/asphalt,kg,,Edelen,Young,9/2/2021
 CalRecycle,Clean Dimensional Lumber,,,tons,,907.185,lumber,Wood,product/solid,kg,,Edelen,Young,9/2/2021
 CalRecycle,Clean Engineered Wood,,,tons,,907.185,wood,Wood,material/engineered,kg,,Edelen,Young,9/2/2021
-CalRecycle,Clean Pallets & Crates,,,tons,,907.185,pallet,Wood,product/composite,kg,,Edelen,Young,9/2/2021
+CalRecycle,Clean Pallets & Crates,,,tons,,907.185,pallet,Wood,product/engineered/composite,kg,,Edelen,Young,9/2/2021
 CalRecycle,Other Wood Waste,,,tons,,907.185,wood,Wood,waste/wood,kg,,Edelen,Young,9/2/2021
 CalRecycle,Gypsum Board,,,tons,,907.185,drywall,Mineral,product/gypsum,kg,,Edelen,Young,9/2/2021
 CalRecycle,"Rock, Soil, and Fines",,,tons,,453.5925,aggregate,Aggregate,material/soil,kg,,Edelen,Young,9/2/2021
 CalRecycle,"Rock, Soil, and Fines",,,tons,,453.5925,aggregate,Aggregate,material/gravel,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Inerts and Others,,,tons,,907.185,aggregate,Aggregate,material/mix,kg,,Edelen,Young,9/2/2021
+CalRecycle,Remainder/Composite Inerts and Others,,,tons,,,,,,,,,,
 CalRecycle,Paint,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/paint,kg,,Edelen,Young,9/2/2021
 CalRecycle,Vehicle and Equipment Fluids,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/oil,kg,,Edelen,Young,9/2/2021
 CalRecycle,Used Oil,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/oil,kg,,Edelen,Young,9/2/2021
@@ -78,6 +78,6 @@ CalRecycle,Remainder/Composite Household Hazardous,,,tons,,,,,,,,,,
 CalRecycle,Ash,,,tons,,907.185,aggregate,Aggregate,material/ash,kg,,Edelen,Young,9/2/2021
 CalRecycle,Treated Medical Waste,,,tons,,907.185,medical good,Plastic,waste/plastic,kg,,Edelen,Young,9/2/2021
 CalRecycle,Bulky Items,,,tons,,,,,,,,,,
-CalRecycle,Tires,,,tons,,907.185,tire,Plastic,product/thermoset ,kg,,Edelen,Young,9/2/2021
+CalRecycle,Tires,,,tons,,907.185,tire,Plastic,product/thermoset,kg,,Edelen,Young,9/2/2021
 CalRecycle,Remainder/Composite Special Waste,,,tons,,,,,,,,,,
 CalRecycle,Mixed Residue,,,tons,,,,,,,,,,
