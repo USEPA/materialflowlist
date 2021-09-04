@@ -31,16 +31,3 @@ flow_list_specs = {
     "detail_context_classes": ["ContextDetail"]
 }
 
-def as_path(*args: str) -> str:
-    """
-    Converts strings to lowercase path-like string
-    Take variable order of string inputs
-    :param args: variable-length of strings
-    :return: string
-    """
-    strings = []
-    for arg in args:
-        if arg is None:
-            continue
-        strings.append(str(arg).strip().lower())
-    return "/".join(strings)
