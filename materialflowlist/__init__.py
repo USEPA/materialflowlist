@@ -13,7 +13,7 @@ def get_flows(preferred_only=None):
     :param preferred_only:
     :return: standard Flow List dataframe
     """
-    list_file = outputpath + 'MaterialFlowList.parquet'
+    list_file = outputpath + 'MaterialFlowListMaster.parquet'
     flows = pd.read_parquet(list_file)
     if preferred_only:
         flows = flows[flows['Preferred'] == 1]
@@ -48,14 +48,3 @@ def get_flowmapping(source=None):
                 flowmappings = pd.concat([flowmappings, flowmapping])
     return flowmappings
 
-#def write_jsonld(flows, path, mappings=None):
-    """ Writes a standard openLCA JSON-LD zip archive with elementary flows and optionally
-     flowmappings
-
-    :param flows: standard pd Flow List dataframe, generally from get_flows()
-    :param path: path and filename with .zip extention, e.g. 'c:users/mai/fedcommonsflows.zip'
-    :param mappings: standard pd Flow Mapping dataframe , generally from get_flowmapping()
-    :return: writes out .zip file
-    """
-    #writer = jsonld.Writer(flow_list=flows, flow_mapping=mappings)
-    #writer.write_to(path)
