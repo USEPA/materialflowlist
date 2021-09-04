@@ -6,7 +6,7 @@ As a pandas dataframe from input files. Write it to the output folder.
 import pandas as pd
 from materialflowlist.globals import log, inputpath, outputpath, flow_list_specs, flow_list_fields
 from materialflowlist.contexts import contexts
-from materialflowlist.uuid_generators import make_uuid
+from fedelemflowlist.uuid_generators import make_uuid
 
 def read_in_flowclass_file(flowclass):
     flowclassfile = pd.read_csv(inputpath + flowclass + '.csv', header=0, dtype=None)

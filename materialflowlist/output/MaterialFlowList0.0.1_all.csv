@@ -845,7 +845,7 @@ bag,kg,Plastic,product/thermoplastic/acrylic,013c372f-dbf1-35f8-8ca4-602994fef60
 bag,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,27b06eb0-10f6-328a-9625-3bca8e8cb3d0
 bag,kg,Plastic,product/thermoplastic/nylon,bf7cf183-2031-326e-8385-7fdedc4cb528
 bag,kg,Plastic,product/thermoplastic/polycarbonate,61751f59-2760-30e2-9d7e-636aa70b9109
-bag,kg,Plastic,product/thermoplastic/polyethelene,d47247e3-d120-3ab0-9ac5-6309fcf07fb7
+bag,kg,Plastic,product/thermoplastic/polyethylene,c4ab3f94-c171-3d91-89b3-012a4a8e6808
 bag,kg,Plastic,product/thermoplastic/polyethylene terephthalate,10bafd3b-a116-3c65-a443-dc761c766ade
 bag,kg,Plastic,product/thermoplastic/polystyrene,95dc5be9-a62a-338b-81b9-b74b45699e66
 bag,kg,Plastic,product/thermoplastic/polypropylene,de96469f-24a9-3bd3-9452-02a466270909
@@ -855,7 +855,7 @@ bag,kg,Plastic,waste/thermoplastic/acrylic,f78afa7c-176b-3297-aa81-e8a76dc8aed6
 bag,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,37d55f19-70d6-39a1-a1ff-3097115d86f2
 bag,kg,Plastic,waste/thermoplastic/nylon,372b3f81-e176-3e5b-9755-a99d90b15f2b
 bag,kg,Plastic,waste/thermoplastic/polycarbonate,9713238d-9f79-353d-b120-2f0e4f24d1b9
-bag,kg,Plastic,waste/thermoplastic/polyethelene,3c397e8e-3678-386a-b65b-ee1956a5d330
+bag,kg,Plastic,waste/thermoplastic/polyethylene,5ff3dd28-862a-3abb-9409-14294de7fb6c
 bag,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,69282213-e211-369e-b0d7-a3823a85ab5a
 bag,kg,Plastic,waste/thermoplastic/polystyrene,7c2e372e-1b61-3fe6-9721-339344a1a193
 bag,kg,Plastic,waste/thermoplastic/polypropylene,7dcb7125-12b1-388a-a62f-98d5cc489a0e
@@ -865,7 +865,7 @@ battery,kg,Plastic,product/thermoplastic/acrylic,8b9d0385-1573-3a6f-b4b5-c429c56
 battery,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,f84f03ac-6453-382d-acce-a8de5a7bdb3a
 battery,kg,Plastic,product/thermoplastic/nylon,8c9c60b2-cf08-38ff-b539-988a9dc451b1
 battery,kg,Plastic,product/thermoplastic/polycarbonate,ef41c570-99a1-3874-9204-b050225ffea0
-battery,kg,Plastic,product/thermoplastic/polyethelene,391c22b4-8a01-328d-bf36-1acf6896b8ce
+battery,kg,Plastic,product/thermoplastic/polyethylene,20bd1b49-f9a1-302d-910c-87857eb75cf8
 battery,kg,Plastic,product/thermoplastic/polyethylene terephthalate,5257be87-879b-3374-9d57-c18cb9ca51f1
 battery,kg,Plastic,product/thermoplastic/polystyrene,3886415d-5766-3eff-9c5d-ef333a290962
 battery,kg,Plastic,product/thermoplastic/polypropylene,e46d41b3-d561-3d73-bb1d-a42a7ba702db
@@ -875,7 +875,7 @@ battery,kg,Plastic,waste/thermoplastic/acrylic,41faf47b-72b3-3177-be79-2f76fa097
 battery,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,cea300f4-a3ad-3264-81b2-fd2f47102b65
 battery,kg,Plastic,waste/thermoplastic/nylon,ec53d270-6d51-34e6-bb3a-d01e7f05696f
 battery,kg,Plastic,waste/thermoplastic/polycarbonate,34f25d3d-845b-3faf-bbb7-23a064f0d365
-battery,kg,Plastic,waste/thermoplastic/polyethelene,39b8b833-92b7-35a0-96fe-118205742288
+battery,kg,Plastic,waste/thermoplastic/polyethylene,1542737e-d579-3118-a238-605336950711
 battery,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,182d56f8-5992-370b-ad46-a59558bad410
 battery,kg,Plastic,waste/thermoplastic/polystyrene,2ba2f48a-95a5-36a1-891f-5746d6e46c8c
 battery,kg,Plastic,waste/thermoplastic/polypropylene,ed787ffc-2bde-3b9a-9a6f-cb765499d267
@@ -885,7 +885,7 @@ bottle,kg,Plastic,product/thermoplastic/acrylic,d099b470-ae84-30e2-8766-adaf86d2
 bottle,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,bcf0d22f-6c47-3a32-9d3a-7fafa8f5e6a0
 bottle,kg,Plastic,product/thermoplastic/nylon,c09df457-586d-3e2e-90fd-7687c63e60d5
 bottle,kg,Plastic,product/thermoplastic/polycarbonate,f7c0ad37-63a3-3dae-96c6-dab963fbe539
-bottle,kg,Plastic,product/thermoplastic/polyethelene,3697a517-28ca-3f1d-ac5c-8bd68d30bd9c
+bottle,kg,Plastic,product/thermoplastic/polyethylene,8f90a38f-2d47-3164-acb3-fc39d22febe2
 bottle,kg,Plastic,product/thermoplastic/polyethylene terephthalate,ef9ddb8d-0f82-3536-98e6-5bb1ed8058ea
 bottle,kg,Plastic,product/thermoplastic/polystyrene,e9d25049-9a5b-32d6-a2d8-1e8f8aa20fb7
 bottle,kg,Plastic,product/thermoplastic/polypropylene,8f776f94-9a02-315a-ae33-4c05ba43e604
@@ -895,7 +895,7 @@ bottle,kg,Plastic,waste/thermoplastic/acrylic,8de42b9d-b413-3593-9bb4-4992d2ac6e
 bottle,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,39fda411-42d7-3089-99c5-ce4cc72a8cbb
 bottle,kg,Plastic,waste/thermoplastic/nylon,9bdbeacc-3a59-3a06-90dc-a89eefdfae0e
 bottle,kg,Plastic,waste/thermoplastic/polycarbonate,6b2e69af-e27e-3207-8fbc-bb6fbe4ea08a
-bottle,kg,Plastic,waste/thermoplastic/polyethelene,75e14560-2d8d-3132-9429-66de03439c91
+bottle,kg,Plastic,waste/thermoplastic/polyethylene,152a2cec-6512-3b68-8043-9e2ed9d69e61
 bottle,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,70c0350e-3ad1-3d5f-803e-ca4f33121a0a
 bottle,kg,Plastic,waste/thermoplastic/polystyrene,984f029c-9f49-30de-8947-16f89b3169ed
 bottle,kg,Plastic,waste/thermoplastic/polypropylene,675c25b9-5dab-39c6-a12e-5e4649a716fa
@@ -905,7 +905,7 @@ coating,kg,Plastic,product/thermoplastic/acrylic,37dd248e-f9bd-3efa-a814-c93142d
 coating,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,142289af-5b45-3f1f-a74e-a3b52b7ab1cf
 coating,kg,Plastic,product/thermoplastic/nylon,0673b7ee-f41c-3fc6-9850-6c21eca3b698
 coating,kg,Plastic,product/thermoplastic/polycarbonate,c4e48a37-2ee6-3cab-a080-986f839f334a
-coating,kg,Plastic,product/thermoplastic/polyethelene,becf3d7c-db80-3023-b0c1-215909e8a45a
+coating,kg,Plastic,product/thermoplastic/polyethylene,800830bd-a4a2-3df2-bbde-d557db4d6734
 coating,kg,Plastic,product/thermoplastic/polyethylene terephthalate,1ebbbb04-2b21-3409-a49b-09d459c63e3f
 coating,kg,Plastic,product/thermoplastic/polystyrene,3f7f0ca2-6847-3f00-8a40-d5d394beb285
 coating,kg,Plastic,product/thermoplastic/polypropylene,a1046803-406f-31f6-ba33-af3e1e0491ac
@@ -915,7 +915,7 @@ coating,kg,Plastic,waste/thermoplastic/acrylic,01086544-1d6b-3b18-8e2c-3afd0aa19
 coating,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,197afea3-8360-33f4-85c9-cc38fc4017da
 coating,kg,Plastic,waste/thermoplastic/nylon,d648a93b-7fcd-3035-9f0b-e382806ee41e
 coating,kg,Plastic,waste/thermoplastic/polycarbonate,a8149359-b808-32c6-ac53-392d4e07e641
-coating,kg,Plastic,waste/thermoplastic/polyethelene,02c81cd3-141a-3fbd-aab5-03aa5194a2af
+coating,kg,Plastic,waste/thermoplastic/polyethylene,ccb32d29-1404-3928-a57c-94ccaebc7e9b
 coating,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,5593be50-53bc-38bd-9c28-4f67894495c7
 coating,kg,Plastic,waste/thermoplastic/polystyrene,b03e2fa5-fa82-37b7-b536-fd7d22ef1af2
 coating,kg,Plastic,waste/thermoplastic/polypropylene,7bd4454d-5f1d-3295-8504-6678d4e8c750
@@ -925,7 +925,7 @@ container,kg,Plastic,product/thermoplastic/acrylic,a8d50fcd-45c7-3267-837c-89610
 container,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,086f8dae-6383-3c19-95f1-cc6ae3388749
 container,kg,Plastic,product/thermoplastic/nylon,6944c539-abf4-3bf8-a347-8720114ce6d0
 container,kg,Plastic,product/thermoplastic/polycarbonate,4ac6b1fd-dedc-3bc8-a12d-6207c1d0c936
-container,kg,Plastic,product/thermoplastic/polyethelene,8e404067-b57e-3f0a-ba4d-cc7f996df2e4
+container,kg,Plastic,product/thermoplastic/polyethylene,5b7f33ee-8141-34e3-965a-f6c7dd18e850
 container,kg,Plastic,product/thermoplastic/polyethylene terephthalate,da1da7f3-910b-3451-b778-cc493f93baf3
 container,kg,Plastic,product/thermoplastic/polystyrene,5a761a2a-1322-369a-bf6d-7d19cea4a288
 container,kg,Plastic,product/thermoplastic/polypropylene,56a85193-37f9-3f9e-b301-fa0e86d4f50a
@@ -935,7 +935,7 @@ container,kg,Plastic,waste/thermoplastic/acrylic,b86305dd-e851-3806-86fa-3e4e18c
 container,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,34d95ec4-9d32-3135-a022-f34cccff5c50
 container,kg,Plastic,waste/thermoplastic/nylon,907737b4-1aa3-3a71-bc66-6f09bc94ceec
 container,kg,Plastic,waste/thermoplastic/polycarbonate,e8a2e9fc-bd7a-39a7-96ea-7ede88728478
-container,kg,Plastic,waste/thermoplastic/polyethelene,a5d5a24a-b21e-3d5e-845b-3e4640620d16
+container,kg,Plastic,waste/thermoplastic/polyethylene,3ba27141-7a7b-340d-af6e-089a95dbbcc4
 container,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,9c825df4-e213-3386-9a56-93947c0d9bb3
 container,kg,Plastic,waste/thermoplastic/polystyrene,eb98afca-8441-325f-8ded-67c7d9ae048f
 container,kg,Plastic,waste/thermoplastic/polypropylene,48e90427-874a-31a6-b152-ac836b6b96e9
@@ -945,7 +945,7 @@ durable good,kg,Plastic,product/thermoplastic/acrylic,14a74e66-ef34-3ae9-9d4a-07
 durable good,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,f82fc83e-53de-3c3c-af72-7a0dd65c1c3e
 durable good,kg,Plastic,product/thermoplastic/nylon,76580b50-b4c9-3913-91c3-28ff536cf163
 durable good,kg,Plastic,product/thermoplastic/polycarbonate,06222363-562d-34ae-826c-924c14bf73fa
-durable good,kg,Plastic,product/thermoplastic/polyethelene,3d53dff6-51cd-3c22-bfd0-748d4978089e
+durable good,kg,Plastic,product/thermoplastic/polyethylene,8b4f11eb-6958-3fef-ac6f-095226f60fb4
 durable good,kg,Plastic,product/thermoplastic/polyethylene terephthalate,da1c9164-7bff-31ee-8b41-28f4adea08a9
 durable good,kg,Plastic,product/thermoplastic/polystyrene,458ad20d-8b2e-3e96-9d1a-69ba24b5684f
 durable good,kg,Plastic,product/thermoplastic/polypropylene,68b52386-57ec-3abc-ae8c-b15057aca1c6
@@ -955,7 +955,7 @@ durable good,kg,Plastic,waste/thermoplastic/acrylic,35fba433-0c5f-384b-bd41-4c41
 durable good,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,0b77a0c7-dd8f-3e3d-a96d-3697aac2791e
 durable good,kg,Plastic,waste/thermoplastic/nylon,f13eff42-9512-3538-8078-ec2b184607af
 durable good,kg,Plastic,waste/thermoplastic/polycarbonate,f88c727e-e577-3918-8a21-f43de3243e1b
-durable good,kg,Plastic,waste/thermoplastic/polyethelene,61877033-d3cd-30d3-925e-cfdaff596833
+durable good,kg,Plastic,waste/thermoplastic/polyethylene,5bbbdadd-f9c4-33fb-8b5d-2b6d4d5728be
 durable good,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,e9b2d678-4313-31d5-ba91-c1a06262bab9
 durable good,kg,Plastic,waste/thermoplastic/polystyrene,a1aea2dc-b93b-313e-8c9c-791c9a783f7b
 durable good,kg,Plastic,waste/thermoplastic/polypropylene,5054fe6c-4c85-39f2-bb63-c25c5e02b681
@@ -965,7 +965,7 @@ electronic,kg,Plastic,product/thermoplastic/acrylic,3b026195-8f71-333a-a8c2-4619
 electronic,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,539ddc33-9f64-3a9c-bdbd-c2f0cea445eb
 electronic,kg,Plastic,product/thermoplastic/nylon,cabb7e5e-de79-3ce1-b612-06e882c97acb
 electronic,kg,Plastic,product/thermoplastic/polycarbonate,5a2b11cd-7e0f-3458-847c-2f0f23c8e05c
-electronic,kg,Plastic,product/thermoplastic/polyethelene,ea31eb0c-3e8d-311f-afeb-478d7e6bb243
+electronic,kg,Plastic,product/thermoplastic/polyethylene,69677535-c7dd-37fc-8c13-b73620518fc1
 electronic,kg,Plastic,product/thermoplastic/polyethylene terephthalate,8a0b573e-b216-37ba-b2ee-91222f110a3b
 electronic,kg,Plastic,product/thermoplastic/polystyrene,e068970e-b04e-3938-9b5b-e60175ff4197
 electronic,kg,Plastic,product/thermoplastic/polypropylene,8940b98a-c7b6-3242-bb4f-6e4a0d101afe
@@ -975,7 +975,7 @@ electronic,kg,Plastic,waste/thermoplastic/acrylic,271b8ac6-3be4-3d92-bd4a-584ba0
 electronic,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,d66e4c23-355d-3e04-8c2c-f88399427df6
 electronic,kg,Plastic,waste/thermoplastic/nylon,ea13aabb-0a1a-3b7f-921a-9e4c0f89a1dc
 electronic,kg,Plastic,waste/thermoplastic/polycarbonate,3a6191e1-e4af-3c12-93f1-e2d810476240
-electronic,kg,Plastic,waste/thermoplastic/polyethelene,38655ca7-56bd-3e63-9389-902f5bb5a1ce
+electronic,kg,Plastic,waste/thermoplastic/polyethylene,f789b451-85ca-347d-a516-9faa885579ab
 electronic,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,eeb78a67-79ea-3ad8-9522-52cf2bd698aa
 electronic,kg,Plastic,waste/thermoplastic/polystyrene,cbde6dc0-e737-3a36-aae2-caffbb30ca7d
 electronic,kg,Plastic,waste/thermoplastic/polypropylene,ebbc9323-3298-3889-a9fe-b3ced340c3d9
@@ -985,7 +985,7 @@ film,kg,Plastic,product/thermoplastic/acrylic,5abdb95f-1ea7-357c-ad99-e5b47233ca
 film,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,0d421e0c-4cbc-3211-8e08-650339a72332
 film,kg,Plastic,product/thermoplastic/nylon,e43e79d7-1693-3d3c-b9fc-dd3287f4af77
 film,kg,Plastic,product/thermoplastic/polycarbonate,41e3c666-3b77-35a8-a0c9-5dec50ec2a3a
-film,kg,Plastic,product/thermoplastic/polyethelene,9db6024e-5f3c-3d34-9cb9-693c47981056
+film,kg,Plastic,product/thermoplastic/polyethylene,bc89d80f-2c22-3db9-a520-2b80efd43c51
 film,kg,Plastic,product/thermoplastic/polyethylene terephthalate,a1ac7397-c587-3f46-9c78-4929e1ea319c
 film,kg,Plastic,product/thermoplastic/polystyrene,4c92ccef-a89e-3613-ba1f-6dd2e0e9e49b
 film,kg,Plastic,product/thermoplastic/polypropylene,2ae54777-078a-3236-8363-75f5b3292335
@@ -995,7 +995,7 @@ film,kg,Plastic,waste/thermoplastic/acrylic,2bc7a03c-d945-3ec0-971a-8d768fcefa67
 film,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,be750231-e5f6-352a-83bb-dc6709181407
 film,kg,Plastic,waste/thermoplastic/nylon,e4195fa0-f82c-3e15-851d-c07f8f8db2bf
 film,kg,Plastic,waste/thermoplastic/polycarbonate,b5cec3c3-7515-35cb-84f7-939627e2107a
-film,kg,Plastic,waste/thermoplastic/polyethelene,47613526-4c69-3506-a854-7b4c5f73221c
+film,kg,Plastic,waste/thermoplastic/polyethylene,30a5d354-6c36-370b-bc52-53d4ca5a95de
 film,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,cbb0b8f8-46c5-3602-a010-19c4cda8e674
 film,kg,Plastic,waste/thermoplastic/polystyrene,ee219f63-4f6b-38eb-896c-d27e057dafe2
 film,kg,Plastic,waste/thermoplastic/polypropylene,0f37bd6b-f44d-32cf-97b7-2c4e5bffa3ac
@@ -1005,7 +1005,7 @@ flooring,kg,Plastic,product/thermoplastic/acrylic,3425dff6-8559-3701-b06a-7f2dd9
 flooring,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,93d7cb34-5976-3c7d-a630-3f0cb3262c74
 flooring,kg,Plastic,product/thermoplastic/nylon,0074de2f-521d-3e53-bcd0-37a2f3430614
 flooring,kg,Plastic,product/thermoplastic/polycarbonate,f980d734-095c-36eb-94ba-ac3af4367ef6
-flooring,kg,Plastic,product/thermoplastic/polyethelene,f39ebbee-5c57-3737-b3d6-af7c5fd95983
+flooring,kg,Plastic,product/thermoplastic/polyethylene,cc0c6218-d78e-32eb-82b1-6ce8f7da5955
 flooring,kg,Plastic,product/thermoplastic/polyethylene terephthalate,1a6c5c1f-8a83-36b2-a78b-c6ba275e7dbd
 flooring,kg,Plastic,product/thermoplastic/polystyrene,18892a17-2ff7-3127-9f27-8644058aadfd
 flooring,kg,Plastic,product/thermoplastic/polypropylene,e91ef037-6172-3ca3-b524-c64279dcebb9
@@ -1015,7 +1015,7 @@ flooring,kg,Plastic,waste/thermoplastic/acrylic,5ea7256f-ab96-31d7-b832-4c2fcf89
 flooring,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,314a6128-072b-3fd1-b3ea-cb032a6c57a0
 flooring,kg,Plastic,waste/thermoplastic/nylon,25221b80-6dde-3902-85a0-b7dede4f98df
 flooring,kg,Plastic,waste/thermoplastic/polycarbonate,1d8ceb43-1096-392e-8008-d321f3399d26
-flooring,kg,Plastic,waste/thermoplastic/polyethelene,1d9dedc5-24a6-3bcb-94f4-512fc2132fe5
+flooring,kg,Plastic,waste/thermoplastic/polyethylene,60ce70c9-5423-368b-b401-e40362e393d3
 flooring,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,b8868ca5-0214-363e-a5c7-2c16cb570874
 flooring,kg,Plastic,waste/thermoplastic/polystyrene,4bcd744c-88d0-3f3d-a3dc-0d2e1a1eaace
 flooring,kg,Plastic,waste/thermoplastic/polypropylene,155314b0-7f9a-3125-b0c3-7a59f0961953
@@ -1025,7 +1025,7 @@ footware,kg,Plastic,product/thermoplastic/acrylic,1fe1e1d3-599b-3d12-a7a7-98893f
 footware,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,31a2b102-d16c-3665-82e7-23416d0ad5a1
 footware,kg,Plastic,product/thermoplastic/nylon,d6eafedc-ead7-3da4-8384-c1842064a3a0
 footware,kg,Plastic,product/thermoplastic/polycarbonate,537bfb07-0e43-3c3f-bf90-12a905b32404
-footware,kg,Plastic,product/thermoplastic/polyethelene,4d04da8c-6d24-37b8-8b3d-f39589c39f12
+footware,kg,Plastic,product/thermoplastic/polyethylene,128c690a-673f-3172-a44f-27978d71ebed
 footware,kg,Plastic,product/thermoplastic/polyethylene terephthalate,49016c3f-3ddb-33cd-b691-504bf2ef4d9b
 footware,kg,Plastic,product/thermoplastic/polystyrene,23c45e2c-6ea0-3f81-bb7c-5f93f7f7e5cb
 footware,kg,Plastic,product/thermoplastic/polypropylene,a0ec6a9c-3ffb-312b-8228-02a8d76a0f9a
@@ -1035,7 +1035,7 @@ footware,kg,Plastic,waste/thermoplastic/acrylic,263be76a-0cd0-39c2-8bd0-cf271e1e
 footware,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,d62d2dbe-3940-3f72-be53-d1c681b86cc3
 footware,kg,Plastic,waste/thermoplastic/nylon,1dae68be-76ee-306f-a87a-3be5ba06cc8c
 footware,kg,Plastic,waste/thermoplastic/polycarbonate,07b72463-7264-38b7-86be-e188c1e23b08
-footware,kg,Plastic,waste/thermoplastic/polyethelene,f0799d73-aece-3f6f-b2c9-ce0b77385e0b
+footware,kg,Plastic,waste/thermoplastic/polyethylene,7f0e8b2c-7772-35cd-9c1f-858d32bf16ba
 footware,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,bbc12382-9b6d-3761-8ff0-b201a5b89f02
 footware,kg,Plastic,waste/thermoplastic/polystyrene,496afa0d-8cdf-37c8-a8f8-ecbc2a6aa129
 footware,kg,Plastic,waste/thermoplastic/polypropylene,8ff0c138-92e4-3d5b-a714-f17588f64fe1
@@ -1045,7 +1045,7 @@ medical good,kg,Plastic,product/thermoplastic/acrylic,ee5b6f66-bbed-369e-b550-72
 medical good,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,3f2ee233-757d-34d1-8f36-3ad727fc2ea3
 medical good,kg,Plastic,product/thermoplastic/nylon,c16f47ca-4593-3533-bfae-8f1030d64e80
 medical good,kg,Plastic,product/thermoplastic/polycarbonate,288b64fe-525f-3643-a6b7-90baebceda53
-medical good,kg,Plastic,product/thermoplastic/polyethelene,413b96c9-8571-3325-90f8-8c7687515e70
+medical good,kg,Plastic,product/thermoplastic/polyethylene,616cfcc0-d999-33ae-a471-f9e8fafca74b
 medical good,kg,Plastic,product/thermoplastic/polyethylene terephthalate,e39f2499-ec4b-3a72-a8e2-0535b78e3a30
 medical good,kg,Plastic,product/thermoplastic/polystyrene,796293fa-36e8-320e-8336-72662d117b5e
 medical good,kg,Plastic,product/thermoplastic/polypropylene,bf2538cc-9822-3bc6-8b9e-e4ead7b625a1
@@ -1055,7 +1055,7 @@ medical good,kg,Plastic,waste/thermoplastic/acrylic,81292016-95dd-3902-9f24-7f8c
 medical good,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,43a84612-744c-3bc7-8836-928795305d92
 medical good,kg,Plastic,waste/thermoplastic/nylon,d56f3acc-d9db-3e5f-a7f0-edc0ce7feec0
 medical good,kg,Plastic,waste/thermoplastic/polycarbonate,dce488ec-330c-3de7-83b0-8f571d8e8a8f
-medical good,kg,Plastic,waste/thermoplastic/polyethelene,5ec14400-a70b-3eb1-8740-073dfce34ad7
+medical good,kg,Plastic,waste/thermoplastic/polyethylene,443951e5-8e78-38df-adbf-0f50b4931596
 medical good,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,7650dc39-8d76-315f-9db9-7084242262bb
 medical good,kg,Plastic,waste/thermoplastic/polystyrene,488471ef-59ca-3519-a980-fcdaf55ba5d1
 medical good,kg,Plastic,waste/thermoplastic/polypropylene,08bfacf4-af21-3850-87e1-a58bcb2630e3
@@ -1065,7 +1065,7 @@ nondurable good,kg,Plastic,product/thermoplastic/acrylic,b407732c-7989-37fd-9336
 nondurable good,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,54bae0f8-38a1-3cc1-a447-27b87c8305e6
 nondurable good,kg,Plastic,product/thermoplastic/nylon,028f7a49-f545-3c24-90c7-1cb02026fff8
 nondurable good,kg,Plastic,product/thermoplastic/polycarbonate,226d8d5c-5616-3efa-83cc-881f85fad3bc
-nondurable good,kg,Plastic,product/thermoplastic/polyethelene,e0b66b68-5f46-3bf0-9a08-ed8729d5a21a
+nondurable good,kg,Plastic,product/thermoplastic/polyethylene,c528b9a6-1b3c-3e92-97e9-761300275827
 nondurable good,kg,Plastic,product/thermoplastic/polyethylene terephthalate,ef3f9f8a-58e0-31cb-bd9e-cf03645ce304
 nondurable good,kg,Plastic,product/thermoplastic/polystyrene,2bd1a42b-b0a1-3eeb-985f-0418822f947f
 nondurable good,kg,Plastic,product/thermoplastic/polypropylene,e1679756-bd5f-31ae-8e69-ce81e7af64bf
@@ -1075,7 +1075,7 @@ nondurable good,kg,Plastic,waste/thermoplastic/acrylic,d786ca94-633d-3797-94f5-5
 nondurable good,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,22941f3a-8119-31ca-8f3d-29acf51bcd62
 nondurable good,kg,Plastic,waste/thermoplastic/nylon,1b9a88e6-269c-3e35-a4d4-c25d189e0904
 nondurable good,kg,Plastic,waste/thermoplastic/polycarbonate,8cf3084c-b348-3541-acd1-6f02112c2051
-nondurable good,kg,Plastic,waste/thermoplastic/polyethelene,73022d6d-ee63-3b10-be57-d2768416bce8
+nondurable good,kg,Plastic,waste/thermoplastic/polyethylene,62c2f76a-bb21-365a-90f7-b5fac22271ae
 nondurable good,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,980fdaa5-4d16-3482-9d2e-1fd393f306ba
 nondurable good,kg,Plastic,waste/thermoplastic/polystyrene,6fdd48a1-d4b0-3967-ba19-bbce2e482ad4
 nondurable good,kg,Plastic,waste/thermoplastic/polypropylene,a8efd00b-6cdc-3b12-88ee-89a1d709a24c
@@ -1085,7 +1085,7 @@ packaging,kg,Plastic,product/thermoplastic/acrylic,cd69570b-3ced-3c46-91f6-65780
 packaging,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,93353413-4010-38ae-a3a4-3db0f1632729
 packaging,kg,Plastic,product/thermoplastic/nylon,8fd09d4f-648c-3850-910b-3858c178f87e
 packaging,kg,Plastic,product/thermoplastic/polycarbonate,25fcb6ef-8021-37d3-b199-00ec0c600c94
-packaging,kg,Plastic,product/thermoplastic/polyethelene,88d129f9-cc7b-3f25-a687-9e4397ee5db8
+packaging,kg,Plastic,product/thermoplastic/polyethylene,e0d0087d-c384-3917-b5d4-914ec742bfb2
 packaging,kg,Plastic,product/thermoplastic/polyethylene terephthalate,f519277e-3b8d-3bd5-98c7-f1b5947a8bc2
 packaging,kg,Plastic,product/thermoplastic/polystyrene,7ad0d3fd-ce4a-3e3a-8573-309021f02620
 packaging,kg,Plastic,product/thermoplastic/polypropylene,958ee314-4a24-3be9-946d-01f1d001e91a
@@ -1095,7 +1095,7 @@ packaging,kg,Plastic,waste/thermoplastic/acrylic,f0ba2def-94dc-3722-a5a6-2cb1c00
 packaging,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,9f891aac-6945-304d-ad64-6c1314908001
 packaging,kg,Plastic,waste/thermoplastic/nylon,d0a9df50-02c1-3280-b4ca-eb82eea9beb1
 packaging,kg,Plastic,waste/thermoplastic/polycarbonate,5e4edce1-ac59-392d-b896-16abfd227d0b
-packaging,kg,Plastic,waste/thermoplastic/polyethelene,b832a681-ed6e-3926-bdc5-1429119ceedf
+packaging,kg,Plastic,waste/thermoplastic/polyethylene,93bfbd44-dc5e-3d7e-94b0-b2956de51f7e
 packaging,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,a353d099-3927-3c88-986a-cbdf5e9b736f
 packaging,kg,Plastic,waste/thermoplastic/polystyrene,9aa87cf4-da9b-36fe-ba2d-0e71bd6f7fb0
 packaging,kg,Plastic,waste/thermoplastic/polypropylene,178c3176-85c6-3b55-9c68-3dc2653d8180
@@ -1105,7 +1105,7 @@ pallet,kg,Plastic,product/thermoplastic/acrylic,f55009a7-e5b0-3ce4-9e76-a86ffc34
 pallet,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,b46b1bec-e5df-3e1e-b262-4dd3937fd87a
 pallet,kg,Plastic,product/thermoplastic/nylon,9dbf5458-3068-3485-b655-1776842fa6bd
 pallet,kg,Plastic,product/thermoplastic/polycarbonate,7a73dab2-c6c2-34b1-b745-91817a7a5471
-pallet,kg,Plastic,product/thermoplastic/polyethelene,ad255bc8-d87f-3eac-abb1-0a26d15d4273
+pallet,kg,Plastic,product/thermoplastic/polyethylene,e88b90cd-31c5-3b72-b290-28bba4523471
 pallet,kg,Plastic,product/thermoplastic/polyethylene terephthalate,b51a8aca-55af-39fd-a599-784c45d06af7
 pallet,kg,Plastic,product/thermoplastic/polystyrene,f0dd186a-c889-3d97-a5a6-9f0a10ba46d3
 pallet,kg,Plastic,product/thermoplastic/polypropylene,95efa70f-f2df-3ba9-a385-f9f78bac76da
@@ -1115,7 +1115,7 @@ pallet,kg,Plastic,waste/thermoplastic/acrylic,0ff65f83-4995-39ee-9d26-16218152d2
 pallet,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,c06bf599-07a9-3fbe-ad98-a2c3233b4e00
 pallet,kg,Plastic,waste/thermoplastic/nylon,5e434999-34bf-377d-a4cc-43bc2ac2e194
 pallet,kg,Plastic,waste/thermoplastic/polycarbonate,11cf6af4-4b6d-3d8b-9a35-3424d86eb037
-pallet,kg,Plastic,waste/thermoplastic/polyethelene,8f8eb055-de5f-322c-aa30-73ad5ed891d2
+pallet,kg,Plastic,waste/thermoplastic/polyethylene,092189f4-f92c-35f0-90b9-6794bdaf664a
 pallet,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,1ac14d8e-d818-3103-a693-3daf3699bb3c
 pallet,kg,Plastic,waste/thermoplastic/polystyrene,c95824bc-6655-3519-9d7f-fc325a575e9c
 pallet,kg,Plastic,waste/thermoplastic/polypropylene,4e9aa7b4-80b0-3401-b1aa-aed412f90725
@@ -1125,7 +1125,7 @@ pipe,kg,Plastic,product/thermoplastic/acrylic,ee0b2cda-44c1-3690-a5a5-ecba839746
 pipe,kg,Plastic,product/thermoplastic/acrylonitrile butadiene styrene,1e3627ef-29a0-3560-a18e-bba21d356ee1
 pipe,kg,Plastic,product/thermoplastic/nylon,6d8f3fd8-ed19-3df1-a950-54de5ca3b57d
 pipe,kg,Plastic,product/thermoplastic/polycarbonate,e29435fd-dfd2-305f-a04f-1991e533b603
-pipe,kg,Plastic,product/thermoplastic/polyethelene,ae137e26-a46b-3fff-9fdf-e4d3e9f5e52e
+pipe,kg,Plastic,product/thermoplastic/polyethylene,fae26f2b-75d1-30d8-93fe-ed85e4c7b0b9
 pipe,kg,Plastic,product/thermoplastic/polyethylene terephthalate,d7038bae-6b01-37b3-a161-4ec7ecae535d
 pipe,kg,Plastic,product/thermoplastic/polystyrene,f6efd873-6a6a-3a3e-8d3a-241998834cdc
 pipe,kg,Plastic,product/thermoplastic/polypropylene,a680d0e6-229b-31ef-a002-45e779fb764b
@@ -1135,7 +1135,7 @@ pipe,kg,Plastic,waste/thermoplastic/acrylic,a6c02451-bff8-36cc-b584-e500e1b43656
 pipe,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,3dec5edd-1671-32f9-a329-e2b8e4644dbb
 pipe,kg,Plastic,waste/thermoplastic/nylon,37830a4a-5165-3345-be28-8d1314a5e0cd
 pipe,kg,Plastic,waste/thermoplastic/polycarbonate,5d994e96-6b5b-3a3b-be26-264f22a7cb1a
-pipe,kg,Plastic,waste/thermoplastic/polyethelene,32ef8b2c-5bf7-3e8e-8da4-8ba7a81384b2
+pipe,kg,Plastic,waste/thermoplastic/polyethylene,fd2e0ccc-eefa-353c-847c-73962c720515
 pipe,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,df789554-fb67-35d3-992d-0831249260db
 pipe,kg,Plastic,waste/thermoplastic/polystyrene,daf4cea2-b403-3a67-8f4e-564001e06e79
 pipe,kg,Plastic,waste/thermoplastic/polypropylene,84b83562-1785-3757-bbdf-92c26592e074
@@ -1537,7 +1537,7 @@ plastic,kg,Plastic,material/thermoplastic/acrylic,7b14cab5-b89f-3151-87af-896c78
 plastic,kg,Plastic,material/thermoplastic/acrylonitrile butadiene styrene,c9fdbd35-77fe-38c8-a949-2d5bf696b09e
 plastic,kg,Plastic,material/thermoplastic/nylon,3af9fa8c-1558-36ba-aef7-3785f5ae9b3c
 plastic,kg,Plastic,material/thermoplastic/polycarbonate,8de461d8-fc3c-3f20-8c12-d16929fa6676
-plastic,kg,Plastic,material/thermoplastic/polyethelene,5e9e0349-6cf3-30e9-b9e5-e5b80887d661
+plastic,kg,Plastic,material/thermoplastic/polyethylene,f79f9ca3-6c10-3ebf-9f3c-77dc553ca49b
 plastic,kg,Plastic,material/thermoplastic/polyethylene terephthalate,4f8432fd-5fd6-3116-b025-d927c9dc75f0
 plastic,kg,Plastic,material/thermoplastic/polystyrene,3159749e-e74f-327b-9e38-38c7e030329f
 plastic,kg,Plastic,material/thermoplastic/polypropylene,78c38334-a4a9-310e-b794-589a0c392e1f
@@ -1554,7 +1554,7 @@ plastic,kg,Plastic,waste/thermoplastic/acrylic,87da21da-c553-3033-b7bd-2e3f38d24
 plastic,kg,Plastic,waste/thermoplastic/acrylonitrile butadiene styrene,301e74ec-f352-3849-8826-ee7e9f98f607
 plastic,kg,Plastic,waste/thermoplastic/nylon,2d78e4ce-24df-3f7d-8110-7040e00edd30
 plastic,kg,Plastic,waste/thermoplastic/polycarbonate,e25af628-b04a-3cc3-9439-56563b23c371
-plastic,kg,Plastic,waste/thermoplastic/polyethelene,bc5c37d8-d37f-37b8-a88e-013b02bdbae3
+plastic,kg,Plastic,waste/thermoplastic/polyethylene,39387162-8f20-30bf-9ef9-32520769a514
 plastic,kg,Plastic,waste/thermoplastic/polyethylene terephthalate,69e4b4d3-296c-35e1-85ec-abcef04816f3
 plastic,kg,Plastic,waste/thermoplastic/polystyrene,deddf7dc-4c1f-34ec-b1db-8f40c09da79f
 plastic,kg,Plastic,waste/thermoplastic/polypropylene,958136c1-8db3-3dc2-bea9-99d770ecff21
