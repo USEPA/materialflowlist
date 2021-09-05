@@ -1,83 +1,78 @@
 SourceListName,SourceFlowName,SourceFlowUUID,SourceFlowContext,SourceUnit,MatchCondition,ConversionFactor,TargetFlowName,TargetFlowClass,TargetFlowContext,TargetUnit,TargetFlowUUID,Mapper,Verifier,LastUpdated
-CalRecycle,Uncoated Corrugated Cardboard,,,tons,,907.185,paper,Paper,material/paperboard/corrugated,kg,,Edelen,Young,9/2/2021
-CalRecycle,Paper Bags,,,tons,,907.185,bag,Paper,product/paper,kg,,Edelen,Young,9/2/2021
-CalRecycle,Newspaper,,,tons,,907.185,newspaper,Paper,product/paper/newsprint,kg,,Edelen,Young,9/2/2021
-CalRecycle,White Ledger Paper,,,tons,,907.185,paper,Paper,material/paper/white,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Office Paper,,,tons,,907.185,paper,Paper,material/paper/white,kg,,Edelen,Young,9/2/2021
-CalRecycle,Magazines and Catalogs,,,tons,,907.185,magazine,Paper,product/paper/glossy,kg,,Edelen,Young,9/2/2021
-CalRecycle,Phone Books and Directories,,,tons,,907.185,book,Paper,product/paper/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Miscellaneous Paper - Compostable,,,tons,,907.185,paper,Paper,material/paper/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Miscellaneous Paper - Other,,,tons,,907.185,paper,Paper,material/paper/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Paper - Compostable,,,tons,,907.185,paper,Paper,material/paper/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Paper - Other,,,tons,,907.185,paper,Paper,material/paper/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Clear Glass Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/clear,kg,,Edelen,Young,9/2/2021
-CalRecycle,Green Glass Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/green,kg,,Edelen,Young,9/2/2021
-CalRecycle,Brown Glass Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/brown,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Glass Colored Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Flat Glass,,,tons,,907.185,glass,Glass,material/glass,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Glass,,,tons,,907.185,glass,Glass,material/glass/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Tin/Steel Cans,,,tons,,907.185,can,Metal,product/ferrous/alloy steel,kg,,Edelen,Young,9/2/2021
-CalRecycle,Major Appliances,,,tons,,453.5925,durable good,Metal,product/metal/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Major Appliances,,,tons,,453.5925,durable good,Plastic,product/plastic/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Used Oil Filters,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/oil,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Ferrous,,,tons,,907.185,metal,Metal,material/ferrous,kg,,Edelen,Young,9/2/2021
-CalRecycle,Aluminum Cans,,,tons,,907.185,can,Metal,product/aluminum/aluminum,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Non-Ferrous,,,tons,,907.185,metal,Metal,material/metal/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Metal,,,tons,,907.185,metal,Metal,material/metal/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Brown Goods,,,tons,,302.395,electronic,Glass,product/glass,kg,,Edelen,Young,9/2/2021
-CalRecycle,Computer-related Electronics,,,tons,,302.395,electronic,Glass,product/glass,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Small Consumer Electronics,,,tons,,302.395,electronic,Glass,product/glass,kg,,Edelen,Young,9/2/2021
-CalRecycle,Video Display Devices,,,tons,,302.395,electronic,Glass,product/glass,kg,,Edelen,Young,9/2/2021
-CalRecycle,Brown Goods,,,tons,,302.395,electronic,Metal,product/metal,kg,,Edelen,Young,9/2/2021
-CalRecycle,Computer-related Electronics,,,tons,,302.395,electronic,Metal,product/metal,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Small Consumer Electronics,,,tons,,302.395,electronic,Metal,product/metal,kg,,Edelen,Young,9/2/2021
-CalRecycle,Video Display Devices,,,tons,,302.395,electronic,Metal,product/metal,kg,,Edelen,Young,9/2/2021
-CalRecycle,Brown Goods,,,tons,,302.395,electronic,Plastic,product/thermoset,kg,,Edelen,Young,9/2/2021
-CalRecycle,Computer-related Electronics,,,tons,,302.395,electronic,Plastic,product/thermoset,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Small Consumer Electronics,,,tons,,302.395,electronic,Plastic,product/thermoset,kg,,Edelen,Young,9/2/2021
-CalRecycle,Video Display Devices,,,tons,,302.395,electronic,Plastic,product/thermoset,kg,,Edelen,Young,9/2/2021
-CalRecycle,PETE Plastic Containers,,,tons,,907.185,container,Plastic,product/thermoplastic/polyethylene terephthalate,kg,,Edelen,Young,9/2/2021
-CalRecycle,HDPE Plastic Containers,,,tons,,907.185,container,Plastic,product/thermoplastic/polyethylene,kg,,Edelen,Young,9/2/2021
-CalRecycle,Miscellaneous Plastic Containers,,,tons,,907.185,container,Plastic,product/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Plastic Trash Bags,,,tons,,907.185,bag,Plastic,product/thermoplastic/polyethylene,kg,,Edelen,Young,9/2/2021
-CalRecycle,Plastic Grocery and Other Merchandise Bags,,,tons,,907.185,bag,Plastic,product/thermoplastic/polyethylene,kg,,Edelen,Young,9/2/2021
-CalRecycle,Non-Bag Commercial and Industrial Packaging Film,,,tons,,907.185,film,Plastic,product/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Film Products,,,tons,,907.185,film,Plastic,product/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Film - Other,,,tons,,907.185,film,Plastic,product/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Durable Plastic Items - Number 2 and 5 Bulky Rigids,,,tons,,453.5925,durable good,Plastic,product/thermoplastic/polypropylene,kg,,Edelen,Young,9/2/2021
-CalRecycle,Durable Plastic Items - Number 2 and 5 Bulky Rigids,,,tons,,453.5925,durable good,Plastic,product/thermoplastic/polyethylene,kg,,Edelen,Young,9/2/2021
-CalRecycle,Durable Plastic Items - Other,,,tons,,907.185,durable good,Plastic,product/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Plastics,,,tons,,907.185,plastic,Plastic,material/thermoplastic/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Food,,,tons,,453.5925,food,Biomass,product/livestock,kg,,Edelen,Young,9/2/2021
-CalRecycle,Food,,,tons,,453.5925,food,Biomass,product/crop,kg,,Edelen,Young,9/2/2021
-CalRecycle,Leaves and Grass,,,tons,,907.185,trimming,Biomass,product/green waste,kg,,Edelen,Young,9/2/2021
-CalRecycle,Prunings and Trimmings,,,tons,,907.185,trimming,Biomass,product/green waste,kg,,Edelen,Young,9/2/2021
-CalRecycle,Branches and Stumps,,,tons,,907.185,trimming,Biomass,product/green waste,kg,,Edelen,Young,9/2/2021
-CalRecycle,Manures,,,tons,,907.185,manure,Biomass,product/livestock/mixed,kg,,Edelen,Young,9/2/2021
-CalRecycle,Textiles,,,tons,,907.185,textile,Textile,material/fiber,kg,,Edelen,Young,9/2/2021
-CalRecycle,Carpet,,,tons,,907.185,carpet,Textile,product/fiber,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Organics,,,tons,,907.185,biomass,Biomass,material/biomass,kg,,Edelen,Young,9/2/2021
-CalRecycle,Concrete,,,tons,,907.185,aggregate,Aggregate,material/concrete,kg,,Edelen,Young,9/2/2021
-CalRecycle,Asphalt Paving,,,tons,,907.185,pavement,Other Petroleum Products,product/asphalt,kg,,Edelen,Young,9/2/2021
-CalRecycle,Asphalt Roofing,,,tons,,907.185,roofing,Other Petroleum Products,product/asphalt,kg,,Edelen,Young,9/2/2021
-CalRecycle,Clean Dimensional Lumber,,,tons,,907.185,lumber,Wood,product/solid,kg,,Edelen,Young,9/2/2021
-CalRecycle,Clean Engineered Wood,,,tons,,907.185,wood,Wood,material/engineered,kg,,Edelen,Young,9/2/2021
-CalRecycle,Clean Pallets & Crates,,,tons,,907.185,pallet,Wood,product/engineered/composite,kg,,Edelen,Young,9/2/2021
-CalRecycle,Other Wood Waste,,,tons,,907.185,wood,Wood,waste/wood,kg,,Edelen,Young,9/2/2021
-CalRecycle,Gypsum Board,,,tons,,907.185,drywall,Mineral,product/gypsum,kg,,Edelen,Young,9/2/2021
-CalRecycle,"Rock, Soil, and Fines",,,tons,,453.5925,aggregate,Aggregate,material/soil,kg,,Edelen,Young,9/2/2021
-CalRecycle,"Rock, Soil, and Fines",,,tons,,453.5925,aggregate,Aggregate,material/gravel,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Inerts and Others,,,tons,,,,,,,,,,
-CalRecycle,Paint,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/paint,kg,,Edelen,Young,9/2/2021
-CalRecycle,Vehicle and Equipment Fluids,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/oil,kg,,Edelen,Young,9/2/2021
-CalRecycle,Used Oil,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/oil,kg,,Edelen,Young,9/2/2021
-CalRecycle,Batteries,,,tons,,302.395,battery,Metal,product/ferrous,kg,,Edelen,Young,9/2/2021
-CalRecycle,Batteries,,,tons,,302.395,battery,Plastic,product/thermoplastic,kg,,Edelen,Young,9/2/2021
-CalRecycle,Batteries,,,tons,,302.395,battery,Metal,product/heavy,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Household Hazardous,,,tons,,,,,,,,,,
-CalRecycle,Ash,,,tons,,907.185,aggregate,Aggregate,material/ash,kg,,Edelen,Young,9/2/2021
-CalRecycle,Treated Medical Waste,,,tons,,907.185,medical good,Plastic,waste/plastic,kg,,Edelen,Young,9/2/2021
-CalRecycle,Bulky Items,,,tons,,,,,,,,,,
-CalRecycle,Tires,,,tons,,907.185,tire,Plastic,product/thermoset,kg,,Edelen,Young,9/2/2021
-CalRecycle,Remainder/Composite Special Waste,,,tons,,,,,,,,,,
-CalRecycle,Mixed Residue,,,tons,,,,,,,,,,
+CalRecycle,Uncoated Corrugated Cardboard,,,tons,,907.185,paper,Paper,material/paperboard/corrugated,kg,d4832909-ea07-31e6-88c1-4e6247ced6b2,Edelen,Young,9/2/2021
+CalRecycle,Paper Bags,,,tons,,907.185,bag,Paper,product/paper,kg,28b308d5-7b15-3891-a99f-9cbe3fb62e01,Edelen,Young,9/2/2021
+CalRecycle,Newspaper,,,tons,,907.185,newspaper,Paper,product/paper/newsprint,kg,5d0cec8f-9375-33c7-8ad7-b58668c37cc2,Edelen,Young,9/2/2021
+CalRecycle,White Ledger Paper,,,tons,,907.185,paper,Paper,material/paper/white,kg,0a7e1dba-a919-35ae-abcb-c727170287b4,Edelen,Young,9/2/2021
+CalRecycle,Other Office Paper,,,tons,,907.185,paper,Paper,material/paper/white,kg,0a7e1dba-a919-35ae-abcb-c727170287b4,Edelen,Young,9/2/2021
+CalRecycle,Magazines and Catalogs,,,tons,,907.185,magazine,Paper,product/paper/glossy,kg,6cec6866-b598-35fd-b62a-a0c76881b614,Edelen,Young,9/2/2021
+CalRecycle,Phone Books and Directories,,,tons,,907.185,book,Paper,product/paper/mixed,kg,c3e6ce97-8cc7-3399-9670-d525d9912bcb,Edelen,Young,9/2/2021
+CalRecycle,Other Miscellaneous Paper - Compostable,,,tons,,907.185,paper,Paper,material/paper/mixed,kg,4a223e09-3099-31b6-8585-aa7f9f437454,Edelen,Young,9/2/2021
+CalRecycle,Other Miscellaneous Paper - Other,,,tons,,907.185,paper,Paper,material/paper/mixed,kg,4a223e09-3099-31b6-8585-aa7f9f437454,Edelen,Young,9/2/2021
+CalRecycle,Remainder/Composite Paper - Compostable,,,tons,,907.185,paper,Paper,material/paper/mixed,kg,4a223e09-3099-31b6-8585-aa7f9f437454,Edelen,Young,9/2/2021
+CalRecycle,Remainder/Composite Paper - Other,,,tons,,907.185,paper,Paper,material/paper/mixed,kg,4a223e09-3099-31b6-8585-aa7f9f437454,Edelen,Young,9/2/2021
+CalRecycle,Clear Glass Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/clear,kg,bd93f443-0502-3390-87ce-2dfd16eb1f84,Edelen,Young,9/2/2021
+CalRecycle,Green Glass Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/green,kg,dc6766a9-0019-3a17-9e41-d133e572d084,Edelen,Young,9/2/2021
+CalRecycle,Brown Glass Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/brown,kg,35f40c60-a9eb-33cd-ad10-fcd60cd9635c,Edelen,Young,9/2/2021
+CalRecycle,Other Glass Colored Bottles and Containers,,,tons,,907.185,container,Glass,product/glass/mixed,kg,66ff701d-1715-3b0f-bb39-96953ac08d6b,Edelen,Young,9/2/2021
+CalRecycle,Flat Glass,,,tons,,907.185,glass,Glass,material/glass,kg,1eeb66da-12c8-3994-841e-63cea3655e3c,Edelen,Young,9/2/2021
+CalRecycle,Remainder/Composite Glass,,,tons,,907.185,glass,Glass,material/glass/mixed,kg,c792981e-765d-30a7-b424-acef18175a94,Edelen,Young,9/2/2021
+CalRecycle,Tin/Steel Cans,,,tons,,907.185,can,Metal,product/ferrous/alloy steel,kg,505526c3-2ea0-3bf4-acad-ad35e8c695d6,Edelen,Young,9/2/2021
+CalRecycle,Major Appliances,,,tons,,453.5925,durable good,Metal,product/metal/mixed,kg,6eb6ba0e-e29b-3000-bb6c-d6706c5c99c8,Edelen,Young,9/2/2021
+CalRecycle,Major Appliances,,,tons,,453.5925,durable good,Plastic,product/plastic/mixed,kg,ef232353-3059-3c84-97f4-0fd9d41c0db4,Edelen,Young,9/2/2021
+CalRecycle,Used Oil Filters,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/oil,kg,1d341f13-0bb9-3ef9-9c46-f2f617c3d2a4,Edelen,Young,9/2/2021
+CalRecycle,Other Ferrous,,,tons,,907.185,metal,Metal,material/ferrous,kg,3ac3fb48-9269-38e8-8dac-3b96a16b18c5,Edelen,Young,9/2/2021
+CalRecycle,Aluminum Cans,,,tons,,907.185,can,Metal,product/aluminum/aluminum,kg,00f480d1-69de-3572-91e2-6fe77ff24fb0,Edelen,Young,9/2/2021
+CalRecycle,Other Non-Ferrous,,,tons,,907.185,metal,Metal,material/metal/mixed,kg,3bff3f83-0eff-3639-ad9b-ac49e75c78fe,Edelen,Young,9/2/2021
+CalRecycle,Remainder/Composite Metal,,,tons,,907.185,metal,Metal,material/metal/mixed,kg,3bff3f83-0eff-3639-ad9b-ac49e75c78fe,Edelen,Young,9/2/2021
+CalRecycle,Brown Goods,,,tons,,302.395,electronic,Glass,product/glass,kg,8412c95a-2cb5-3019-8066-6fa99e4134c3,Edelen,Young,9/2/2021
+CalRecycle,Computer-related Electronics,,,tons,,302.395,electronic,Glass,product/glass,kg,8412c95a-2cb5-3019-8066-6fa99e4134c3,Edelen,Young,9/2/2021
+CalRecycle,Other Small Consumer Electronics,,,tons,,302.395,electronic,Glass,product/glass,kg,8412c95a-2cb5-3019-8066-6fa99e4134c3,Edelen,Young,9/2/2021
+CalRecycle,Video Display Devices,,,tons,,302.395,electronic,Glass,product/glass,kg,8412c95a-2cb5-3019-8066-6fa99e4134c3,Edelen,Young,9/2/2021
+CalRecycle,Brown Goods,,,tons,,302.395,electronic,Metal,product/metal,kg,7895327a-783e-3666-9bd9-ab5da1b667b1,Edelen,Young,9/2/2021
+CalRecycle,Computer-related Electronics,,,tons,,302.395,electronic,Metal,product/metal,kg,7895327a-783e-3666-9bd9-ab5da1b667b1,Edelen,Young,9/2/2021
+CalRecycle,Other Small Consumer Electronics,,,tons,,302.395,electronic,Metal,product/metal,kg,7895327a-783e-3666-9bd9-ab5da1b667b1,Edelen,Young,9/2/2021
+CalRecycle,Video Display Devices,,,tons,,302.395,electronic,Metal,product/metal,kg,7895327a-783e-3666-9bd9-ab5da1b667b1,Edelen,Young,9/2/2021
+CalRecycle,Brown Goods,,,tons,,302.395,electronic,Plastic,product/thermoset,kg,929b2ffa-a5d8-39bc-8634-3c01f4006211,Edelen,Young,9/2/2021
+CalRecycle,Computer-related Electronics,,,tons,,302.395,electronic,Plastic,product/thermoset,kg,929b2ffa-a5d8-39bc-8634-3c01f4006211,Edelen,Young,9/2/2021
+CalRecycle,Other Small Consumer Electronics,,,tons,,302.395,electronic,Plastic,product/thermoset,kg,929b2ffa-a5d8-39bc-8634-3c01f4006211,Edelen,Young,9/2/2021
+CalRecycle,Video Display Devices,,,tons,,302.395,electronic,Plastic,product/thermoset,kg,929b2ffa-a5d8-39bc-8634-3c01f4006211,Edelen,Young,9/2/2021
+CalRecycle,PETE Plastic Containers,,,tons,,907.185,container,Plastic,product/thermoplastic/polyethylene terephthalate,kg,da1da7f3-910b-3451-b778-cc493f93baf3,Edelen,Young,9/2/2021
+CalRecycle,HDPE Plastic Containers,,,tons,,907.185,container,Plastic,product/thermoplastic/polyethylene,kg,5b7f33ee-8141-34e3-965a-f6c7dd18e850,Edelen,Young,9/2/2021
+CalRecycle,Miscellaneous Plastic Containers,,,tons,,907.185,container,Plastic,product/thermoplastic/mixed,kg,780b8f3e-547b-3d81-8b28-fb709bdfb27d,Edelen,Young,9/2/2021
+CalRecycle,Plastic Trash Bags,,,tons,,907.185,bag,Plastic,product/thermoplastic/polyethylene,kg,c4ab3f94-c171-3d91-89b3-012a4a8e6808,Edelen,Young,9/2/2021
+CalRecycle,Plastic Grocery and Other Merchandise Bags,,,tons,,907.185,bag,Plastic,product/thermoplastic/polyethylene,kg,c4ab3f94-c171-3d91-89b3-012a4a8e6808,Edelen,Young,9/2/2021
+CalRecycle,Non-Bag Commercial and Industrial Packaging Film,,,tons,,907.185,film,Plastic,product/thermoplastic/mixed,kg,d0ba8fcf-f5de-33bb-8af9-74cb1a9e4771,Edelen,Young,9/2/2021
+CalRecycle,Film Products,,,tons,,907.185,film,Plastic,product/thermoplastic/mixed,kg,d0ba8fcf-f5de-33bb-8af9-74cb1a9e4771,Edelen,Young,9/2/2021
+CalRecycle,Other Film - Other,,,tons,,907.185,film,Plastic,product/thermoplastic/mixed,kg,d0ba8fcf-f5de-33bb-8af9-74cb1a9e4771,Edelen,Young,9/2/2021
+CalRecycle,Durable Plastic Items - Number 2 and 5 Bulky Rigids,,,tons,,453.5925,durable good,Plastic,product/thermoplastic/polypropylene,kg,68b52386-57ec-3abc-ae8c-b15057aca1c6,Edelen,Young,9/2/2021
+CalRecycle,Durable Plastic Items - Number 2 and 5 Bulky Rigids,,,tons,,453.5925,durable good,Plastic,product/thermoplastic/polyethylene,kg,8b4f11eb-6958-3fef-ac6f-095226f60fb4,Edelen,Young,9/2/2021
+CalRecycle,Durable Plastic Items - Other,,,tons,,907.185,durable good,Plastic,product/thermoplastic/mixed,kg,7fd69c03-51ca-3360-820d-a5be51031666,Edelen,Young,9/2/2021
+CalRecycle,Remainder/Composite Plastics,,,tons,,907.185,plastic,Plastic,material/thermoplastic/mixed,kg,fae82caa-0992-303b-a86f-beeb9a564b1e,Edelen,Young,9/2/2021
+CalRecycle,Food,,,tons,,453.5925,food,Biomass,product/livestock,kg,4bf0ee9a-46ee-3a50-af69-dd7d54b7faac,Edelen,Young,9/2/2021
+CalRecycle,Food,,,tons,,453.5925,food,Biomass,product/crop,kg,e2ac33b6-bdfa-3699-92a5-d960057af145,Edelen,Young,9/2/2021
+CalRecycle,Leaves and Grass,,,tons,,907.185,trimming,Biomass,product/green waste,kg,cbe74be3-e822-3f6a-a791-b0b824bbb59e,Edelen,Young,9/2/2021
+CalRecycle,Prunings and Trimmings,,,tons,,907.185,trimming,Biomass,product/green waste,kg,cbe74be3-e822-3f6a-a791-b0b824bbb59e,Edelen,Young,9/2/2021
+CalRecycle,Branches and Stumps,,,tons,,907.185,trimming,Biomass,product/green waste,kg,cbe74be3-e822-3f6a-a791-b0b824bbb59e,Edelen,Young,9/2/2021
+CalRecycle,Manures,,,tons,,907.185,manure,Biomass,product/livestock/mixed,kg,785e1e83-a186-35a9-8d0e-6260228e9df5,Edelen,Young,9/2/2021
+CalRecycle,Textiles,,,tons,,907.185,textile,Textile,material/fiber,kg,a0e7cbf6-a770-342e-a0c9-d89313f55fb9,Edelen,Young,9/2/2021
+CalRecycle,Carpet,,,tons,,907.185,carpet,Textile,product/fiber,kg,deb84e61-bd47-3f5b-9e19-26f763b89734,Edelen,Young,9/2/2021
+CalRecycle,Remainder/Composite Organics,,,tons,,907.185,biomass,Biomass,material/biomass,kg,b428dae4-a75e-3937-8fc5-02a6f89d2c25,Edelen,Young,9/2/2021
+CalRecycle,Concrete,,,tons,,907.185,aggregate,Aggregate,material/concrete,kg,11556c94-56c9-308e-9396-91b36b70f7bb,Edelen,Young,9/2/2021
+CalRecycle,Asphalt Paving,,,tons,,907.185,pavement,Other Petroleum Products,product/asphalt,kg,3205662d-26c1-38d2-83ff-b9782242181f,Edelen,Young,9/2/2021
+CalRecycle,Asphalt Roofing,,,tons,,907.185,roofing,Other Petroleum Products,product/asphalt,kg,e18c63d4-a1c8-3ac0-a802-16002c6c8b56,Edelen,Young,9/2/2021
+CalRecycle,Clean Dimensional Lumber,,,tons,,907.185,lumber,Wood,product/solid,kg,ad3c7f81-5c40-34a2-b9d1-70e9c063d759,Edelen,Young,9/2/2021
+CalRecycle,Clean Engineered Wood,,,tons,,907.185,wood,Wood,material/engineered,kg,8ea75903-d3db-36dc-a85a-13736047579c,Edelen,Young,9/2/2021
+CalRecycle,Clean Pallets & Crates,,,tons,,907.185,pallet,Wood,product/engineered/composite,kg,d1c46006-aa7e-37d9-85c6-5d59d988612d,Edelen,Young,9/2/2021
+CalRecycle,Other Wood Waste,,,tons,,907.185,wood,Wood,waste/wood,kg,d6622cec-3a8b-3645-91ec-e985a165ed79,Edelen,Young,9/2/2021
+CalRecycle,Gypsum Board,,,tons,,907.185,drywall,Mineral,product/gypsum,kg,65e71406-16ce-325b-bbf0-352618ff0777,Edelen,Young,9/2/2021
+CalRecycle,"Rock, Soil, and Fines",,,tons,,453.5925,aggregate,Aggregate,material/soil,kg,8ffc7d78-aa0a-3b3a-9082-b63e0bb9959d,Edelen,Young,9/2/2021
+CalRecycle,"Rock, Soil, and Fines",,,tons,,453.5925,aggregate,Aggregate,material/gravel,kg,3df1e469-ded0-343f-80b5-acd37b199974,Edelen,Young,9/2/2021
+CalRecycle,Paint,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/paint,kg,efd23994-4d5e-3a59-8bf7-94183337a602,Edelen,Young,9/2/2021
+CalRecycle,Vehicle and Equipment Fluids,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/oil,kg,1d341f13-0bb9-3ef9-9c46-f2f617c3d2a4,Edelen,Young,9/2/2021
+CalRecycle,Used Oil,,,tons,,907.185,other petroleum products,Other Petroleum Products,material/oil,kg,1d341f13-0bb9-3ef9-9c46-f2f617c3d2a4,Edelen,Young,9/2/2021
+CalRecycle,Batteries,,,tons,,302.395,battery,Metal,product/ferrous,kg,6399f77e-cc7b-31bb-8e44-1825a339dcdf,Edelen,Young,9/2/2021
+CalRecycle,Batteries,,,tons,,302.395,battery,Plastic,product/thermoplastic,kg,bb694de3-586b-33a4-b316-507ad7efa5c0,Edelen,Young,9/2/2021
+CalRecycle,Batteries,,,tons,,302.395,battery,Metal,product/heavy,kg,72042110-c627-316a-943a-af2f4e1c13df,Edelen,Young,9/2/2021
+CalRecycle,Ash,,,tons,,907.185,aggregate,Aggregate,material/ash,kg,465765ea-dd45-364d-a2d5-9ea28e7c19ca,Edelen,Young,9/2/2021
+CalRecycle,Treated Medical Waste,,,tons,,907.185,medical good,Plastic,waste/plastic,kg,2fc40f11-bedf-3dcd-8f01-3d5a69746926,Edelen,Young,9/2/2021
+CalRecycle,Tires,,,tons,,907.185,tire,Plastic,product/thermoset,kg,b6a76146-fa2d-3788-a17f-c245c9cbdd5b,Edelen,Young,9/2/2021
