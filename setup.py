@@ -8,11 +8,13 @@ setup(
     package_data={'materialflowlist': [
         "input/*.*", "output/*.*", "flowmapping/*.*"]},
     include_package_data=True,
-    install_requires = ['pandas>=0.22'],
+    install_requires = [
+        'fedelemflowlist @ git+https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List@#egg=fedelemflowlist',
+        'pandas>=0.22'],
     url='https://github.com/USEPA/materialflowlist.git',
     license='CC0',
-    author='Troy Hottle',
-    author_email='ta.hottle@gmail.com',
+    author='Wesley Ingwersen, Ashley Edelen, Ben Young, Troy Hottle',
+    author_email='ingwersen.wesley@epa.gov',
     classifiers=[
         "Development Status :: Alpha",
         "Environment :: IDE",
@@ -21,5 +23,6 @@ setup(
         "Programming Language :: Python :: 3.x",
         "Topic :: Utilities",
     ],
-    description=''
+    description='Compiles and provides a standardized list of technosphere '
+    'and waste flows for life cycle assessment'
 )

@@ -9,6 +9,8 @@ try:
 except NameError:
     modulepath = 'materialflowlist/'
 
+PKG_VERSION_NUMBER = '0.1.0'
+
 outputpath = modulepath + 'output/'
 inputpath = modulepath + 'input/'
 flowmappingpath = modulepath + 'flowmapping/'
@@ -40,9 +42,10 @@ log.basicConfig(level=log.DEBUG, format='%(levelname)s %(message)s',
                 stream=sys.stdout)
 
 flow_list_specs = {
-    "list_version": "0.0.1",
+    "list_version": PKG_VERSION_NUMBER,
     "flow_classes": ["Aggregate", "Glass", "Leather", "Metal", "Mineral",
-                     "Other petroleum products", "Paper", "Biomass", "Plastic", "Textile", "Wood", "Energy"],
+                     "Other petroleum products", "Paper", "Biomass",
+                     "Plastic", "Textile", "Wood", "Energy"],
     "primary_context_classes": ["material","product","waste"],
     "secondary_context_classes": ["SecondaryContext"],
     "detail_context_classes": ["ContextDetail"]
