@@ -9,7 +9,7 @@ try:
 except NameError:
     modulepath = 'materialflowlist/'
 
-PKG_VERSION_NUMBER = '0.1.0'
+PKG_VERSION_NUMBER = '0.0.2'
 
 outputpath = modulepath + 'output/'
 inputpath = modulepath + 'input/'
