@@ -9,7 +9,7 @@ try:
 except NameError:
     modulepath = 'materialflowlist/'
 
-PKG_VERSION_NUMBER = '0.1.0'
+PKG_VERSION_NUMBER = '0.0.2'
 
 outputpath = modulepath + 'output/'
 inputpath = modulepath + 'input/'
@@ -20,6 +20,7 @@ flow_list_fields = {'Flowable': [{'dtype': 'str'}, {'required': True}],
                     'Class': [{'dtype': 'str'}, {'required': True}],
                     'Context': [{'dtype': 'str'}, {'required': True}],
                     'Flow UUID': [{'dtype': 'str'}, {'required': True}],
+                    'mat-abbr': [{'dtype': 'str'}, {'required': False}],
                     }
 
 flowmapping_fields = {'SourceListName': [{'dtype': 'str'}, {'required': True}],

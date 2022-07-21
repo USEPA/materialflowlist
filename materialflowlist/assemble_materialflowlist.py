@@ -13,6 +13,15 @@ def read_in_flowclass_file(flowclass):
     flowclassfile = flowclassfile.dropna(axis=0, how='all')
     return flowclassfile
 
+def firstpluslast(s):
+    return s[0]+s[-1]
+
+def get_mat_acr(df):
+    cols = ["Flowable","SecondaryContext","ContextDetail"]
+    acr = df[cols[0]].apply(firstpluslast) + df[cols[1]].apply(firstpluslast) + df[cols[2]].apply(firstpluslast)
+    return acr
+
+
 #establishing dataframes and full list of flowables
 if __name__ == '__main__':
     flowables = pd.DataFrame()
@@ -55,50 +64,6 @@ if __name__ == '__main__':
 
     flows = flows.append(materialflows, ignore_index=False)
 
-    #generating context cutoff at category and full contexts (creates duplicates to be dropped)
-    flowscategorycutoff = flows.copy(deep=True)
-    flowscategorycutoff['Context'] = flowscategorycutoff['PrimaryContext'] + "/" + flowscategorycutoff['SecondaryContext']
-    flowscategorycutoff = flowscategorycutoff.drop(columns=['PrimaryContext', 'SecondaryContext', 'ContextDetail'])
+    #Add material abbreviation
+    flows['mat_abbr'] = get_mat_acr(flows)
 
-    #Create combined context and drop individual context level columns
-    flows['Context'] = flows['PrimaryContext'] + "/" + flows['SecondaryContext'] + "/" + flows['ContextDetail']
-    flows = flows.drop(columns=['PrimaryContext', 'SecondaryContext', 'ContextDetail'])
-    flows = flows.append(flowscategorycutoff, ignore_index=False)
-    flows = flows.drop_duplicates()
-
-    log.info('Total of ' + str(len(flows)) + ' flows with contexts created.')
-
-    # Loop through flows generating UUID for each
-    flowids = []
-    log.info('Generating unique UUIDs for each flow...')
-    for index, row in flows.iterrows():
-        flowid = make_uuid(row['Flowable'], row['Context'], row['Unit'])
-        flowids.append(flowid)
-    flows['Flow UUID'] = flowids
-
-    # Drop entries due to duplicate UUIDs
-    flows['Duplicates'] = flows.duplicated(subset=['Flow UUID'], keep='first')
-    if flows['Duplicates'].sum() > 0:
-        log.info(str(flows['Duplicates'].sum()) + " flows with same UUID; these duplicates have been removed.")
-        flows = flows.drop_duplicates(subset=['Flow UUID'], keep='first')
-    flows.drop(columns='Duplicates')
-
-    # Log unique entries
-    contexts_in_flows = pd.unique(flows['Context'])
-    log.info('Created ' + str(len(flows)) + ' flows with ' + str(len(contexts_in_flows)) + ' unique contexts')
-
-    # Conform flows to final list structure
-    flows = flows[list(flow_list_fields.keys())]
-
-    # Write it to parquet
-    flows.to_parquet(outputpath + 'MaterialFlowListMaster.parquet',
-                     index=False, compression=None)
-    log.info('Stored flows in ' + 'output/MaterialFlowListMaster.parquet')
-
-    #Write to excel
-    #flows.to_excel(outputpath+'MaterialFlowList'+flow_list_specs['list_version']+'_all.xlsx', index=False)
-    #log.info('Excel version in ' + 'output/MaterialFlowListMaster_all.xlsx')
-
-    #Write to csv
-    flows.to_csv(outputpath+'MaterialFlowList'+flow_list_specs['list_version']+'_all.csv', index=False)
-    log.info('CSV version in MaterialFlowList'+flow_list_specs['list_version']+'_all.csv')
