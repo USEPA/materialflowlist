@@ -1,0 +1,16 @@
+SourceListName,SourceFlowName,SourceFlowUUID,SourceFlowContext,SourceUnit,MatchCondition,ConversionFactor,TargetFlowName,TargetFlowClass,TargetFlowContext,TargetUnit,TargetFlowUUID,Mapper,Verifier,LastUpdated,Note
+EPA_FactsAndFigures,Glass,,,short tons,=,907.185,glass,Glass,waste/glass/mixed,kg,cf621586-b57e-3849-9bb8-f6aac95c794d,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,"Metals, Aluminum",,,short tons,=,907.185,metal,Metal,waste/aluminum/aluminum,kg,f7fdc349-d256-3863-b7b8-95d64b88e4ab,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,"Metals, Ferrous",,,short tons,>,907.185,metal,Metal,waste/ferrous/iron,kg,6809042e-8f7d-3406-b13f-808dfc1abaae,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,"Metals, Other Nonferrous",,,short tons,<,907.185,metal,Metal,waste/metal/mixed,kg,1bb1b3b8-4911-38b9-8be8-ca6805e00f06,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Miscellaneous Inorganic Wastes,,,short tons,,907.185,,,,,,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Other,,,short tons,,907.185,,,,,,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Paper and Paperboard,,,short tons,>,907.185,paper,Paper,waste/paper,kg,c452a608-ae60-3f14-a8f1-e1ba68fcffb6,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Plastics,,,short tons,=,907.185,plastic,Plastic,waste/plastic/mixed,kg,52ec2985-4a23-31ed-876a-5400ef86e8f2,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Rubber and Leather,,,short tons,,453.5925,leather,Leather,waste/leather/mixed,kg,e6c52ccd-7652-375c-b9d0-efb913f043a4,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Rubber and Leather,,,short tons,,453.5925,plastic,Plastic,waste/thermoset/rubber,kg,44f738cc-19d2-3381-9fbe-9c5093ae0017,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Textiles,,,short tons,,907.185,textile,Textile,waste/fiber/mixed,kg,6b4adabb-fd2c-3756-bcf4-92e7f09ccdc5,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Wood,,,short tons,,907.185,wood,Wood,waste/wood/mixed,kg,be7fc0d0-c9a5-35da-abf1-4c38e87b8da7,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Yard Trimmings,,,short tons,,907.185,biomass,Biomass,waste/biomass/mixed,kg,ccd5caef-cf6a-3a0f-9f05-1d53a3195eb5,Ingwersen,,7/21/2022,see also flowable 'trimming' flows
+EPA_FactsAndFigures,Food,,,short tons,,453.5925,food,Biomass,waste/crop,kg,8bcc2db0-f3c9-302e-a97c-8502be115387,Ingwersen,,7/21/2022,
+EPA_FactsAndFigures,Food,,,short tons,,453.5925,food,Biomass,waste/livestock,kg,0aff774b-8b1a-3466-839c-4015e991bf33,Ingwersen,,7/21/2022,
