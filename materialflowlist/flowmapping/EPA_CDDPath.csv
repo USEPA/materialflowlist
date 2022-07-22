@@ -1,15 +1,38 @@
 SourceListName,SourceFlowName,SourceFlowUUID,SourceFlowContext,SourceUnit,MatchCondition,ConversionFactor,TargetFlowName,TargetFlowClass,TargetFlowContext,TargetUnit,TargetFlowUUID,Mapper,Verifier,LastUpdated
-EPA_CDDPath,Asphalt Shingles,,,short tons,,907.185,roofing,Other Petroleum Products,product/asphalt,kg,e18c63d4-a1c8-3ac0-a802-16002c6c8b56,Edelen,Young,9/2/2021
-EPA_CDDPath,Bricks,,,short tons,,907.185,brick,Mineral,product/clay,kg,7c9b51e3-055b-3034-b1ac-e4582de2198c,Edelen,Young,9/2/2021
-EPA_CDDPath,Concrete,,,short tons,,907.185,aggregate,Aggregate,material/concrete,kg,11556c94-56c9-308e-9396-91b36b70f7bb,Edelen,Young,9/2/2021
-EPA_CDDPath,Gypsum Drywall,,,short tons,,907.185,drywall,Mineral,product/gypsum,kg,65e71406-16ce-325b-bbf0-352618ff0777,Edelen,Young,9/2/2021
-EPA_CDDPath,Metal,,,short tons,,907.185,metal,Metal,material/metal,kg,c78b43aa-30de-35aa-b19c-23fa309b67b5,Edelen,Young,9/2/2021
-EPA_CDDPath,Reclaimed Asphalt Pavement,,,short tons,,907.185,pavement,Other Petroleum Products,product/asphalt,kg,3205662d-26c1-38d2-83ff-b9782242181f,Edelen,Young,9/2/2021
-EPA_CDDPath,Wood,,,short tons,,907.185,wood,Wood,material/wood,kg,56fcd52c-7e84-37e7-b3c6-a93205ddba89,Edelen,Young,9/2/2021
-EPA_CDDPath,"Organics (e.g., Land Clearing Debris)",,,short tons,,907.185,biomass,Biomass,material/biomass,kg,b428dae4-a75e-3937-8fc5-02a6f89d2c25,Edelen,Young,9/2/2021
-EPA_CDDPath,Cardboard,,,short tons,,907.185,paper,Paper,material/paperboard,kg,fa958ef9-3efa-3676-9da9-3f2e0eaf8ca9,Edelen,Young,9/2/2021
-EPA_CDDPath,Carpet,,,short tons,,907.185,carpet,Textile,product/fiber,kg,deb84e61-bd47-3f5b-9e19-26f763b89734,Edelen,Young,9/2/2021
-EPA_CDDPath,Fines,,,short tons,,453.5925,aggregate,Aggregate,material/sand,kg,4d1da9a0-5948-3cf9-b1f0-30260ff5d967,Edelen,Young,9/2/2021
-EPA_CDDPath,Fines,,,short tons,,453.5925,aggregate,Aggregate,material/gravel,kg,3df1e469-ded0-343f-80b5-acd37b199974,Edelen,Young,9/2/2021
-EPA_CDDPath,Glass,,,short tons,,907.185,glass,Glass,material/glass,kg,1eeb66da-12c8-3994-841e-63cea3655e3c,Edelen,Young,9/2/2021
-EPA_CDDPath,Plastic,,,short tons,,907.185,plastic,Plastic,material/plastic,kg,ae371214-efd9-3d91-94b9-68d536db02e7,Edelen,Young,9/2/2021
+EPA_CDDPath,Asphalt Shingles,,,short tons,,907.185,,,,,,,,
+EPA_CDDPath,Bricks,,,short tons,,907.185,brick,Mineral,waste/clay,kg,5896582d-5409-3734-8884-4b5f341750e6,Ingwersen,,7/22/2022
+EPA_CDDPath,Concrete,,,short tons,,907.185,aggregate,Aggregate,waste/concrete,kg,b4b33778-d319-38d7-8a5b-6c02246d6596,Ingwersen,,7/22/2022
+EPA_CDDPath,Gypsum Drywall,,,short tons,,907.185,drywall,Mineral,waste/gypsum,kg,5eff16d9-2662-345c-ac35-7ad926c4e173,Ingwersen,,7/22/2022
+EPA_CDDPath,Metal,,,short tons,,907.185,metal,Metal,waste/metal/mixed,kg,1bb1b3b8-4911-38b9-8be8-ca6805e00f06,Ingwersen,,7/22/2022
+EPA_CDDPath,Reclaimed Asphalt Pavement,,,short tons,,907.185,,,,,,,,
+EPA_CDDPath,Wood,,,short tons,,907.185,wood,Wood,waste/wood/mixed,kg,be7fc0d0-c9a5-35da-abf1-4c38e87b8da7,Ingwersen,Young,7/21/2022
+EPA_CDDPath,"Organics (e.g., Land Clearing Debris)",,,short tons,,907.185,biomass,Biomass,waste/biomass/mixed,kg,b428dae4-a75e-3937-8fc5-02a6f89d2c25,Edelen,Young,9/2/2021
+EPA_CDDPath,Cardboard,,,short tons,,907.185,,,,,,,,
+EPA_CDDPath,Carpet,,,short tons,,907.185,,,,,,,,
+EPA_CDDPath,Fines,,,short tons,,453.5925,,,,,,,,
+EPA_CDDPath,Fines,,,short tons,,453.5925,,,,,,,,
+EPA_CDDPath,Glass,,,short tons,,907.185,glass,Glass,waste/glass/mixed,kg,cf621586-b57e-3849-9bb8-f6aac95c794d,Ingwersen,,7/22/2022
+EPA_CDDPath,Plastic,,,short tons,,907.185,plastic,Plastic,waste/plastic/mixed,kg,,Ingwersen,,7/21/2022
+EPA_CDDPath,Concrete waste,,,short tons,,907.185,aggregate,Aggregate,waste/concrete,kg,b4b33778-d319-38d7-8a5b-6c02246d6596,Ingwersen,,7/22/2022
+EPA_CDDPath,Aggregate- Drain Rock,,,short tons,,,,,,,,,,
+EPA_CDDPath,Aggregate- Other Construction,,,short tons,,,,,,,,,,
+EPA_CDDPath,Aggregate- Road Base,,,short tons,,,,,,,,,,
+EPA_CDDPath,Remanufacture - Concrete,,,short tons,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
