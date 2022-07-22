@@ -1,23 +1,23 @@
 SourceListName,SourceFlowName,SourceFlowUUID,SourceFlowContext,SourceUnit,MatchCondition,ConversionFactor,TargetFlowName,TargetFlowClass,TargetFlowContext,TargetUnit,TargetFlowUUID,Mapper,Verifier,LastUpdated
-EPA_CDDPath,Asphalt Shingles,,,short tons,,907.185,,,,,,,,
+EPA_CDDPath,Asphalt Shingles,,,short tons,,907.185,roofing,Other petroleum products,waste/asphalt,kg,9f6d0582-6553-3b66-8c8e-3eebc6aa244c,Ingwersen,,7/22/2022
 EPA_CDDPath,Bricks,,,short tons,,907.185,brick,Mineral,waste/clay,kg,5896582d-5409-3734-8884-4b5f341750e6,Ingwersen,,7/22/2022
 EPA_CDDPath,Concrete,,,short tons,,907.185,aggregate,Aggregate,waste/concrete,kg,b4b33778-d319-38d7-8a5b-6c02246d6596,Ingwersen,,7/22/2022
 EPA_CDDPath,Gypsum Drywall,,,short tons,,907.185,drywall,Mineral,waste/gypsum,kg,5eff16d9-2662-345c-ac35-7ad926c4e173,Ingwersen,,7/22/2022
 EPA_CDDPath,Metal,,,short tons,,907.185,metal,Metal,waste/metal/mixed,kg,1bb1b3b8-4911-38b9-8be8-ca6805e00f06,Ingwersen,,7/22/2022
-EPA_CDDPath,Reclaimed Asphalt Pavement,,,short tons,,907.185,,,,,,,,
-EPA_CDDPath,Wood,,,short tons,,907.185,wood,Wood,waste/wood/mixed,kg,be7fc0d0-c9a5-35da-abf1-4c38e87b8da7,Ingwersen,Young,7/21/2022
-EPA_CDDPath,"Organics (e.g., Land Clearing Debris)",,,short tons,,907.185,biomass,Biomass,waste/biomass/mixed,kg,b428dae4-a75e-3937-8fc5-02a6f89d2c25,Edelen,Young,9/2/2021
-EPA_CDDPath,Cardboard,,,short tons,,907.185,,,,,,,,
-EPA_CDDPath,Carpet,,,short tons,,907.185,,,,,,,,
-EPA_CDDPath,Fines,,,short tons,,453.5925,,,,,,,,
-EPA_CDDPath,Fines,,,short tons,,453.5925,,,,,,,,
+EPA_CDDPath,Reclaimed Asphalt Pavement,,,short tons,,907.185,pavement,Other petroleum products,waste/asphalt,kg,1519208b-3b4a-3568-b74b-fba02faf904f,Ingwersen,,7/22/2022
+EPA_CDDPath,Wood,,,short tons,,907.185,wood,Wood,waste/wood/mixed,kg,be7fc0d0-c9a5-35da-abf1-4c38e87b8da7,Ingwersen,,7/21/2022
+EPA_CDDPath,"Organics (e.g., Land Clearing Debris)",,,short tons,,907.185,biomass,Biomass,waste/biomass/mixed,kg,b428dae4-a75e-3937-8fc5-02a6f89d2c25,Ingwersen,,7/21/2022
+EPA_CDDPath,Cardboard,,,short tons,,907.185,paper,Paper,waste/paperboard/corrugated,kg,0d763155-76a7-3e75-befc-2d363b960ce4,Ingwersen,,7/22/2022
+EPA_CDDPath,Carpet,,,short tons,,907.185,carpet,Textile,waste/fiber/mixed,kg,7c0072f8-d0ac-3d66-af72-35945436bfe3,Ingwersen,,7/22/2022
+EPA_CDDPath,Fines,,,short tons,,453.5925,aggregate,Aggregate,waste/sand/fine grain,kg,945c7d7e-57aa-364f-9a5b-e8e89511c5f4,Ingwersen,,7/22/2022
+EPA_CDDPath,Fines,,,short tons,,453.5925,aggregate,Aggregate,waste/gravel/small grain,kg,4913e49e-7ff0-31e3-9457-669b111b77d4,Ingwersen,,7/22/2022
 EPA_CDDPath,Glass,,,short tons,,907.185,glass,Glass,waste/glass/mixed,kg,cf621586-b57e-3849-9bb8-f6aac95c794d,Ingwersen,,7/22/2022
-EPA_CDDPath,Plastic,,,short tons,,907.185,plastic,Plastic,waste/plastic/mixed,kg,,Ingwersen,,7/21/2022
+EPA_CDDPath,Plastic,,,short tons,,907.185,plastic,Plastic,waste/plastic/mixed,kg,52ec2985-4a23-31ed-876a-5400ef86e8f2,Ingwersen,,7/21/2022
 EPA_CDDPath,Concrete waste,,,short tons,,907.185,aggregate,Aggregate,waste/concrete,kg,b4b33778-d319-38d7-8a5b-6c02246d6596,Ingwersen,,7/22/2022
-EPA_CDDPath,Aggregate- Drain Rock,,,short tons,,,,,,,,,,
-EPA_CDDPath,Aggregate- Other Construction,,,short tons,,,,,,,,,,
-EPA_CDDPath,Aggregate- Road Base,,,short tons,,,,,,,,,,
-EPA_CDDPath,Remanufacture - Concrete,,,short tons,,,,,,,,,,
+EPA_CDDPath,Aggregate- Drain Rock,,,short tons,,907.185,aggregate,Aggregate,material/concrete,kg,11556c94-56c9-308e-9396-91b36b70f7bb,Ingwersen,,7/22/2022
+EPA_CDDPath,Aggregate- Other Construction,,,short tons,,907.185,aggregate,Aggregate,material/concrete,kg,11556c94-56c9-308e-9396-91b36b70f7bb,Ingwersen,,7/22/2022
+EPA_CDDPath,Aggregate- Road Base,,,short tons,,907.185,aggregate,Aggregate,material/concrete,kg,11556c94-56c9-308e-9396-91b36b70f7bb,Ingwersen,,7/22/2022
+EPA_CDDPath,Remanufacture - Concrete,,,short tons,,907.185,aggregate,Aggregate,material/concrete,kg,11556c94-56c9-308e-9396-91b36b70f7bb,Ingwersen,,7/22/2022
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
