@@ -11,9 +11,6 @@
 
  The version of the package (see [Releases](https://github.com/USEPA/materialflowlist/releases/))
  corresponds to the version of the flow list that it provides. The complete or 'master' list contains all valid flows for use in LCA data.
-  
-`materialflowlist` can export complete or subsets of the flow list and mapping files as a .zip archive of [JSON-LD](https://json-ld.org/)
- files conforming to the [openLCA schema](http://greendelta.github.io/olca-schema/).
 
 ## Disclaimer
 
