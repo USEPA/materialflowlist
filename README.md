@@ -10,7 +10,7 @@
    in the [input](https://github.com/USEPA/materialflowlist/tree/master/materialflowlist/input) directory.  
 
  The version of the package (see [Releases](https://github.com/USEPA/materialflowlist/releases/))
- corresponds to the version of the flow list that it provides. The complete or 'master' list contains all valid flows for use in LCA data.
+ corresponds to the version of the flow list that it provides. The complete or 'master' list contains all flows.
 
 ## Disclaimer
 
