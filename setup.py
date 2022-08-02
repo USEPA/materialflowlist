@@ -13,7 +13,7 @@ setup(
         'pandas>=0.22'],
     url='https://github.com/USEPA/materialflowlist.git',
     license='CC0',
-    author='Wesley Ingwersen, Ashley Edelen, Ben Young, Troy Hottle',
+    author='Ashley Edelen, Sarah Cashman, Ben Young, Wesley Ingwersen, Catherine Birney',
     author_email='ingwersen.wesley@epa.gov',
     classifiers=[
         "Development Status :: Alpha",
@@ -23,6 +23,5 @@ setup(
         "Programming Language :: Python :: 3.x",
         "Topic :: Utilities",
     ],
-    description='Compiles and provides a standardized list of technosphere '
-    'and waste flows for life cycle assessment'
+    description='Compiles and provides a standardized list of material flows'
 )
