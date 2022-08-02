@@ -1,8 +1,7 @@
 # materialflowlist
 
-`materialflowlist` is a Python package that generates and provides a standardized material flow list for use in life cycle assessment (LCA) data
- as well as mappings to convert data from other sources. This list supports the [Federal LCA Commons](http://www.lcacommons.gov),
- where preferred flows from the active version of the flow list produced by this package can be found in formats for use in LCA software.
+`materialflowlist` is a Python package that generates and provides a standardized material flow list 
+ as well as mappings to convert data from other sources. 
 
  Standard formats for a [Flow List](./format%20specs/FlowList.md)
  and a [Flow Mapping](./format%20specs/FlowMapping.md) are defined and provided by `materialflowlist`.
@@ -15,9 +14,6 @@
   
 `materialflowlist` can export complete or subsets of the flow list and mapping files as a .zip archive of [JSON-LD](https://json-ld.org/)
  files conforming to the [openLCA schema](http://greendelta.github.io/olca-schema/).
-
-See the [Wiki](https://github.com/USEPA/materialflowlist/wiki/) for installation, more info on repository
-contents, use examples, and for instructions on how to contribute to the flow list through additions or edits to flows or flow mappings.
 
 ## Disclaimer
 
